@@ -23,28 +23,6 @@
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
-        "link": "https://workspace.google.com/blog/product-announcements/october-workspace-drop-ai-storytelling-research-and-data-protections",
-        "title": "October Workspace Drop: New AI-powered storytelling, research, and data protections",
-        "thumbnail": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Workspace_drops_hero_image.max-1300x1300_1.max-700x700.png",
-        "author": "The Google Workspace Team ",
-        "read_time": "4-minute",
-        "track": "product announcements",
-        "description": "Discover October's Google Workspace updates, from enhanced creativity with Gemini in Vids and Slides to intelligent security and AI assistance.",
-        "published_date": "2025-10-29 19:10:00"
-    },
-    {
-        "website": "GOOGLE_WORKSPACE_BLOG",
-        "link": "https://workspace.google.com/blog/ai-and-machine-learning/cultivating-an-ai-native-mindset",
-        "title": "Cultivating an AI-native mindset",
-        "thumbnail": "https://storage.googleapis.com/gweb-cloudblog-publish/images/5492f_GWS_Cultivating_an_AI-native_mindset_B.max-700x700.jpg",
-        "author": "Pat McCarthy",
-        "read_time": "4-minute",
-        "track": "ai and machine learning",
-        "description": "Learn 5 ways to cultivate an AI-native mindset within your teams using Google Workspace tools like Gemini, Gems, and NotebookLM.",
-        "published_date": "2025-10-23 19:10:00"
-    },
-    {
-        "website": "GOOGLE_WORKSPACE_BLOG",
         "link": "https://workspace.google.com/blog/ai-and-machine-learning/cultivating-an-ai-native-mindset",
         "title": "Cultivating an AI-native mindset",
         "thumbnail": "https://storage.googleapis.com/gweb-cloudblog-publish/images/5492f_GWS_Cultivating_an_AI-native_mindset_B.max-700x700.jpg",
@@ -67,17 +45,6 @@
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
-        "link": "https://workspace.google.com/blog/customer-stories/augustana-university-building-future-with-google-workspace-and-notebooklm",
-        "title": "How Augustana University is building its future with Google Workspace and NotebookLM",
-        "thumbnail": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Augustana-University_Blog_Hero.max-700x700.jpg",
-        "author": "Dr. Peter Folliard",
-        "read_time": "4-minute",
-        "track": "customer stories",
-        "description": "Augustana University uses Google Workspace for Education Plus to save on operational costs, improve administrative efficiency, and introduce new AI-forward teaching strategies.",
-        "published_date": "2025-10-22 22:10:00"
-    },
-    {
-        "website": "GOOGLE_WORKSPACE_BLOG",
         "link": "https://workspace.google.com/blog/product-announcements/m365-alternative-business-continuity",
         "title": "Break free from Microsoft 365\u2019s lock-in, vulnerabilities, and outages with Google Workspace and partners",
         "thumbnail": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Google_Workspace_with_Gemini_Blog_Hero_1.max-1800x1800.png",
@@ -86,28 +53,6 @@
         "track": "product announcements",
         "description": "Google Workspace launches two new plans\u2014Business Continuity and Work Transformation Set\u2014to help organizations avoid Microsoft 365 outages and replace legacy tools with secure, AI-powered solutions.",
         "published_date": "2025-10-16 15:10:00"
-    },
-    {
-        "website": "GOOGLE_WORKSPACE_BLOG",
-        "link": "https://workspace.google.com/blog/product-announcements/m365-alternative-business-continuity",
-        "title": "Break free from Microsoft 365\u2019s lock-in, vulnerabilities, and outages with Google Workspace and partners",
-        "thumbnail": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Google_Workspace_with_Gemini_Blog_Hero_1.max-1800x1800.png",
-        "author": "Cameron Wallin",
-        "read_time": "5-minute",
-        "track": "product announcements",
-        "description": "Google Workspace launches two new plans\u2014Business Continuity and Work Transformation Set\u2014to help organizations avoid Microsoft 365 outages and replace legacy tools with secure, AI-powered solutions.",
-        "published_date": "2025-10-16 15:10:00"
-    },
-    {
-        "website": "GOOGLE_WORKSPACE_BLOG",
-        "link": "https://workspace.google.com/blog/productivity-collaboration/small-but-mighty-ways-gemini-boosts-my-workday",
-        "title": "Small but mighty ways Gemini boosts my workday",
-        "thumbnail": "https://storage.googleapis.com/gweb-cloudblog-publish/images/5492e_BYA_Small_but_mighty_ways_Gemini_strea.max-700x700.jpg",
-        "author": "Laura Mae Martin",
-        "read_time": "3-minute",
-        "track": "productivity and collaboration",
-        "description": "Discover how Google's productivity expert, Laura Mae Martin, uses Google Workspace with Gemini to boost her daily productivity.",
-        "published_date": "2025-10-09 22:10:00"
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -141,28 +86,6 @@
         "track": "customer stories",
         "description": "Trondheim, Norway, a city blending history with tech, uses Google Workspace with Gemini to boost public services, creativity, and efficiency for its 15,000 employees.",
         "published_date": "2025-10-03 00:10:00"
-    },
-    {
-        "website": "GOOGLE_WORKSPACE_BLOG",
-        "link": "https://workspace.google.com/blog/customer-stories/trondheim-enhance-productivity-and-creativity-with-gemini",
-        "title": "Trondheim\u2019s municipal employees use Gemini to enhance productivity and creativity, yielding improved public services",
-        "thumbnail": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Hero_UyTlk1v.max-700x700.jpg",
-        "author": "The Google Workspace Team ",
-        "read_time": "5-minute",
-        "track": "customer stories",
-        "description": "Trondheim, Norway, a city blending history with tech, uses Google Workspace with Gemini to boost public services, creativity, and efficiency for its 15,000 employees.",
-        "published_date": "2025-10-03 00:10:00"
-    },
-    {
-        "website": "GOOGLE_WORKSPACE_BLOG",
-        "link": "https://workspace.google.com/blog/product-announcements/ai-ransomware-detection-in-google-drive",
-        "title": "Block ransomware proliferation and easily restore files with AI in Google Drive",
-        "thumbnail": "https://storage.googleapis.com/gweb-cloudblog-publish/images/GWS_Blog_header_Digital_sovereignty_no_tit.m.max-700x700_jdE4u7E.png",
-        "author": "Luke Camery",
-        "read_time": "4-minute",
-        "track": "product announcements",
-        "description": "Google Drive for desktop now features AI-powered ransomware detection to automatically pause syncing and enable fast, simple file restoration.",
-        "published_date": "2025-09-30 16:09:00"
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -922,17 +845,6 @@
         "track": "identity and security",
         "description": "We're pleased to announce that Google Cloud has been recognized as a Leader in The Forrester Wave\u2122: Data Security Platforms, Q1 2025 report.",
         "published_date": "2025-03-06 00:03:00"
-    },
-    {
-        "website": "GOOGLE_WORKSPACE_BLOG",
-        "link": "https://workspace.google.com/blog/ai-and-machine-learning/how-our-customers-transform-work-with-ai",
-        "title": "Google Workspace with Gemini: 128 ways our customers are transforming how they work with AI",
-        "thumbnail": "https://storage.googleapis.com/gweb-cloudblog-publish/images/unnamed_44_gSJzPA1.max-700x700.png",
-        "author": "The Google Workspace Team ",
-        "read_time": "17-minute",
-        "track": "ai and machine learning",
-        "description": "Explore 128 ways our customers use Google Workspace with Gemini",
-        "published_date": "2025-03-05 21:03:00"
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
