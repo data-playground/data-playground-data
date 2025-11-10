@@ -1,0 +1,152 @@
+[
+    {
+        "website": "YOUTUBE_GOOGLE_CLOUD",
+        "link": "https://www.youtube.com/watch?v=zJjqNqVIf0c",
+        "title": "Make code reviews your most effective line of defense with Qodo and Google Cloud",
+        "thumbnail": "https://www.youtube.com/v/zJjqNqVIf0c?version=3",
+        "author": "Google Cloud",
+        "track": null,
+        "description": "Head to http://qodo.ai to learn how to revolutionize your software development with Qodo, the intelligent code integrity platform built on Google Cloud. Empower your developers with a comprehensive suite of AI agents for code generation, automated testing, and insightful reviews, leading to significantly enhanced code quality, streamlined workflows, and accelerated delivery cycles. Leverage the power of context-aware AI, seamlessly integrated into your existing IDEs and Git platforms, all underpinned by the reliability and performance of Google Cloud.",
+        "published_date": "2025-11-07 14:01:52"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_CLOUD",
+        "link": "https://www.youtube.com/watch?v=-wEDi5fjrsw",
+        "title": "New Way Now: Costco processes bulk-size data with AI for better member experience",
+        "thumbnail": "https://www.youtube.com/v/-wEDi5fjrsw?version=3",
+        "author": "Google Cloud",
+        "track": null,
+        "description": "*Featured in this video:* Harish Rao, Global VP of Data and Analytics for Costco Wholesale\n\n*Executive summary:* Beloved bulk retailer Costco operates more than 900 warehouses globally, with members getting discounts on everything from food to flights. To serve its members with great experiences, value, and products across any channel \u2014 in-person, via email, mobile app, or marketplace \u2014 the data team needed to build a member 360 view. Costco chose Google Cloud\u2019s data and AI tools and partnered with Accenture to build its Unified Data Platform. The new platform brings trusted data to its 175,000 users, helping them to make better, faster decisions. And suppliers can better understand member behavior through aggregated data, all with the same goal: bringing value to members and delighting them with the merchandise in any Costco warehouse. Using Vertex and Gemini AI capabilities was foundational to the new platform\u2019s ability to empower and expand teams\u2019 work.\n\n*Challenge:* Costco maintains massive amounts of data and needed a modern data and AI platform to add even more innovation, efficiency, and flexibility to help its teams meet their shared goal of bringing value to members. With so many partners, hyperscalers, and technologies available, and with so much data, Costco enlisted Accenture\u2019s help in researching and creating the right omnichannel solution.\n\n*Solution:* Costco knew they would need a large data and AI footprint, so Google Cloud\u2019s product depth, hyperscale, cost-effectiveness, and native capabilities were the right fit. Costco\u2019s team built a robust platform, allowing them to democratize data to teams across the company and open up new opportunities, such as helping merchandisers understand sales and inventory positions, track promotion performance, and improve return and other processes.\n\n*Results:* The data team has already seen short-term wins with its unified platform, such as cutting the time required to create new audiences from several weeks to 30 minutes. Suppliers can access aggregated data about member shopping behavior to tailor their offerings. In the longer term, Costco is using data and AI technology to bring more value to members and to the bottom line. As Costco\u2019s leadership prepares to profitably double the company size in the next decade, AI capabilities will be crucial for omnichannel measurement, flexibility, and speed.\n\n*Key takeaways and highlights from our interview with Harish Rao, Global VP of Data and Analytics for Costco Wholesale:*\n\n\u2192 \u201cCostco's philosophy is to think about continuous improvement. This partnership is not just, \u2018scale and you\u2019re done.\u2019 It\u2019s about continuous innovation to deliver superior member experience. That is who we are at Costco, and that applies to everything.\u201d \n\n\u2192 \u201cThe digital transformation journey is nothing generic that you can pick from. It all depends on your core values and core principles. We go back to our core value proposition of delivering superior member experience, delivering great product and great value. This is a great opportunity for Costco to look at a complete 360-degree view of our members.\u201d\n\n\u2192 \u201cThe expectation is to double the company over the next decade. Imagine when you\u2019re a $500 billion enterprise, what does that really look like? The business model is not just to drive a broader revenue model. It goes back to how we drive more value to our members and suppliers.\u201d\n\n*Google Cloud products used:* Vertex AI, Gemini, BigQuery, Bigtable\n\n*Learn more:*\n\n\u2192 Accenture\u2019s Enterprise CTO: \u201cGen AI really changes how we interact with all kinds of work\u201d https://cloud.google.com/transform/accentures-enterprise-cto-gen-ai-changes-how-we-interact-with-all-kinds-of-work\n\n\u2192 Empowering retailers with AI for commerce, marketing, supply chains, and more https://cloud.google.com/blog/topics/retail/retail-cpg-ai-partner-ecosystem-nrf-2025 \n\n\u2192 Realize the True Potential of Omnichannel https://cloud.google.com/files/apigee/apigee-realize-true-potential-of-omnichannel-ebook.pdf",
+        "published_date": "2025-11-07 00:22:16"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_CLOUD",
+        "link": "https://www.youtube.com/watch?v=foXQKYDprTo",
+        "title": "ANOf: The Autonomous Network. Now.",
+        "thumbnail": "https://www.youtube.com/v/foXQKYDprTo?version=3",
+        "author": "Google Cloud",
+        "track": null,
+        "description": "The future of network operations isn't just automation, it's autonomy. This is ANOf: a \"digital workforce\" of coordinated AI agents that predict faults, diagnose root causes, and resolve issues. See the self-healing, self-optimizing network in action.",
+        "published_date": "2025-11-06 20:20:54"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_CLOUD",
+        "link": "https://www.youtube.com/watch?v=zJKp8xVmX2A",
+        "title": "Get real-world evidence at your fingertips",
+        "thumbnail": "https://www.youtube.com/v/zJKp8xVmX2A?version=3",
+        "author": "Google Cloud",
+        "track": null,
+        "description": "Atropos Health on Google Cloud rapidly generates real-world evidence for your clinical questions. This can help you advance precision medicine - whether for complex patient care or drug discovery and development. Get answers you can trust with our transparent methodology and keep your data within your own firewall.",
+        "published_date": "2025-11-06 14:01:46"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_CLOUD",
+        "link": "https://www.youtube.com/watch?v=coPKHrE2ATI",
+        "title": "Google Cloud unboxes seventh generation Ironwood TPU",
+        "thumbnail": "https://www.youtube.com/v/coPKHrE2ATI?version=3",
+        "author": "Google Cloud",
+        "track": null,
+        "description": "Amin Vahdat, VP & GM of AI and infrastructure at Google Cloud, takes you inside the Google TPU lab before an unboxing of our seventh generation TPU, Ironwood.",
+        "published_date": "2025-11-06 13:01:19"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_CLOUD",
+        "link": "https://www.youtube.com/watch?v=FKOW91QQCA4",
+        "title": "Google Custom Silicon: Meet Ironwood TPUs & new Axion VMs",
+        "thumbnail": "https://www.youtube.com/v/FKOW91QQCA4?version=3",
+        "author": "Google Cloud",
+        "track": null,
+        "description": "Get the highlight from our recent keynote: We're excited to announce two major updates to the Google Cloud compute portfolio.\n- Ironwood TPU Platform: Our 7th-generation, most powerful, and energy-efficient TPU, purpose-built for high-performance inference and model serving.\n- New Arm\u00ae-based Axion instances: N4A, our most cost-effective N series virtual machine to date, is now in preview. N4A offers up to 2x better price-performance than comparable current-generation x86-based VMs. We are also pleased to announce C4A metal, our first Arm-based bare metal instance, will be coming soon in preview.\n\nTo learn more, read the announcement article: https://g.co/cloud/ironwood-axion",
+        "published_date": "2025-11-06 13:00:34"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_CLOUD",
+        "link": "https://www.youtube.com/watch?v=aQxcomQDHcw",
+        "title": "Announcing Ironwood TPUs General Availability and new Axion VMs to power the age of inference",
+        "thumbnail": "https://www.youtube.com/v/aQxcomQDHcw?version=3",
+        "author": "Google Cloud",
+        "track": null,
+        "description": "Join Mark Lohmeyer, VP/GM of AI and Computing Infrastructure at Google Cloud, as he introduces the next generation of AI infrastructure, co-designed to meet the challenges of the \"age of inference.\"\nThis video unveils two major updates to the Google Cloud compute portfolio: the Ironwood TPU platform and new Axion Arm-based processors.\n\nLearn how Ironwood, our 7th-generation TPU, delivers breakthrough performance and energy efficiency for large-scale model serving and training. Mark details how Ironwood functions as a complete system\u2014part of our AI Hypercomputer\u2014with innovations in networking (ICI & OCS), liquid cooling, and software (vLLM, GKE Inference Gateway).\n\nThen, discover how the new N4A and C4A.metal Axion VMs provide price-performance for the general-purpose workloads that support your AI applications, from data preprocessing to web serving.\nSee how Google's full-stack, co-designed approach is delivering efficiency gains and powering the future of AI for customers and for Google's own products like Gemini, Search, and YouTube.\n\nTo learn more, read the announcement article: https://g.co/cloud/ironwood-axion",
+        "published_date": "2025-11-06 13:00:04"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_CLOUD",
+        "link": "https://www.youtube.com/watch?v=ab6UudZxqak",
+        "title": "Transform Products into Stunning 3D Visuals with Imagine.io & Google Cloud",
+        "thumbnail": "https://www.youtube.com/v/ab6UudZxqak?version=3",
+        "author": "Google Cloud",
+        "track": null,
+        "description": "Ignite your brand's potential with Imagine.io and Google Cloud! Our Visual Scale solution offers the fastest path to high-quality, 3D visuals at scale, powered by generative AI.\n\nBoost sales and accelerate market agility for every product. Generate stunning, photorealistic lifestyle images in seconds from basic product shots or CAD data. Google Gemini helps us understand your products to create compelling imagery for e-commerce and omnichannel marketing.\n\nRevolutionize visual creation:\n\n-Launch products faster by slashing months off your go-to-market timeline.\n-Boost online conversions and streamline omnichannel marketing.\n-Speed up development by visualizing concepts without physical prototypes.\n\nSee how GenAI transforms basic product shots into scroll-stopping content.\n\nVisit http://imagine.io to learn more!",
+        "published_date": "2025-11-05 14:00:04"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_CLOUD",
+        "link": "https://www.youtube.com/watch?v=c3WSg0Bpmt4",
+        "title": "Conversational Analytics API",
+        "thumbnail": "https://www.youtube.com/v/c3WSg0Bpmt4?version=3",
+        "author": "Google Cloud",
+        "track": null,
+        "description": "Get started today by following our documentation and unlock the speed of AI for your data: https://cloud.google.com/gemini/docs/conversational-analytics-api/overview\n\nThe Looker Conversational Analytics API provides a transformative way to interact with data, moving beyond traditional dashboards by allowing users to ask questions in natural language (like \"Show me top-selling products last quarter\"). Powered by Gemini for Google Cloud, the API leverages the Looker semantic layer (LookML) to ensure that every query is accurate, governed, and based on consistent business definitions, thus acting as a single source of truth. This technology empowers developers to embed trusted, AI-powered analytics directly into custom applications, internal portals, or workflows\u2014eliminating context switching, democratizing data access, and ultimately accelerating the speed at which organizations can make reliable, data-driven decisions.",
+        "published_date": "2025-11-05 05:01:00"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_CLOUD",
+        "link": "https://www.youtube.com/watch?v=w-lRv6ldpt4",
+        "title": "Salesforce and Google Cloud Help Simplify Account Management for Berlin Packaging",
+        "thumbnail": "https://www.youtube.com/v/w-lRv6ldpt4?version=3",
+        "author": "Google Cloud",
+        "track": null,
+        "description": "Learn more about the Salesforce and Google Cloud partnership: https://goo.gle/4nHC4zo\n\nWatch how Berlin Packaging streamlines sales operations with Salesforce Agentforce and Google Gemini.",
+        "published_date": "2025-11-04 21:07:29"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_CLOUD",
+        "link": "https://www.youtube.com/watch?v=cqXFlPAnTjA",
+        "title": "Salesforce and Google Cloud Help Harvey Nichols Personalize at Scale.",
+        "thumbnail": "https://www.youtube.com/v/cqXFlPAnTjA?version=3",
+        "author": "Google Cloud",
+        "track": null,
+        "description": "Learn more about the Salesforce and Google Cloud partnership: https://goo.gle/4nHC4zo\n\nWatch how Harvey Nichols transforms customer loyalty with Salesforce Data 360 and Google BigQueary.",
+        "published_date": "2025-11-04 17:01:15"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_CLOUD",
+        "link": "https://www.youtube.com/watch?v=eY58H1B_8Zs",
+        "title": "New Way Now: Mobile services get smarter at LG U+ with help from Google AI",
+        "thumbnail": "https://www.youtube.com/v/eY58H1B_8Zs?version=3",
+        "author": "Google Cloud",
+        "track": null,
+        "description": "*Featured in this video:* SeokYoung Lee, Director, Head of Mobile Agent Services at LG U+\n\n*Executive summary:* Mobile network operator LG U+ chose Google Cloud AI to enhance on-device features for its more than 18 million subscribers across South Korea. As LG U+ continually works to bring customers convenient, easy-to-use mobile devices, they\u2019ve used Gemini and Vertex AI to add call summarization, visual call interfaces, spam detection, and AI call answering for users. In the competitive telecom market, and as LG U+ prepares for international expansion, the company chose Google AI products to differentiate its services and grow revenue. \n\n*Challenge:* LG U+ aimed to expand its services beyond South Korea, but needed to add to its existing capabilities quickly to serve users in real time with helpful, convenient AI features.\n \n*Solution:* The mobile agent services team integrated Gemini into its ixi-O phone agent for more actionable AI that can understand user intent and respond accordingly. The LG U+ ixi-O One agent pairs its own device AI \u2014 which transcribes and records calls in real time \u2014 with Gemini, which performs sophisticated analysis to summarize conversations and suggest follow-up actions. Next, the mobile agent team will use Vertex AI to add features that recommend responses during calls based on content searches, as well as retrieve relevant locations, objects and contextual information. \n\n*Results:* With newly expanded AI capabilities, LG U+ will expand internationally, partnering with both Google and other telecom companies. The team\u2019s plans for the coming year include building even deeper data-driven customer understanding into its products and creating an advanced autonomous agent. \n\n*Key takeaways and highlights from our interview with SeokYoung Lee, Director, Head of Mobile Agent Services at LG U+:*\n\n\u2192 \u201cOur team\u2019s motto is \u2018turning imagination into reality.\u2019 Google plays two key roles in this: first is enhancing our imagination, and second is providing practical technologies and solutions that make our ideas real.\u201d \n\n\u2192 \u201cAt LG U+, gen AI and Vertex AI are helping us with a smarter call agent, ixi-O. The problems we aim to solve with ixi-O One were not new, but solving them with AI was incredibly exciting.\u201d\n\n\u2192 \u201cAI allows everyone to start again from the same starting line. Even large businesses can be completely transformed by AI. Telecom companies have been offering similar services, but AI can create entirely new differentiation.\u201d\n\n\u2192 \u201cThe most valuable benefit we get from collaborating with Google is that Google has a complete stack of AI. For example, Google Cloud has AI Hypercomputer and research and models and also has Vertex AI to build an agile agent.\u201d\n\n*Google Cloud products used:* Gemini, Vertex AI\n\n*Learn more:*\n\n\u2192 The AI-driven telecom: A new era of network transformation https://cloud.google.com/blog/topics/telecommunications/the-ai-driven-telecom-a-new-era-of-network-transformation\n\n\u2192 Next \u201925 recap: Telecommunications https://cloud.google.com/transform/telco-next25-wrapup-telco-cloud-news \n\n\u2192 Here to serve Korea\u2019s businesses with a new GCP region in Seoul\nhttps://cloud.google.com/blog/products/infrastructure/new-gcp-region-in-seoul",
+        "published_date": "2025-11-04 01:00:51"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_CLOUD",
+        "link": "https://www.youtube.com/watch?v=CT-ib9oU_EM",
+        "title": "Supercharging Generative Voice AI: Resemble AI + Google Cloud Managed Lustre",
+        "thumbnail": "https://www.youtube.com/v/CT-ib9oU_EM?version=3",
+        "author": "Google Cloud",
+        "track": null,
+        "description": "Zohaib Ahmed, CEO and Teddy Papajorgji, VP Engineering at Resemble.AI share how Resemble.AI is accelerating their generative AI model training times by saturating their GPUs with Google Cloud Managed Lustre. Learn how Resemble.AI was able to reduce training time and costs, and deliver a better experience to their customers.\n\nLearn more about Google Cloud Managed Lustre here \u2192 https://goo.gle/4p3sl7J",
+        "published_date": "2025-11-03 18:42:45"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_CLOUD",
+        "link": "https://www.youtube.com/watch?v=6f0BWkXx970",
+        "title": "Beyond Gemini: Your complete guide to AI on Google Cloud",
+        "thumbnail": "https://www.youtube.com/v/6f0BWkXx970?version=3",
+        "author": "Google Cloud",
+        "track": null,
+        "description": "Are you feeling overwhelmed by the non-stop pace of AI innovation? It feels like the AI landscape changes every day! This video introduces the essential course, \"Introduction to AI and Machine Learning on Google Cloud,\" designed to take you from confusion to confident creation. We break down the complex world of AI, showing you how to pick up the most powerful tools Google Cloud has to offer\u2014no coding genius required!\n\nEnroll to become an AI expert \u2192 https://goo.gle/47Sf2kw\n\nThis course breaks down complex concepts into simple, practical steps, making predictive and generative AI accessible to everyone. Whether you're expanding your professional skills or just curious about the future, your AI journey starts here.",
+        "published_date": "2025-11-03 15:34:08"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_CLOUD",
+        "link": "https://www.youtube.com/watch?v=i4SoM_FG9HE",
+        "title": "How Yoodli trained 15,000 people with Google Cloud Consulting",
+        "thumbnail": "https://www.youtube.com/v/i4SoM_FG9HE?version=3",
+        "author": "Google Cloud",
+        "track": null,
+        "description": "Ready to disrupt your industry? Google Cloud Consulting can show you how\u2026https://goo.gle/3ZoyVem\n\nSee how Yoodli, an AI-powered communication coach, partnered with Google Cloud Consulting to deliver one of the biggest corporate training programs in Google's history. Varun Puri, CEO and co-founder of Yoodli, explains how they trained 15,000 people\u2014a task that would have taken six months with traditional methods\u2014by building personalized and customized AI role-play scenarios. Discover how Google Cloud Consulting provided early access to Gemini and expertise from the model garden to create a scalable, AI-driven learning solution.\"",
+        "published_date": "2025-11-03 13:01:26"
+    }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "website": "YOUTUBE_TABLEAU_FLERLAGE",
+        "link": "https://www.youtube.com/watch?v=AeKpQAVNLcE",
+        "title": "Labels Over Bars   A Different Method",
+        "thumbnail": "https://www.youtube.com/v/AeKpQAVNLcE?version=3",
+        "author": "The Flerlage Twins",
+        "track": null,
+        "description": "Check out a new method for placing labels over the bars in Tableau while being able to control how close the labels are to the bars.",
+        "published_date": "2025-10-27 12:58:33"
+    },
+    {
+        "website": "YOUTUBE_TABLEAU_FLERLAGE",
+        "link": "https://www.youtube.com/watch?v=SMotb-juFKU",
+        "title": "The Easiest Instructional Overlay Ever (Credit Zach Bowders)",
+        "thumbnail": "https://www.youtube.com/v/SMotb-juFKU?version=3",
+        "author": "The Flerlage Twins",
+        "track": null,
+        "description": "This is the EASIEST way to create a \"how to read\" overlay in Tableau. It takes two minutes and you don't have to even leave Tableau.",
+        "published_date": "2025-10-06 12:57:13"
+    },
+    {
+        "website": "YOUTUBE_TABLEAU_FLERLAGE",
+        "link": "https://www.youtube.com/watch?v=lhIfQOm_xjE",
+        "title": "Completely Change the way you use Tableau's Layout Containers",
+        "thumbnail": "https://www.youtube.com/v/lhIfQOm_xjE?version=3",
+        "author": "The Flerlage Twins",
+        "track": null,
+        "description": "This video will show you how to not get tripped up using layout container and give you the CRITICAL FIRST STEP in ensuring this doesn't happen. This all originated with Curtis Harris' video \"Things I know about layout containers\" (link below). It shows his method then walks through how I've learned to use it over the past 6 or 7 years. \n\nLink: https://www.youtube.com/watch?v=L1gC05jyMS8",
+        "published_date": "2025-05-22 19:43:28"
+    },
+    {
+        "website": "YOUTUBE_TABLEAU_FLERLAGE",
+        "link": "https://www.youtube.com/watch?v=GVPdr2_5jIs",
+        "title": "Build a Feedback Tool Into Your Tableau Workbook!!",
+        "thumbnail": "https://www.youtube.com/v/GVPdr2_5jIs?version=3",
+        "author": "The Flerlage Twins",
+        "track": null,
+        "description": "This tutorial from regular contributor, Kasia G\u0105siewska-Holc, shows a really creative way to collect interactive feedback from directly within your Tableau dashboard.",
+        "published_date": "2025-03-12 14:49:52"
+    },
+    {
+        "website": "YOUTUBE_TABLEAU_FLERLAGE",
+        "link": "https://www.youtube.com/watch?v=zcUEQS2O_Yo",
+        "title": "My Makeover Monday",
+        "thumbnail": "https://www.youtube.com/v/zcUEQS2O_Yo?version=3",
+        "author": "The Flerlage Twins",
+        "track": null,
+        "description": "I started the year by getting involved with MakeoverMonday and in this video, I'll walk through four examples. The intention is to help us recognize problems in the data, walk through my thought process, explore data in Tableau to find insights, discuss design choices, and build some charts in Tableau.",
+        "published_date": "2024-08-08 01:59:41"
+    },
+    {
+        "website": "YOUTUBE_TABLEAU_FLERLAGE",
+        "link": "https://www.youtube.com/watch?v=7aCf4wTKGHQ",
+        "title": "Favorites of 2021",
+        "thumbnail": "https://www.youtube.com/v/7aCf4wTKGHQ?version=3",
+        "author": "The Flerlage Twins",
+        "track": null,
+        "description": "Our favorite Tableau Public vizzes of 2021",
+        "published_date": "2023-04-03 13:03:16"
+    },
+    {
+        "website": "YOUTUBE_TABLEAU_FLERLAGE",
+        "link": "https://www.youtube.com/watch?v=6j4ppIc9vXI",
+        "title": "Custom Date Drill Down Trend Charts",
+        "thumbnail": "https://www.youtube.com/v/6j4ppIc9vXI?version=3",
+        "author": "The Flerlage Twins",
+        "track": null,
+        "description": "This tutorial from regular contributor, Kasia G\u0105siewska-Holc, shows a really creative way to create \"Custom Date Drill Down Trend Charts\".",
+        "published_date": "2023-04-03 13:02:38"
+    },
+    {
+        "website": "YOUTUBE_TABLEAU_FLERLAGE",
+        "link": "https://www.youtube.com/watch?v=xE2cv2Ga-ok",
+        "title": "Blank Unicode Character",
+        "thumbnail": "https://www.youtube.com/v/xE2cv2Ga-ok?version=3",
+        "author": "The Flerlage Twins",
+        "track": null,
+        "description": "Did you know there was such thing as a Blank Character?  And that there are some super cool things you can do with it in Tableau? Check out this video to see five of them.",
+        "published_date": "2022-10-03 12:09:15"
+    },
+    {
+        "website": "YOUTUBE_TABLEAU_FLERLAGE",
+        "link": "https://www.youtube.com/watch?v=dU4y_HILCtE",
+        "title": "5 Things You Can Do in Web Edit, But NOT Tableau Desktop",
+        "thumbnail": "https://www.youtube.com/v/dU4y_HILCtE?version=3",
+        "author": "The Flerlage Twins",
+        "track": null,
+        "description": "Did you know there are some super cool things you can do in Tableau's Web Edit that you CANNOT do in Tableau Desktop?  Check out this video to see five of them.",
+        "published_date": "2022-05-23 12:32:29"
+    },
+    {
+        "website": "YOUTUBE_TABLEAU_FLERLAGE",
+        "link": "https://www.youtube.com/watch?v=Ywpkc9G8nNk",
+        "title": "Single Sheet Trellis Chart Zoom",
+        "thumbnail": "https://www.youtube.com/v/Ywpkc9G8nNk?version=3",
+        "author": "The Flerlage Twins",
+        "track": null,
+        "description": "In Tableau, allow your users to zoom into any single chart within a trellis chart (small multiples) and create this all on a single sheet.",
+        "published_date": "2022-03-28 12:15:22"
+    },
+    {
+        "website": "YOUTUBE_TABLEAU_FLERLAGE",
+        "link": "https://www.youtube.com/watch?v=jardqTPckVo",
+        "title": "Tableau\u6570\u636e\u6545\u4e8b\u616728 A Little Obscure, A Little Random, and A Lot Useful \u5b57\u5e55\u6709\u6362\u884c\u7248 \u6709\u5220\u51cf (Chinese Subtitles)",
+        "thumbnail": "https://www.youtube.com/v/jardqTPckVo?version=3",
+        "author": "The Flerlage Twins",
+        "track": null,
+        "description": "In this presentation, the Flerlage Twins demonstrate several techniques for the Hong Kong Tableau User Group.  This presentation includes both English and Chinese subtitles.",
+        "published_date": "2022-03-20 14:07:29"
+    },
+    {
+        "website": "YOUTUBE_TABLEAU_FLERLAGE",
+        "link": "https://www.youtube.com/watch?v=9uQiIYPcxbw",
+        "title": "Ken & Kevin's Top Ten Favorite Tableau Public Visualizations of All Time",
+        "thumbnail": "https://www.youtube.com/v/9uQiIYPcxbw?version=3",
+        "author": "The Flerlage Twins",
+        "track": null,
+        "description": "In this video, Ken and Kevin reveal and discuss their favorite Tableau Public vizzes of all time.",
+        "published_date": "2021-12-06 13:08:18"
+    },
+    {
+        "website": "YOUTUBE_TABLEAU_FLERLAGE",
+        "link": "https://www.youtube.com/watch?v=ZZj61h62k-o",
+        "title": "One Calc Basic Beeswarm",
+        "thumbnail": "https://www.youtube.com/v/ZZj61h62k-o?version=3",
+        "author": "The Flerlage Twins",
+        "track": null,
+        "description": "In Tableau, create a \"Basic Beeswarm\" (more aptly named a centered unit histogram) with just a few steps and ONE calculation.  Check out the actual Tableau Public workbook here: https://public.tableau.com/profile/kevin.flerlage#!/vizhome/OneCalcBasicBeeswarm/OneCalcBasicBeeswarm",
+        "published_date": "2021-11-15 13:45:45"
+    },
+    {
+        "website": "YOUTUBE_TABLEAU_FLERLAGE",
+        "link": "https://www.youtube.com/watch?v=GRF_RLlRiJU",
+        "title": "Tiled Container Selector",
+        "thumbnail": "https://www.youtube.com/v/GRF_RLlRiJU?version=3",
+        "author": "The Flerlage Twins",
+        "track": null,
+        "description": "Tableau 2021.2 allows you to open/close tiled containers!  For more information, check out the blog post and example viz:\nBlog: https://www.flerlagetwins.com/2021/08/create-tiled-container-selector.html\nViz: https://public.tableau.com/app/profile/kevin.flerlage/viz/TiledContainerSelector/TiledContainerSelector",
+        "published_date": "2021-08-23 12:13:05"
+    },
+    {
+        "website": "YOUTUBE_TABLEAU_FLERLAGE",
+        "link": "https://www.youtube.com/watch?v=gJqLZc57GqQ",
+        "title": "Obscure PowerPoint Tips and Tricks for Dashboards",
+        "thumbnail": "https://www.youtube.com/v/gJqLZc57GqQ?version=3",
+        "author": "The Flerlage Twins",
+        "track": null,
+        "description": "We've done several blog posts on how to use PowerPoint with your dashboards, but this one shows you some more obscure PowerPoint tips and tricks.  Check out https://www.flerlagetwins.com/ for more Tableau, data, and PowerPoint blog posts.",
+        "published_date": "2021-08-09 12:04:48"
+    }
+]

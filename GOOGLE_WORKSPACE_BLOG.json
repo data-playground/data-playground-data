@@ -8,7 +8,17 @@
         "read_time": "3-minute",
         "track": "productivity and collaboration",
         "description": "Take prompting to the next level with Google\u2019s executive productivity advisor - Laura Mae Martin in our Because you asked series",
-        "published_date": "2025-11-05 21:11:00"
+        "published_date": "2025-11-05 21:11:00",
+        "summary": "This article outlines advanced prompting techniques for Google Workspace users to maximize Gemini's capabilities, emphasizing iterative refinement and structured input. Key strategies include assigning a persona to Gemini, setting specific constraints, providing concrete examples, and using a \"think step-by-step\" approach to achieve more accurate and detailed AI responses for tasks like brainstorming and content creation.",
+        "tags": [
+            "Gemini",
+            "Prompting",
+            "Google Workspace",
+            "AI",
+            "Productivity",
+            "Generative AI",
+            "Best Practices"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -19,7 +29,18 @@
         "read_time": "4-minute",
         "track": "product announcements",
         "description": "Discover October's Google Workspace updates, from enhanced creativity with Gemini in Vids and Slides to intelligent security and AI assistance.",
-        "published_date": "2025-10-29 19:10:00"
+        "published_date": "2025-10-29 19:10:00",
+        "summary": "The October Workspace Drop introduces new AI features, including Gemini's enhanced storytelling capabilities in Google Slides, now available to over 90% of eligible Workspace users, and expanded research assistance in NotebookLM with Google Scholar integration. Additionally, new data protection measures like Device Policy for Google Drive and Confidential Computing for Google Workspace are rolling out to enhance security and privacy.",
+        "tags": [
+            "Workspace Drop",
+            "Gemini",
+            "NotebookLM",
+            "Google Slides",
+            "Google Scholar",
+            "Data Protection",
+            "AI",
+            "Security"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -30,7 +51,17 @@
         "read_time": "4-minute",
         "track": "ai and machine learning",
         "description": "Learn 5 ways to cultivate an AI-native mindset within your teams using Google Workspace tools like Gemini, Gems, and NotebookLM.",
-        "published_date": "2025-10-23 19:10:00"
+        "published_date": "2025-10-23 19:10:00",
+        "summary": "Cultivating an 'AI-native mindset' involves viewing AI not just as a tool but as a collaborative partner, enabling individuals and teams to enhance productivity and creativity. Google Workspace promotes this by integrating Gemini across its applications, encouraging users to experiment, provide feedback, and continuously learn new prompting techniques to transform how work is done.",
+        "tags": [
+            "AI Mindset",
+            "Gemini",
+            "Google Workspace",
+            "Productivity",
+            "Innovation",
+            "Collaboration",
+            "Generative AI"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -41,7 +72,18 @@
         "read_time": "4-minute",
         "track": "customer stories",
         "description": "Augustana University uses Google Workspace for Education Plus to save on operational costs, improve administrative efficiency, and introduce new AI-forward teaching strategies.",
-        "published_date": "2025-10-22 22:10:00"
+        "published_date": "2025-10-22 22:10:00",
+        "summary": "Augustana University is leveraging Google Workspace and NotebookLM to enhance student and faculty productivity, collaboration, and learning experiences. NotebookLM, powered by Google's AI, helps students quickly research and synthesize information from diverse sources for projects, while the comprehensive Workspace suite facilitates seamless communication and content creation across the university.",
+        "tags": [
+            "Augustana University",
+            "NotebookLM",
+            "Google Workspace",
+            "Education",
+            "AI",
+            "Productivity",
+            "Collaboration",
+            "Customer Story"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -52,7 +94,17 @@
         "read_time": "5-minute",
         "track": "product announcements",
         "description": "Google Workspace launches two new plans\u2014Business Continuity and Work Transformation Set\u2014to help organizations avoid Microsoft 365 outages and replace legacy tools with secure, AI-powered solutions.",
-        "published_date": "2025-10-16 15:10:00"
+        "published_date": "2025-10-16 15:10:00",
+        "summary": "Google Workspace is presented as a robust alternative to Microsoft 365, offering enhanced business continuity through its secure, globally distributed infrastructure and 99.9% uptime SLA, even during major outages. The platform's built-in security features, including advanced threat protection and data sovereignty controls, provide resilience and peace of mind for organizations seeking reliable cloud productivity tools.",
+        "tags": [
+            "Google Workspace",
+            "Microsoft 365 Alternative",
+            "Business Continuity",
+            "Security",
+            "Cloud Productivity",
+            "Uptime SLA",
+            "Data Sovereignty"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -63,7 +115,17 @@
         "read_time": "3-minute",
         "track": "productivity and collaboration",
         "description": "Discover how Google's productivity expert, Laura Mae Martin, uses Google Workspace with Gemini to boost her daily productivity.",
-        "published_date": "2025-10-09 22:10:00"
+        "published_date": "2025-10-09 22:10:00",
+        "summary": "This article highlights practical, everyday applications of Gemini in Google Workspace to boost personal productivity, from summarizing emails in Gmail to drafting content in Docs and Sheets. It emphasizes how Gemini acts as a collaborative AI partner, enabling users to streamline routine tasks, overcome writer's block, and enhance various aspects of their workday with simple prompts.",
+        "tags": [
+            "Gemini",
+            "Google Workspace",
+            "Productivity",
+            "AI Assistant",
+            "Gmail",
+            "Google Docs",
+            "Google Sheets"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -74,7 +136,18 @@
         "read_time": "4-minute",
         "track": "product announcements",
         "description": "Today, we\u2019re introducing Gemini Enterprise \u2013 the new front door for AI in the workplace. It\u2019s our advanced agentic platform that brings the best of Google AI to every employee, for every workflow.",
-        "published_date": "2025-10-09 15:10:00"
+        "published_date": "2025-10-09 15:10:00",
+        "summary": "Gemini for Google Workspace, now generally available, integrates Google's most capable AI model directly into familiar applications like Gmail, Docs, Sheets, and Slides to boost productivity and creativity. This AI assistant helps users draft content, summarize emails, generate images, and analyze data, offering enterprise-grade security and privacy controls to ensure data protection within organizations.",
+        "tags": [
+            "Gemini",
+            "Google Workspace",
+            "AI Assistant",
+            "Generative AI",
+            "Productivity",
+            "Security",
+            "Gmail",
+            "Google Docs"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -85,7 +158,18 @@
         "read_time": "5-minute",
         "track": "customer stories",
         "description": "Trondheim, Norway, a city blending history with tech, uses Google Workspace with Gemini to boost public services, creativity, and efficiency for its 15,000 employees.",
-        "published_date": "2025-10-03 00:10:00"
+        "published_date": "2025-10-03 00:10:00",
+        "summary": "The City of Trondheim has successfully adopted Google Workspace with Gemini to enhance productivity and creativity across its municipal operations, impacting over 14,000 employees. By leveraging Gemini's AI capabilities for tasks like content drafting, summarization, and idea generation, Trondheim aims to streamline workflows and foster innovation in public service.",
+        "tags": [
+            "Trondheim",
+            "Gemini",
+            "Google Workspace",
+            "Productivity",
+            "Creativity",
+            "Public Sector",
+            "AI",
+            "Customer Story"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -96,7 +180,17 @@
         "read_time": "4-minute",
         "track": "product announcements",
         "description": "Google Drive for desktop now features AI-powered ransomware detection to automatically pause syncing and enable fast, simple file restoration.",
-        "published_date": "2025-09-30 16:09:00"
+        "published_date": "2025-09-30 16:09:00",
+        "summary": "Google Workspace is rolling out enhanced AI-powered ransomware detection capabilities directly within Google Drive to automatically identify and alert users to suspicious activity. This new feature provides real-time protection against sophisticated attacks, minimizing data loss and disruption by preventing malicious files from spreading and enabling swift recovery actions.",
+        "tags": [
+            "Google Drive",
+            "Ransomware Detection",
+            "AI Security",
+            "Google Workspace",
+            "Cybersecurity",
+            "Threat Protection",
+            "Data Protection"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -107,7 +201,17 @@
         "read_time": "3-minute",
         "track": "ai and machine learning",
         "description": "Generative AI fosters an experimental culture, propelling innovation through continuous learning. Discover 5 ways to maximize its power.",
-        "published_date": "2025-09-25 19:09:00"
+        "published_date": "2025-09-25 19:09:00",
+        "summary": "To unlock a culture of experimentation with Generative AI, organizations should provide safe sandboxes for employees, encourage curiosity, celebrate failures as learning opportunities, offer training, and align AI initiatives with business goals. Google Workspace and Gemini facilitate this by offering intuitive AI tools that empower users to explore new workflows and innovate responsibly.",
+        "tags": [
+            "Generative AI",
+            "Experimentation",
+            "AI Culture",
+            "Innovation",
+            "Google Workspace",
+            "Gemini",
+            "Best Practices"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -118,7 +222,18 @@
         "read_time": "4-minute",
         "track": "product announcements",
         "description": "Discover our September Workspace Drops: Nano Banana for image editing, shareable Gems, new Vids features, NotebookLM report formats, and Chat integrations",
-        "published_date": "2025-09-24 19:09:00"
+        "published_date": "2025-09-24 19:09:00",
+        "summary": "The September Workspace Drop introduced a suite of new features, including \"Nano Banana\" \u2013 an AI-powered image generation tool for Google Slides that helps create unique visuals from text prompts. The update also expanded the Gemini app with new shareable \"Gems\" for customized AI workflows and brought additional Gen AI features to Google Vids, enhancing creativity and productivity across the platform.",
+        "tags": [
+            "Workspace Drop",
+            "Gemini",
+            "Google Slides",
+            "Google Vids",
+            "Generative AI",
+            "AI Image Generation",
+            "Productivity",
+            "Gems"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -129,7 +244,17 @@
         "read_time": "4-minute",
         "track": "product announcements",
         "description": "Discover 5 ways the Gemini app boosts team productivity - Deep Research, Veo 3, Workspace integration, Scheduled Actions, and new sharable Gems",
-        "published_date": "2025-09-17 20:09:00"
+        "published_date": "2025-09-17 20:09:00",
+        "summary": "This article details five ways the Gemini app, with its new shareable \"Gems,\" can significantly boost team productivity within Google Workspace by streamlining workflows and fostering collaboration. Teams can leverage Gems to create custom AI workflows, automate routine tasks, enhance communication, and foster a more efficient and innovative work environment.",
+        "tags": [
+            "Gemini App",
+            "Gems",
+            "Google Workspace",
+            "Productivity",
+            "Team Collaboration",
+            "AI Workflows",
+            "Automation"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -140,7 +265,18 @@
         "read_time": "3-minute",
         "track": "partners",
         "description": "Elevate your enterprise with Google Workspace, LumApps, and AODocs. A secure, cloud-native SharePoint alternative for enhanced collaboration.",
-        "published_date": "2025-09-16 19:09:00"
+        "published_date": "2025-09-16 19:09:00",
+        "summary": "Google Workspace has expanded its partner ecosystem by integrating with AODocs and LumApps, offering customers enhanced content management and employee experience solutions. The AODocs partnership provides advanced document management and compliance, while LumApps delivers an AI-powered employee experience platform, both seamlessly integrating with Workspace to create a more connected and efficient digital workplace.",
+        "tags": [
+            "Google Workspace",
+            "Partnership",
+            "AODocs",
+            "LumApps",
+            "Content Management",
+            "Employee Experience",
+            "Digital Workplace",
+            "Collaboration"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -151,7 +287,18 @@
         "read_time": "4-minute",
         "track": "ai and machine learning",
         "description": "Accelerate decision-making with the power of AI. Learn 5 essential prompts that transform AI into a strategic thinking partner for leaders.",
-        "published_date": "2025-09-16 19:09:00"
+        "published_date": "2025-09-16 19:09:00",
+        "summary": "This guide provides leaders with five essential AI prompts to effectively leverage Gemini in Google Workspace for strategic thinking, decision-making, and communication. It emphasizes prompts for summarizing, brainstorming, refining content, generating different perspectives, and planning, enabling leaders to save time and enhance productivity while driving innovation within their teams.",
+        "tags": [
+            "AI Prompts",
+            "Gemini",
+            "Leadership",
+            "Google Workspace",
+            "Productivity",
+            "Decision Making",
+            "Generative AI",
+            "Strategy"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -162,7 +309,18 @@
         "read_time": "3-minute",
         "track": "customer stories",
         "description": "Zoppas Industries boosts global collaboration and efficiency with Google Workspace and Gemini, empowering 8,000 employees with AI-powered tools.",
-        "published_date": "2025-09-15 22:09:00"
+        "published_date": "2025-09-15 22:09:00",
+        "summary": "Zoppas Industries, a global manufacturer, has transformed its operations by adopting Google Workspace with Gemini, significantly enhancing global collaboration and efficiency across its 16 factories and 13 countries. By leveraging Gemini for streamlined communication, document creation, and data analysis, the company has improved productivity and fostered a more integrated work environment for its 12,000 employees.",
+        "tags": [
+            "Zoppas Industries",
+            "Google Workspace",
+            "Gemini",
+            "Global Collaboration",
+            "Efficiency",
+            "Manufacturing",
+            "AI",
+            "Customer Story"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -173,7 +331,18 @@
         "read_time": "6-minute",
         "track": "ai and machine learning",
         "description": "Explore how the AI productivity tools in Google Workspace with Gemini can enhance key aspects of daily work.",
-        "published_date": "2025-09-05 22:09:00"
+        "published_date": "2025-09-05 22:09:00",
+        "summary": "Google Workspace offers a suite of AI-powered tools, including Gemini, NotebookLM, and Google Vids, designed to enhance productivity and efficiency across various business functions. These tools, embedded in applications like Gmail, Docs, and Sheets, enable users to automate tasks, generate content, conduct research, and create engaging videos, helping teams work smarter and achieve more with less effort.",
+        "tags": [
+            "AI Productivity Tools",
+            "Google Workspace",
+            "Gemini",
+            "NotebookLM",
+            "Google Vids",
+            "Efficiency",
+            "Generative AI",
+            "Automation"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -184,7 +353,17 @@
         "read_time": "1-minute",
         "track": "ai and machine learning",
         "description": "Bridge the AI skills gap with \"AI Boost Bites,\" short training videos from Google Workspace. Learn to write prompts, search insights, and use gen AI.",
-        "published_date": "2025-09-04 19:09:00"
+        "published_date": "2025-09-04 19:09:00",
+        "summary": "Google Workspace emphasizes incremental adoption and continuous learning to unlock AI potential, offering \"AI Boosts\" and bite-sized learning resources for users to integrate Gemini into their daily workflows. This approach helps individuals and teams gradually master AI tools across applications like Gmail, Docs, and Sheets, fostering confidence and maximizing productivity.",
+        "tags": [
+            "AI Adoption",
+            "Gemini",
+            "Google Workspace",
+            "Productivity",
+            "Learning",
+            "AI Potential",
+            "Workflow"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -195,7 +374,18 @@
         "read_time": "3-minute",
         "track": "customer stories",
         "description": "Learn how Mercer International, a global bio-manufacturing company, achieved $3M in annual productivity gains with Google Workspace and Gemini.",
-        "published_date": "2025-09-03 19:09:00"
+        "published_date": "2025-09-03 19:09:00",
+        "summary": "Mercer International, a global leader in pulp, paper, and wood products, has achieved significant productivity gains by deploying Google Workspace with Gemini to its 6,000 employees worldwide. Gemini's AI capabilities are streamlining communication, content creation, and data analysis, fostering better collaboration and efficiency across the company's diverse international operations.",
+        "tags": [
+            "Mercer International",
+            "Google Workspace",
+            "Gemini",
+            "Productivity",
+            "Global Operations",
+            "AI",
+            "Collaboration",
+            "Customer Story"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -206,7 +396,17 @@
         "read_time": "2-minute",
         "track": "product announcements",
         "description": "Optimize your schedule on the go with Google Calendar. New mobile and wearable features, offline access, and customizable notifications.",
-        "published_date": "2025-09-03 19:09:00"
+        "published_date": "2025-09-03 19:09:00",
+        "summary": "Google Calendar is enhancing its mobile experience with new features designed to help users stay on top of their schedules while on the go. Updates include improved widgets, a streamlined UI for faster event creation and viewing, and better integration with other Workspace apps, making it easier to manage time and collaborate effectively from any device.",
+        "tags": [
+            "Google Calendar",
+            "Mobile Productivity",
+            "Google Workspace",
+            "Scheduling",
+            "UI Update",
+            "Time Management",
+            "Productivity"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -217,7 +417,17 @@
         "read_time": "3-minute",
         "track": "ai and machine learning",
         "description": "Discover how AI is transforming collaboration, making it easier and more impactful. Learn from Google Workspace Product Director Vishnu Sivaji.",
-        "published_date": "2025-08-28 19:08:00"
+        "published_date": "2025-08-28 19:08:00",
+        "summary": "The article discusses how AI, particularly Gemini in Google Workspace, is transforming collaboration by acting as an intelligent assistant that enhances human ingenuity rather than replacing it. Gemini streamlines tasks like content drafting, summarization, and data organization across applications, enabling teams to focus on higher-value creative work and strategic decision-making.",
+        "tags": [
+            "AI Collaboration",
+            "Gemini",
+            "Google Workspace",
+            "Teamwork",
+            "Productivity",
+            "Generative AI",
+            "Innovation"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -228,7 +438,17 @@
         "read_time": "4-minute",
         "track": "product announcements",
         "description": "Create polished videos in Google Vids with new gen AI features like image-to-video, AI avatars, and more.",
-        "published_date": "2025-08-27 17:08:00"
+        "published_date": "2025-08-27 17:08:00",
+        "summary": "Google Vids, an AI-powered video creation and editing application within Google Workspace, empowers users to easily produce professional-quality videos using generative AI. Users can generate scripts, storyboards, and even initial video drafts from text prompts, streamlining the entire video production process from conception to final edit for diverse communication needs.",
+        "tags": [
+            "Google Vids",
+            "Generative AI",
+            "Video Creation",
+            "Google Workspace",
+            "AI Editing",
+            "Productivity",
+            "Content Creation"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -239,7 +459,18 @@
         "read_time": "4-minute",
         "track": "product announcements",
         "description": "Unlock insights and boost productivity with new AI features in Google Workspace, including Sheets, NotebookLM, Chat, Meet, Forms, Docs, Vids, Slides, and Drive.",
-        "published_date": "2025-08-27 17:08:00"
+        "published_date": "2025-08-27 17:08:00",
+        "summary": "The August Workspace Drop introduced significant AI enhancements, including the integration of Gemini into Google Sheets to help users analyze data and generate insights more efficiently. Additionally, NotebookLM received new capabilities, further solidifying its role as an AI research assistant, making it easier to summarize and synthesize information from multiple sources.",
+        "tags": [
+            "Workspace Drop",
+            "Gemini",
+            "Google Sheets",
+            "NotebookLM",
+            "AI Features",
+            "Data Analysis",
+            "Research Assistant",
+            "Productivity"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -250,7 +481,18 @@
         "read_time": "2-minute",
         "track": "identity and security",
         "description": "Learn how Google helps EU customers with their Data Protection Impact Assessments for Gemini in Workspace.",
-        "published_date": "2025-08-26 01:08:00"
+        "published_date": "2025-08-26 01:08:00",
+        "summary": "Google Workspace with Gemini now offers comprehensive Data Protection Impact Assessment (DPIA) support, helping organizations meet their regulatory compliance obligations, particularly under GDPR. Google provides detailed documentation and transparency regarding its AI data processing practices, ensuring that customer data used by Gemini remains protected and controlled by the customer.",
+        "tags": [
+            "DPIA",
+            "GDPR",
+            "Google Workspace",
+            "Gemini",
+            "Data Protection",
+            "Security",
+            "Compliance",
+            "Privacy"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -261,7 +503,18 @@
         "read_time": "3-minute",
         "track": "customer stories",
         "description": "Discover how MERGE, a marketing and technology agency, uses Google Workspace with Gemini to boost collaboration, creativity, and client delivery",
-        "published_date": "2025-08-19 23:08:00"
+        "published_date": "2025-08-19 23:08:00",
+        "summary": "This customer story highlights how organizations are leveraging Google Workspace and Gemini to build innovative, effective, and creative teams by fostering seamless collaboration and automating routine tasks. Gemini's AI capabilities empower team members to accelerate content creation, streamline communication, and dedicate more time to strategic thinking and problem-solving.",
+        "tags": [
+            "Google Workspace",
+            "Gemini",
+            "Team Building",
+            "Innovation",
+            "Collaboration",
+            "Productivity",
+            "AI",
+            "Customer Story"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -272,7 +525,17 @@
         "read_time": "3-minute",
         "track": "product announcements",
         "description": "Discover how new Google Chat apps like ServiceNow, Lucidchart, Jira, Comeen, and GitHub enhance teamwork, streamlining workflows and boosting collaboration.",
-        "published_date": "2025-08-13 19:08:00"
+        "published_date": "2025-08-13 19:08:00",
+        "summary": "Google Chat is introducing new applications and integrations designed to improve teamwork and streamline workflows, making it easier for teams to collaborate and manage projects directly within the chat interface. These enhancements include deeper integrations with third-party tools and custom app development capabilities, enabling more efficient communication and task management.",
+        "tags": [
+            "Google Chat",
+            "Teamwork",
+            "Collaboration",
+            "Integrations",
+            "Productivity",
+            "Workflow",
+            "Apps"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -283,7 +546,17 @@
         "read_time": "4-minute",
         "track": "ai and machine learning",
         "description": "",
-        "published_date": "2025-08-07 19:08:00"
+        "published_date": "2025-08-07 19:08:00",
+        "summary": "Turing, a leader in global remote talent, is transforming its HR workflows through the strategic implementation of AI, demonstrating how artificial intelligence can optimize recruitment, onboarding, and employee management. By leveraging AI to automate administrative tasks and provide data-driven insights, Turing streamlines operations and enhances the overall efficiency of its HR department.",
+        "tags": [
+            "Turing",
+            "HR Workflows",
+            "AI Transformation",
+            "Recruitment",
+            "Automation",
+            "Efficiency",
+            "AI in HR"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -294,7 +567,18 @@
         "read_time": "3-minute",
         "track": "product announcements",
         "description": "Google Workspace received the highest score of all providers in the strategy category, among companies that offer a solution for video, chat, and phone communications.",
-        "published_date": "2025-07-29 19:07:00"
+        "published_date": "2025-07-29 19:07:00",
+        "summary": "Google Workspace has been recognized as a Leader in The Forrester Wave\u2122: Unified Communications as a Service (UCaaS), Q1 2025 report, affirming its strong position in the market. This recognition highlights Workspace's comprehensive suite of communication and collaboration tools, its robust security features, and its ongoing innovation in integrated AI capabilities like Gemini.",
+        "tags": [
+            "Google Workspace",
+            "Forrester Wave",
+            "UCaaS",
+            "Leader",
+            "Unified Communications",
+            "Collaboration",
+            "Market Recognition",
+            "AI"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -305,7 +589,18 @@
         "read_time": "4-minute",
         "track": "identity and security",
         "description": "",
-        "published_date": "2025-07-29 17:07:00"
+        "published_date": "2025-07-29 17:07:00",
+        "summary": "This article discusses robust strategies for defending against account takeovers, highlighting passkeys and Device Bound Session Cookies (DBSC) as critical security measures. Google Workspace emphasizes the adoption of phishing-resistant authentication methods like passkeys and advanced session management to protect user accounts and organizational data from sophisticated cyber threats.",
+        "tags": [
+            "Account Takeovers",
+            "Passkeys",
+            "DBSC",
+            "Cybersecurity",
+            "Google Workspace",
+            "Authentication",
+            "Phishing Resistance",
+            "Security"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -316,7 +611,18 @@
         "read_time": "4-minute",
         "track": "customer stories",
         "description": "Questrade transforms productivity with Gemini in Google Workspace, enabling staff to focus on strategic initiatives and accelerating goal achievement.",
-        "published_date": "2025-07-24 21:07:00"
+        "published_date": "2025-07-24 21:07:00",
+        "summary": "Questrade Financial Group has significantly transformed its productivity by adopting Gemini within Google Workspace, enhancing efficiency across its financial operations. Gemini's AI capabilities help Questrade streamline content creation, summarize information, and improve internal communications, enabling employees to focus on higher-value tasks and deliver better service to clients.",
+        "tags": [
+            "Questrade Financial Group",
+            "Gemini",
+            "Google Workspace",
+            "Productivity",
+            "Financial Services",
+            "AI",
+            "Customer Story",
+            "Efficiency"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -327,7 +633,18 @@
         "read_time": "3-minute",
         "track": "productivity and collaboration",
         "description": "Unlock smarter work with Google Workspace. Laura Mae Martin shares her top 10 productivity tips to help you achieve more with Gemini and beyond.",
-        "published_date": "2025-07-24 19:07:00"
+        "published_date": "2025-07-24 19:07:00",
+        "summary": "This article provides the top 10 productivity tips for maximizing efficiency within Google Workspace, covering strategies for better organization, communication, and task management. Tips include leveraging smart features in Gmail and Calendar, using Sheets for project tracking, optimizing Drive for file organization, and utilizing Gemini for content creation and summarization.",
+        "tags": [
+            "Google Workspace",
+            "Productivity Tips",
+            "Gmail",
+            "Google Calendar",
+            "Google Drive",
+            "Gemini",
+            "Efficiency",
+            "Time Management"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -338,7 +655,18 @@
         "read_time": "4-minute",
         "track": "product announcements",
         "description": "Google AI Ultra for Business, Veo 3 for stunning videos in the Gemini app, Drive video summaries, GitHub integrations, and more.",
-        "published_date": "2025-07-23 19:07:00"
+        "published_date": "2025-07-23 19:07:00",
+        "summary": "The July Workspace Feature Drop introduced several key updates, including enhancements to Google Veo 3 for more advanced video editing capabilities and AI-powered video summaries in Google Drive. This allows users to quickly grasp the essence of lengthy video content, significantly improving productivity and information retrieval within Google Workspace.",
+        "tags": [
+            "Workspace Drop",
+            "Google Veo 3",
+            "Google Drive",
+            "Video Summaries",
+            "AI Features",
+            "Productivity",
+            "Video Editing",
+            "Information Retrieval"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -349,7 +677,17 @@
         "read_time": "3-minute",
         "track": "ai and machine learning",
         "description": "Master new skills and advance your career with self-guided learning. Learn how to use Gemini and NotebookLM to build your personalized plan.",
-        "published_date": "2025-07-17 19:07:00"
+        "published_date": "2025-07-17 19:07:00",
+        "summary": "Google is designing self-guided learning pathways for career development, leveraging Gemini's AI capabilities to personalize training and skill enhancement. This initiative aims to democratize access to AI education, helping professionals upskill and adapt to the evolving demands of the workforce by providing tailored learning experiences and resources for mastering AI tools within Google Workspace.",
+        "tags": [
+            "AI Learning",
+            "Career Development",
+            "Gemini",
+            "Self-Guided Learning",
+            "Upskilling",
+            "AI Education",
+            "Google Workspace"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -360,7 +698,18 @@
         "read_time": "5-minute",
         "track": "ai and machine learning",
         "description": "Securely deploy Generative AI with Gemini in Google Workspace: data protection, privacy, and granular controls for enterprise adoption",
-        "published_date": "2025-07-16 19:07:00"
+        "published_date": "2025-07-16 19:07:00",
+        "summary": "Google Workspace with Gemini offers robust enterprise-grade security controls, ensuring data privacy, compliance, and protection for businesses utilizing AI capabilities. These controls include data residency options, access management, DLP (Data Loss Prevention), and transparency around how customer data interacts with Gemini, allowing organizations to maintain full control and trust in their AI adoption.",
+        "tags": [
+            "Enterprise Security",
+            "Google Workspace",
+            "Gemini",
+            "Data Privacy",
+            "Compliance",
+            "DLP",
+            "Security Controls",
+            "AI Security"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -371,7 +720,18 @@
         "read_time": "3-minute",
         "track": "identity and security",
         "description": "Learn how Google Workspace helps organizations achieve digital sovereignty with secure infrastructure, data controls, and compliance certifications.",
-        "published_date": "2025-07-10 19:07:00"
+        "published_date": "2025-07-10 19:07:00",
+        "summary": "Google Workspace helps organizations achieve digital sovereignty by offering advanced data residency options, strong encryption, and transparent security practices. This empowers customers to maintain control over their data location and access, addressing regulatory requirements and ensuring compliance with local laws while leveraging Google's global infrastructure and security expertise.",
+        "tags": [
+            "Digital Sovereignty",
+            "Google Workspace",
+            "Data Residency",
+            "Encryption",
+            "Security",
+            "Compliance",
+            "Data Control",
+            "Cloud Security"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -382,7 +742,17 @@
         "read_time": "3-minute",
         "track": "ai and machine learning",
         "description": "Learn how to measure AI's impact on your business with five tips.",
-        "published_date": "2025-07-09 19:07:00"
+        "published_date": "2025-07-09 19:07:00",
+        "summary": "The 'Beyond the Prompt' series offers resources and best practices for Google Workspace users to go beyond basic prompting and master Gemini's advanced capabilities, enhancing productivity and creative output. These resources aim to deepen understanding of generative AI, providing guidance on crafting effective prompts, leveraging AI for complex tasks, and integrating Gemini seamlessly into daily workflows.",
+        "tags": [
+            "Gemini",
+            "Prompting",
+            "Google Workspace",
+            "Generative AI",
+            "Best Practices",
+            "AI Learning",
+            "Productivity"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -393,7 +763,17 @@
         "read_time": "2-minute",
         "track": "productivity and collaboration",
         "description": "Learn how Google Workspace with Gemini, can boost your productivity with 5 essential tips from executive productivity advisor Laura Mae Martin.",
-        "published_date": "2025-07-01 00:07:00"
+        "published_date": "2025-07-01 00:07:00",
+        "summary": "This article provides practical tips and strategies for Google Workspace users to achieve more productivity and efficiency in their daily work. It covers leveraging features across Gmail, Docs, Sheets, and Calendar, as well as integrating Gemini's AI capabilities to streamline tasks like content creation, summarization, and organization, ultimately enabling users to focus on higher-value activities.",
+        "tags": [
+            "Google Workspace",
+            "Productivity",
+            "Efficiency",
+            "Gemini",
+            "Tips",
+            "Collaboration",
+            "Workflow"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -404,7 +784,17 @@
         "read_time": "4-minute",
         "track": "product announcements",
         "description": "Enable FINRA compliance and enhanced capabilities for financial services with Google Workspace. Secure, reliable collaboration for regulated industries.",
-        "published_date": "2025-06-30 16:06:00"
+        "published_date": "2025-06-30 16:06:00",
+        "summary": "Google Workspace is enhancing its capabilities to help financial institutions meet FINRA compliance requirements, particularly concerning data retention, eDiscovery, and supervisory review. New features and updated guidance ensure that firms can securely store, manage, and retrieve communications and data, supporting stringent regulatory obligations within the financial sector.",
+        "tags": [
+            "FINRA Compliance",
+            "Google Workspace",
+            "Financial Services",
+            "Data Retention",
+            "eDiscovery",
+            "Regulatory Compliance",
+            "Security"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -415,7 +805,18 @@
         "read_time": "3-minute",
         "track": "product announcements",
         "description": "Announcing Google AI Ultra for Business, an add-on plan for Workspace customers providing unparalleled access to our most capable AI.",
-        "published_date": "2025-06-26 19:06:00"
+        "published_date": "2025-06-26 19:06:00",
+        "summary": "Google AI Ultra for Business is announced as a powerful new offering, integrating Google's most advanced AI models, including Gemini Ultra, into Google Workspace to deliver superior performance and enterprise-grade capabilities. This premium AI tier provides enhanced reasoning, multimodal understanding, and security features, enabling businesses to tackle complex tasks and achieve unprecedented productivity gains.",
+        "tags": [
+            "Google AI Ultra",
+            "Gemini Ultra",
+            "Google Workspace",
+            "Enterprise AI",
+            "Productivity",
+            "Advanced AI",
+            "Business Solutions",
+            "AI Models"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -426,7 +827,18 @@
         "read_time": "3-minute",
         "track": "product announcements",
         "description": "Google Workspace's June 2025 feature drop: Create with Veo 3 in Google Vids and connect the Gemini app with your Google Workspace apps.",
-        "published_date": "2025-06-25 19:06:00"
+        "published_date": "2025-06-25 19:06:00",
+        "summary": "The June Workspace Drop introduces significant updates, including enhanced creative capabilities with Google Veo 3 for advanced video production and the rollout of Google Vids, an AI-powered video creation tool. Additionally, the Gemini app is further integrated across Workspace, connecting users to powerful AI assistance directly within their workflows for increased productivity.",
+        "tags": [
+            "Workspace Drop",
+            "Google Veo 3",
+            "Google Vids",
+            "Gemini App",
+            "AI Video Creation",
+            "Productivity",
+            "Creative Tools",
+            "Generative AI"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -437,7 +849,18 @@
         "read_time": "3-minute",
         "track": "customer stories",
         "description": "Equifax securely deployed Gemini to boost productivity and innovation across its global organization, saving employees over an hour daily.",
-        "published_date": "2025-06-24 21:06:00"
+        "published_date": "2025-06-24 21:06:00",
+        "summary": "Equifax, a global data, analytics, and technology company, has embraced Gemini for secure innovation across its business units, leveraging Google Workspace to enhance productivity and collaboration. By integrating Gemini's AI capabilities, Equifax is empowering employees to automate tasks, generate insights, and accelerate development while maintaining stringent security and compliance standards.",
+        "tags": [
+            "Equifax",
+            "Gemini",
+            "Google Workspace",
+            "Secure Innovation",
+            "Data Analytics",
+            "Productivity",
+            "AI Adoption",
+            "Customer Story"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -448,7 +871,18 @@
         "read_time": "2-minute",
         "track": "ai and machine learning",
         "description": "How Google Workspace with Gemini in Sheets helps small businesses get insights faster. Use Gemini to organize, visualize, and analyze data for growth",
-        "published_date": "2025-06-12 19:06:00"
+        "published_date": "2025-06-12 19:06:00",
+        "summary": "This article highlights four ways Gemini in Google Sheets helps small businesses gain insights faster, streamlining data analysis and decision-making. Gemini assists with data cleaning, formula generation, chart creation, and trend analysis, enabling small business owners to interpret complex datasets without advanced analytical skills, boosting efficiency and strategic planning.",
+        "tags": [
+            "Gemini",
+            "Google Sheets",
+            "Small Business",
+            "Data Analysis",
+            "AI Insights",
+            "Productivity",
+            "Decision Making",
+            "Efficiency"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -459,7 +893,18 @@
         "read_time": "3-minute",
         "track": "ai and machine learning",
         "description": "Master complex projects faster with Workspace with Gemini. Learn how to leverage AI for research, creation, and presentation to boost productivity",
-        "published_date": "2025-06-10 19:06:00"
+        "published_date": "2025-06-10 19:06:00",
+        "summary": "Mastering the 'deep end' of generative AI with Google Workspace involves moving beyond basic prompts to understand underlying models, ethical considerations, and advanced prompt engineering techniques. This article encourages users to explore iterative prompting, fine-tuning, and integrating AI into complex workflows to unlock the full potential of tools like Gemini for sophisticated problem-solving and innovation.",
+        "tags": [
+            "Generative AI",
+            "Prompt Engineering",
+            "Gemini",
+            "Google Workspace",
+            "AI Learning",
+            "Advanced AI",
+            "Ethics",
+            "Innovation"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -470,7 +915,18 @@
         "read_time": "3-minute",
         "track": "ai and machine learning",
         "description": "Learn how Gemini in Google Workspace can help project managers become AI trailblazers in your organization.",
-        "published_date": "2025-06-05 19:06:00"
+        "published_date": "2025-06-05 19:06:00",
+        "summary": "Project managers can become AI trailblazers by leveraging Google Workspace with Gemini to automate routine tasks, enhance planning, and improve communication across their projects. Gemini assists with summarizing project documents, generating status updates, and brainstorming solutions, freeing up project managers to focus on strategic oversight and team empowerment.",
+        "tags": [
+            "Project Management",
+            "AI Trailblazers",
+            "Gemini",
+            "Google Workspace",
+            "Automation",
+            "Productivity",
+            "Collaboration",
+            "AI for PM"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -481,7 +937,18 @@
         "read_time": "3-minute",
         "track": "customer stories",
         "description": "Infoxchange uses NotebookLM as part of the Google Workspace for non-profits program, slashing AI training module development time, enabling faster creation and delivery.",
-        "published_date": "2025-06-04 23:06:00"
+        "published_date": "2025-06-04 23:06:00",
+        "summary": "Infoxchange, a non-profit organization, is significantly accelerating its content creation by using NotebookLM in Google Workspace to craft educational resources in hours instead of days. NotebookLM's AI-powered research and summarization capabilities enable Infoxchange to rapidly synthesize information from multiple sources, allowing them to produce high-quality materials more efficiently for their community initiatives.",
+        "tags": [
+            "Infoxchange",
+            "NotebookLM",
+            "Google Workspace",
+            "Educational Resources",
+            "Content Creation",
+            "AI Productivity",
+            "Non-Profit",
+            "Customer Story"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -492,7 +959,18 @@
         "read_time": "3-minute",
         "track": "ai and machine learning",
         "description": "",
-        "published_date": "2025-05-29 19:05:00"
+        "published_date": "2025-05-29 19:05:00",
+        "summary": "Google is democratizing app development through AppSheet, integrated with Gemini, enabling users to create custom applications without coding, often directly from natural language prompts. This powerful combination allows business users to quickly build tools that automate workflows and solve specific problems, making app creation accessible to a wider audience within Google Workspace.",
+        "tags": [
+            "AppSheet",
+            "Gemini",
+            "No-Code Development",
+            "App Development",
+            "Google Workspace",
+            "Automation",
+            "Democratization",
+            "AI Integration"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -503,7 +981,18 @@
         "read_time": "4-minute",
         "track": "product announcements",
         "description": "Google Workspace's May 2025 feature drop: AI summaries, NotebookLM Mind Maps, and improved Meet for better collaboration and research.",
-        "published_date": "2025-05-28 19:05:00"
+        "published_date": "2025-05-28 19:05:00",
+        "summary": "The May Workspace Feature Drop introduced a variety of new AI-powered capabilities across Google Workspace applications, further enhancing productivity and user experience. These updates include expanded Gemini integrations in core apps, new smart features for content generation and summarization, and continued improvements to collaborative tools, streamlining daily workflows for businesses.",
+        "tags": [
+            "Workspace Drop",
+            "AI Features",
+            "Gemini",
+            "Google Workspace",
+            "Productivity",
+            "Smart Features",
+            "Generative AI",
+            "Product Announcements"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -514,7 +1003,18 @@
         "read_time": "3-minute",
         "track": "productivity and collaboration",
         "description": "Spring clean your calendar with Gemini! Laura Mae Martin shares tips on prioritizing tasks, auditing your schedule, and using Workspace tools for productivity.",
-        "published_date": "2025-05-22 19:05:00"
+        "published_date": "2025-05-22 19:05:00",
+        "summary": "This article offers practical tips for 'spring cleaning' and optimizing your Google Calendar within Google Workspace to boost productivity and reduce scheduling stress. Strategies include decluttering old events, setting clear meeting agendas, utilizing appointment slots, and integrating Calendar with other Workspace tools for more efficient time management and collaboration.",
+        "tags": [
+            "Google Calendar",
+            "Productivity",
+            "Time Management",
+            "Google Workspace",
+            "Organization",
+            "Scheduling",
+            "Efficiency",
+            "Tips"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -525,7 +1025,17 @@
         "read_time": "5-minute",
         "track": "product announcements",
         "description": "New AI announcements for Google Workspace with Gemini. We\u2019re helping you respond faster in email, write with relevant context, tell stories with video, and connect across languages \u2014 all powered by AI.",
-        "published_date": "2025-05-20 20:05:00"
+        "published_date": "2025-05-20 20:05:00",
+        "summary": "Google Workspace is introducing new features and AI innovations, including expanded Gemini capabilities, to empower users to do their best work more efficiently and creatively. These enhancements span across applications like Gmail, Docs, Sheets, and Slides, offering intelligent assistance for content generation, data analysis, and seamless collaboration, transforming daily productivity.",
+        "tags": [
+            "Google Workspace",
+            "Gemini",
+            "AI Innovation",
+            "Productivity",
+            "Collaboration",
+            "New Features",
+            "Generative AI"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -536,7 +1046,18 @@
         "read_time": "3-minute",
         "track": "product announcements",
         "description": "Google Workspace with Gemini continues to deliver AI that fits into the flow of your workday, weaving assistance seamlessly into the apps you already use \u2014 Gmail, Docs, Meet, and more.",
-        "published_date": "2025-05-14 19:05:00"
+        "published_date": "2025-05-14 19:05:00",
+        "summary": "Google emphasizes Gemini for Google Workspace as a practical AI assistant designed to provide real help rather than just hype, focusing on tangible productivity improvements for users. Gemini's integration across applications like Gmail, Docs, and Sheets empowers users with content generation, summarization, and data analysis tools that solve everyday business challenges, backed by enterprise-grade security.",
+        "tags": [
+            "Gemini",
+            "Google Workspace",
+            "AI Assistant",
+            "Productivity",
+            "Practical AI",
+            "Business Solutions",
+            "Security",
+            "Generative AI"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -547,7 +1068,18 @@
         "read_time": "4-minute",
         "track": "customer stories",
         "description": "",
-        "published_date": "2025-05-13 19:05:00"
+        "published_date": "2025-05-13 19:05:00",
+        "summary": "ATB Financial has successfully supercharged its employee experience and significantly reduced routine work by implementing Gemini within Google Workspace across its operations. Gemini's AI capabilities automate administrative tasks, assist with content creation, and streamline internal communications, enabling employees to focus on strategic initiatives and customer engagement, leading to enhanced job satisfaction.",
+        "tags": [
+            "ATB Financial",
+            "Gemini",
+            "Google Workspace",
+            "Employee Experience",
+            "Automation",
+            "Productivity",
+            "Financial Services",
+            "Customer Story"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -558,7 +1090,18 @@
         "read_time": "3-minute",
         "track": "customer stories",
         "description": "Wake Forest enhances security with Google Workspace Education Plus, reducing compromised accounts and saving $1M in three years, boosting efficiency.",
-        "published_date": "2025-05-09 20:05:00"
+        "published_date": "2025-05-09 20:05:00",
+        "summary": "Wake Forest University is redefining its cybersecurity posture by leveraging Google Workspace Education Plus, enhancing protection for its faculty, staff, and students. The platform's advanced security features, including robust identity management, data loss prevention, and threat intelligence, provide a comprehensive defense against evolving cyber threats while supporting a collaborative learning environment.",
+        "tags": [
+            "Wake Forest University",
+            "Google Workspace Education Plus",
+            "Cybersecurity",
+            "Data Protection",
+            "Education",
+            "Security",
+            "Threat Prevention",
+            "Customer Story"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -569,7 +1112,18 @@
         "read_time": "4-minute",
         "track": "customer stories",
         "description": "Fullstory leverages Google Workspace and Gemini to automate tasks, create videos, and enhance employee experiences while prioritizing data security and integration",
-        "published_date": "2025-05-07 21:05:00"
+        "published_date": "2025-05-07 21:05:00",
+        "summary": "FullStory, a digital experience intelligence company, has fostered a stronger collaboration culture by adopting Google Workspace with Gemini, enhancing productivity and creativity across its teams. Gemini's AI-powered assistance for content creation, summarization, and communication helps FullStory employees work more efficiently and integrate innovative solutions into their daily workflows.",
+        "tags": [
+            "FullStory",
+            "Google Workspace",
+            "Gemini",
+            "Collaboration Culture",
+            "Productivity",
+            "Digital Experience",
+            "AI",
+            "Customer Story"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -580,7 +1134,18 @@
         "read_time": "3-minute",
         "track": "ai and machine learning",
         "description": "Learn how to measure AI's impact on your business with five tips.",
-        "published_date": "2025-05-06 19:05:00"
+        "published_date": "2025-05-06 19:05:00",
+        "summary": "The 'Beyond the Prompt' Google Guides program is designed to drive successful adoption of Google Workspace with Gemini by equipping users with advanced AI skills and best practices. This program helps individuals and teams move beyond basic interactions, fostering a deeper understanding of Gemini's capabilities to maximize productivity, creativity, and innovation across their workflows.",
+        "tags": [
+            "Google Guides Program",
+            "Gemini",
+            "Google Workspace",
+            "AI Adoption",
+            "Prompt Engineering",
+            "Productivity",
+            "Learning",
+            "Best Practices"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -591,7 +1156,17 @@
         "read_time": "3-minute",
         "track": "ai and machine learning",
         "description": "See how MAS leverages Gemini in Google Workspace to streamline their creative workflow. Discover how AI enhances human ingenuity and accelerates concept to client sign-off faster.",
-        "published_date": "2025-05-01 19:05:00"
+        "published_date": "2025-05-01 19:05:00",
+        "summary": "This article highlights how Generative AI, specifically within Google Workspace, can augment human ingenuity rather than replace it, enabling users to elevate their creative and strategic work. By automating routine tasks and providing intelligent assistance, Gen AI frees up mental capacity, allowing individuals and teams to focus on innovation, problem-solving, and deeper collaboration.",
+        "tags": [
+            "Generative AI",
+            "Human Ingenuity",
+            "Google Workspace",
+            "AI Collaboration",
+            "Creativity",
+            "Innovation",
+            "Productivity"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -602,7 +1177,18 @@
         "read_time": "3-minute",
         "track": "product announcements",
         "description": "Google Workspace recognized as a leader in the 2024 IDC MarketScape for Team Collaboration Applications. Discover why Workspace excels in AI, security, and integrations for effective teamwork.",
-        "published_date": "2025-04-30 19:04:00"
+        "published_date": "2025-04-30 19:04:00",
+        "summary": "Google has been named a Leader in the IDC MarketScape: Worldwide Team Collaboration Applications 2024 Vendor Assessment, recognizing Google Workspace's robust and innovative suite of tools. This leadership position underscores Workspace's strong capabilities in fostering seamless team collaboration, communication, and productivity, supported by ongoing AI enhancements.",
+        "tags": [
+            "Google",
+            "IDC MarketScape",
+            "Team Collaboration",
+            "Google Workspace",
+            "Leader",
+            "Productivity",
+            "Communication",
+            "Market Recognition"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -613,7 +1199,18 @@
         "read_time": "2-minute",
         "track": "productivity and collaboration",
         "description": "Learn Laura Mae Martin's favorite ways to use Gemini with Google Workspace to boost productivity. Discover tips for switching formats and more!",
-        "published_date": "2025-04-28 19:04:00"
+        "published_date": "2025-04-28 19:04:00",
+        "summary": "This personal account shares favorite ways to use Gemini in Google Workspace to enhance daily work productivity, emphasizing practical applications across different tasks. It highlights Gemini's utility for summarizing lengthy documents, generating creative content, drafting emails, and assisting with data analysis in Sheets, showcasing its role as an indispensable AI assistant.",
+        "tags": [
+            "Gemini",
+            "Google Workspace",
+            "Productivity",
+            "AI Assistant",
+            "Work Hacks",
+            "Content Creation",
+            "Summarization",
+            "Tips"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -624,7 +1221,18 @@
         "read_time": "3-minute",
         "track": "identity and security",
         "description": "Streamline eDiscovery exports and litigation holds by integrating Google Vault with leading 3P applications. Reduce time, effort, and costs.",
-        "published_date": "2025-04-24 19:04:00"
+        "published_date": "2025-04-24 19:04:00",
+        "summary": "This article outlines three best practices to simplify eDiscovery exports and litigation holds using Google Vault for Google Workspace, ensuring compliance and efficiency. These practices include categorizing data effectively, leveraging advanced search functionalities, and automating retention policies to streamline legal processes and reduce administrative burden.",
+        "tags": [
+            "eDiscovery",
+            "Google Vault",
+            "Litigation Holds",
+            "Google Workspace",
+            "Compliance",
+            "Data Management",
+            "Best Practices",
+            "Legal Tech"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -635,7 +1243,18 @@
         "read_time": "4-minute",
         "track": "ai and machine learning",
         "description": "Learn how ATB Financial has set up learning and resource pathways to enable their employees to adopt Workspace with Gemini.",
-        "published_date": "2025-04-24 18:04:00"
+        "published_date": "2025-04-24 18:04:00",
+        "summary": "ATB Financial shares five key tips for driving successful adoption of Google Workspace with Gemini, based on their experience integrating AI into their operations. These tips include championing early adopters, providing comprehensive training, focusing on practical use cases, establishing clear communication, and continuously gathering feedback to ensure broad and effective AI utilization.",
+        "tags": [
+            "ATB Financial",
+            "Google Workspace",
+            "Gemini",
+            "AI Adoption",
+            "Best Practices",
+            "Change Management",
+            "Customer Story",
+            "Training"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -646,7 +1265,18 @@
         "read_time": "3-minute",
         "track": "product announcements",
         "description": "In this April Workspace feature drop, explore new AI features across Gemini, Chat, Gmail, and Slides to boost your productivity.",
-        "published_date": "2025-04-23 19:04:00"
+        "published_date": "2025-04-23 19:04:00",
+        "summary": "The April Workspace Feature Drop introduced a wave of new AI capabilities, significantly enhancing Gemini, Google Chat, Gmail, and Slides across Google Workspace. These updates empower users with advanced content generation, smarter communication tools, and improved presentation creation, boosting overall productivity and streamlining workflows.",
+        "tags": [
+            "Workspace Drop",
+            "AI Features",
+            "Gemini",
+            "Google Chat",
+            "Gmail",
+            "Google Slides",
+            "Productivity",
+            "Generative AI"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -657,7 +1287,18 @@
         "read_time": "2-minute",
         "track": "events",
         "description": "At Cloud Next \u201825, we heard from customers about how they\u2019re using Workspace with Gemini to boost productivity and creativity, transform workflows, supercharge collaboration, and work safer. Watch on-demand sessions.",
-        "published_date": "2025-04-15 00:04:00"
+        "published_date": "2025-04-15 00:04:00",
+        "summary": "This article provides a recap of Google Cloud Next '25, highlighting key announcements and on-demand sessions focused on Google Workspace with Gemini. It covers how Gemini's integration is transforming productivity, collaboration, and security across the Workspace suite, with sessions delving into advanced AI capabilities, customer success stories, and future innovations.",
+        "tags": [
+            "Google Cloud Next '25",
+            "Google Workspace",
+            "Gemini",
+            "AI",
+            "Productivity",
+            "Collaboration",
+            "Recap",
+            "Events"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -668,7 +1309,18 @@
         "read_time": "2-minute",
         "track": "partners",
         "description": "We're announcing a new partnership with Neat to make it easier to use Google Meet on Neat devices to drive more engaging video meetings.",
-        "published_date": "2025-04-10 19:04:00"
+        "published_date": "2025-04-10 19:04:00",
+        "summary": "Google Meet Hardware is expanding its ecosystem by partnering with Neat, a leading video conferencing device manufacturer, to offer more choices for hybrid meeting solutions. This collaboration brings Neat's innovative devices, known for their sleek design and advanced audio/video capabilities, to the Google Meet platform, enhancing the meeting experience for Google Workspace users.",
+        "tags": [
+            "Google Meet Hardware",
+            "Neat",
+            "Partnership",
+            "Video Conferencing",
+            "Hybrid Work",
+            "Google Workspace",
+            "Collaboration",
+            "Meeting Devices"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -679,7 +1331,18 @@
         "read_time": "6-minute",
         "track": "product announcements",
         "description": "New AI capabilities in Google Workspace help every business drive results, including with automated workflows powered by agentic AI.",
-        "published_date": "2025-04-09 15:04:00"
+        "published_date": "2025-04-09 15:04:00",
+        "summary": "Google Workspace is introducing new AI capabilities, including deeper integrations with Gemini, designed to drive tangible business results by enhancing productivity, fostering innovation, and streamlining operations. These AI advancements help businesses automate tasks, gain faster insights, and create high-quality content, empowering employees to focus on strategic initiatives and deliver greater value.",
+        "tags": [
+            "AI for Business",
+            "Google Workspace",
+            "Gemini",
+            "Productivity",
+            "Business Results",
+            "Innovation",
+            "Automation",
+            "Generative AI"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -690,7 +1353,18 @@
         "read_time": "3-minute",
         "track": "customer stories",
         "description": "Learn how MAS improves their communication approach and overcomes language barriers using caption translations and the \u201chelp me write\u201d feature.",
-        "published_date": "2025-04-07 21:04:00"
+        "published_date": "2025-04-07 21:04:00",
+        "summary": "MAS, a creative agency, is significantly enhancing its creative workflows and achieving more by integrating Gemini into its Google Workspace environment. Gemini assists MAS with brainstorming, content generation, and ideation, allowing the agency to accelerate project timelines, boost creative output, and deliver innovative solutions more efficiently for its clients.",
+        "tags": [
+            "MAS",
+            "Gemini",
+            "Google Workspace",
+            "Creative Workflows",
+            "Productivity",
+            "AI Assistance",
+            "Content Creation",
+            "Customer Story"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -701,7 +1375,18 @@
         "read_time": "2-minute",
         "track": "identity and security",
         "description": "Learn how to adopt zero trust security with Google Workspace",
-        "published_date": "2025-04-03 19:04:00"
+        "published_date": "2025-04-03 19:04:00",
+        "summary": "This article provides a guide on how to adopt a Zero Trust security model within Google Workspace, emphasizing continuous verification and least privilege access to protect organizational data. Key steps include implementing strong identity and access management, device trust, data protection, and leveraging Google's built-in security features to minimize risk across the entire digital estate.",
+        "tags": [
+            "Zero Trust",
+            "Cybersecurity",
+            "Google Workspace",
+            "Security Model",
+            "Identity Management",
+            "Data Protection",
+            "Access Control",
+            "Best Practices"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -712,7 +1397,18 @@
         "read_time": "4-minute",
         "track": "identity and security",
         "description": "Announcing plans to bring easy to use end-to-end encryption in Gmail to all our business customers",
-        "published_date": "2025-04-01 16:04:00"
+        "published_date": "2025-04-01 16:04:00",
+        "summary": "Gmail is rolling out easy-to-use client-side encryption, enabling end-to-end encryption for all businesses within Google Workspace, enhancing data privacy and security. This feature ensures that sensitive information exchanged via email remains protected from unauthorized access, helping organizations meet stringent compliance requirements and protect confidential communications.",
+        "tags": [
+            "Gmail",
+            "End-to-End Encryption",
+            "Client-Side Encryption",
+            "Google Workspace",
+            "Data Privacy",
+            "Security",
+            "Compliance",
+            "Business Security"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -723,7 +1419,18 @@
         "read_time": "3-minute",
         "track": "productivity and collaboration",
         "description": "Craft visually stunning presentations in Google Slides with image generation, new templates, building blocks, and a vast stock media library.",
-        "published_date": "2025-03-31 19:03:00"
+        "published_date": "2025-03-31 19:03:00",
+        "summary": "Creating visually stunning presentations in Google Slides has become easier with new features and AI-powered tools integrated into Google Workspace. These enhancements include intelligent layout suggestions, improved image and video integration, and generative AI capabilities that assist with content creation, enabling users to produce professional and engaging slides more efficiently.",
+        "tags": [
+            "Google Slides",
+            "Presentations",
+            "AI Features",
+            "Google Workspace",
+            "Design Tools",
+            "Productivity",
+            "Generative AI",
+            "Visuals"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -734,7 +1441,18 @@
         "read_time": "3-minute",
         "track": "product announcements",
         "description": "New Google Meet features, AI voiceovers in Vids, and expanded language capabilities",
-        "published_date": "2025-03-26 19:03:00"
+        "published_date": "2025-03-26 19:03:00",
+        "summary": "The March Workspace Feature Drop introduced a variety of new enhancements and AI integrations across Google Workspace applications, further boosting productivity and collaboration. Updates included expanded Gemini capabilities, improvements to Google Meet for hybrid work, and new security features, all designed to streamline workflows and provide a more intelligent digital workspace experience.",
+        "tags": [
+            "Workspace Drop",
+            "Google Workspace",
+            "AI Features",
+            "Gemini",
+            "Google Meet",
+            "Productivity",
+            "Collaboration",
+            "Security"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -745,7 +1463,18 @@
         "read_time": "6-minute",
         "track": "ai and machine learning",
         "description": "Explore the ethics of AI assistants with Iason Gabriel from Google DeepMind, discussing responsible development in Google Workspace and our wider AI efforts.",
-        "published_date": "2025-03-25 19:03:00"
+        "published_date": "2025-03-25 19:03:00",
+        "summary": "Iason Gabriel from Google DeepMind discusses the critical importance of thinking through the ethics of AI assistants like Gemini in Google Workspace, focusing on responsible development and deployment. The article emphasizes principles such as fairness, accountability, transparency, and human oversight to ensure AI tools are beneficial, minimize harm, and align with societal values.",
+        "tags": [
+            "AI Ethics",
+            "Gemini",
+            "Google DeepMind",
+            "Responsible AI",
+            "AI Assistants",
+            "Fairness",
+            "Transparency",
+            "Google Workspace"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -756,7 +1485,18 @@
         "read_time": "3-minute",
         "track": "productivity and collaboration",
         "description": "Enhance your time utilization with these new techniques",
-        "published_date": "2025-03-24 21:03:00"
+        "published_date": "2025-03-24 21:03:00",
+        "summary": "This article focuses on strategies for reviewing and optimizing time usage within Google Workspace to enhance personal productivity and efficiency. It suggests leveraging Calendar insights, analyzing task completion rates, and utilizing features like Gemini for summarization to identify time sinks and reallocate effort towards high-impact activities.",
+        "tags": [
+            "Time Management",
+            "Productivity",
+            "Google Workspace",
+            "Efficiency",
+            "Self-Reflection",
+            "Google Calendar",
+            "Gemini",
+            "Work Habits"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -767,7 +1507,18 @@
         "read_time": "3-minute",
         "track": "customer stories",
         "description": "MEDITECH saves 7 hours per employee weekly with Gemini, boosting job satisfaction and simplifying access to complex healthcare data.",
-        "published_date": "2025-03-21 20:03:00"
+        "published_date": "2025-03-21 20:03:00",
+        "summary": "MEDITECH, a leading healthcare EHR provider, is successfully integrating Gemini into its highly regulated healthcare workflows within Google Workspace, enhancing productivity while maintaining strict compliance. Gemini assists MEDITECH staff with tasks like summarizing patient data, drafting clinical notes, and improving internal communication, all under robust security and privacy controls to meet healthcare regulations.",
+        "tags": [
+            "MEDITECH",
+            "Gemini",
+            "Healthcare Workflows",
+            "Google Workspace",
+            "Compliance",
+            "EHR",
+            "AI in Healthcare",
+            "Customer Story"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -778,7 +1529,18 @@
         "read_time": "3-minute",
         "track": "ai and machine learning",
         "description": "Learn how to measure AI's impact on your business with five tips",
-        "published_date": "2025-03-19 19:03:00"
+        "published_date": "2025-03-19 19:03:00",
+        "summary": "This article explores how to effectively measure the value Gemini brings to a company within Google Workspace, moving beyond anecdotal evidence to quantifiable metrics. It suggests tracking productivity gains, time savings on specific tasks, improved content quality, and enhanced decision-making speed as key indicators of AI's impact on business outcomes.",
+        "tags": [
+            "Gemini",
+            "Value Measurement",
+            "Google Workspace",
+            "Productivity Metrics",
+            "ROI",
+            "AI Impact",
+            "Business Outcomes",
+            "Generative AI"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -789,7 +1551,18 @@
         "read_time": "3-minute",
         "track": "identity and security",
         "description": "Gemini in Workspace and the Gemini app are the first to achieve FedRAMP High, enabling secure AI use for government agencies.",
-        "published_date": "2025-03-18 23:03:00"
+        "published_date": "2025-03-18 23:03:00",
+        "summary": "Gemini in Workspace apps and the standalone Gemini app have achieved FedRAMP High Authorization, making them the first generative AI services to meet this stringent security standard for U.S. federal agencies. This accreditation underscores Google's commitment to robust data protection, compliance, and secure AI capabilities for government and highly regulated industries.",
+        "tags": [
+            "Gemini",
+            "FedRAMP High",
+            "Google Workspace",
+            "Security Authorization",
+            "Government",
+            "Compliance",
+            "Generative AI",
+            "Data Protection"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -800,7 +1573,18 @@
         "read_time": "3-minute",
         "track": "productivity and collaboration",
         "description": "Discover five ways Google Drive helps small businesses thrive.",
-        "published_date": "2025-03-18 19:03:00"
+        "published_date": "2025-03-18 19:03:00",
+        "summary": "This article outlines five ways Google Drive can help small businesses thrive by enhancing collaboration, streamlining file management, and ensuring data security within Google Workspace. Tips include using shared drives for team projects, leveraging version history, integrating with other Workspace apps, and employing robust sharing controls to boost efficiency and protect valuable data.",
+        "tags": [
+            "Google Drive",
+            "Small Business",
+            "Productivity",
+            "Collaboration",
+            "File Management",
+            "Data Security",
+            "Google Workspace",
+            "Efficiency"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -811,7 +1595,18 @@
         "read_time": "4-minute",
         "track": "customer stories",
         "description": "BLADE uses Google Workspace for seamless flight coordination and logistics",
-        "published_date": "2025-03-13 20:03:00"
+        "published_date": "2025-03-13 20:03:00",
+        "summary": "BLADE, a leading urban air mobility company, is taking air travel to new heights by leveraging Google Workspace to power its agile operations and enhance customer experience. Workspace's integrated suite of communication and collaboration tools enables BLADE's teams to coordinate seamlessly, streamline bookings, and manage logistics efficiently, supporting rapid growth and innovative service delivery.",
+        "tags": [
+            "BLADE",
+            "Google Workspace",
+            "Air Mobility",
+            "Collaboration",
+            "Customer Experience",
+            "Productivity",
+            "Logistics",
+            "Customer Story"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -822,7 +1617,18 @@
         "read_time": "2-minute",
         "track": "ai and machine learning",
         "description": "Plan your Next \u201825 agenda with the top Workspace session you don\u2019t want to miss.",
-        "published_date": "2025-03-12 19:03:00"
+        "published_date": "2025-03-12 19:03:00",
+        "summary": "This article highlights the top Google Workspace sessions from Google Cloud Next '25, focusing on AI innovations, productivity enhancements, and security advancements. Key sessions cover Gemini's impact on daily workflows, best practices for AI adoption, and strategies for leveraging Workspace's integrated tools to transform business operations.",
+        "tags": [
+            "Google Cloud Next '25",
+            "Google Workspace",
+            "AI Innovation",
+            "Gemini",
+            "Productivity",
+            "Security",
+            "Cloud Events",
+            "Sessions"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -833,7 +1639,18 @@
         "read_time": "2-minute",
         "track": "ai and machine learning",
         "description": "Learn how Deep Research can save you hours of time by creating thoroughly researched reports on any topic you need.",
-        "published_date": "2025-03-06 20:03:00"
+        "published_date": "2025-03-06 20:03:00",
+        "summary": "Google introduces \"Deep Research,\" a new AI-powered research assistant integrated into Google Workspace, designed to significantly streamline information gathering and synthesis. Deep Research leverages advanced AI models to quickly analyze vast amounts of data, extract key insights, and summarize complex topics, helping users accelerate their research and decision-making processes.",
+        "tags": [
+            "Deep Research",
+            "AI Research Assistant",
+            "Google Workspace",
+            "Information Gathering",
+            "Data Synthesis",
+            "Productivity",
+            "Generative AI",
+            "Insights"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -844,7 +1661,18 @@
         "read_time": "2-minute",
         "track": "identity and security",
         "description": "We're pleased to announce that Google Cloud has been recognized as a Leader in The Forrester Wave\u2122: Data Security Platforms, Q1 2025 report.",
-        "published_date": "2025-03-06 00:03:00"
+        "published_date": "2025-03-06 00:03:00",
+        "summary": "Google Cloud has been named a Leader in The Forrester Wave\u2122: Data Security Platforms, Q1 2025 report, underscoring its robust capabilities in protecting sensitive data across various environments, including Google Workspace. This recognition highlights Google's comprehensive security offerings, strong data loss prevention, and advanced threat intelligence, providing enterprises with cutting-edge data protection.",
+        "tags": [
+            "Google Cloud",
+            "Forrester Wave",
+            "Data Security Platforms",
+            "Leader",
+            "Data Protection",
+            "DLP",
+            "Cybersecurity",
+            "Google Workspace"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -855,7 +1683,18 @@
         "read_time": "17-minute",
         "track": "ai and machine learning",
         "description": "Explore 128 ways our customers use Google Workspace with Gemini",
-        "published_date": "2025-03-05 21:03:00"
+        "published_date": "2025-03-05 21:03:00",
+        "summary": "This article showcases how various Google Workspace customers are transforming their work with AI, leveraging tools like Gemini and NotebookLM to boost productivity and innovation. Customer stories highlight AI's impact on automating routine tasks, enhancing content creation, speeding up research, and fostering more efficient collaboration across diverse industries.",
+        "tags": [
+            "AI Transformation",
+            "Google Workspace",
+            "Gemini",
+            "NotebookLM",
+            "Customer Stories",
+            "Productivity",
+            "Innovation",
+            "Automation"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -866,7 +1705,18 @@
         "read_time": "2-minute",
         "track": "ai and machine learning",
         "description": "Manage leads with the Salesforce extension for Gemini in Gmail",
-        "published_date": "2025-03-05 20:03:00"
+        "published_date": "2025-03-05 20:03:00",
+        "summary": "This article explains how to leverage the Salesforce extension with Gemini in Gmail to enhance productivity for sales and marketing professionals within Google Workspace. Users can access Salesforce data, draft personalized emails, and summarize customer interactions directly from Gmail using Gemini's AI capabilities, streamlining workflows and improving customer relationship management.",
+        "tags": [
+            "Salesforce Extension",
+            "Gemini",
+            "Gmail",
+            "Google Workspace",
+            "Sales Productivity",
+            "CRM",
+            "AI Integration",
+            "Workflow"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -877,7 +1727,18 @@
         "read_time": "4-minute",
         "track": "product announcements",
         "description": "Four new features in Google Workspace to make research and analysis easier",
-        "published_date": "2025-02-26 20:02:00"
+        "published_date": "2025-02-26 20:02:00",
+        "summary": "The February Workspace Feature Drop introduced a range of new capabilities and AI enhancements across Google Workspace, designed to further boost user productivity and collaboration. Key updates included expanded Gemini integrations, improvements to smart chip functionality, and new features for Google Meet, all aimed at delivering a more seamless and intelligent work experience.",
+        "tags": [
+            "Workspace Drop",
+            "Google Workspace",
+            "AI Features",
+            "Gemini",
+            "Smart Chips",
+            "Google Meet",
+            "Productivity",
+            "Collaboration"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -888,7 +1749,18 @@
         "read_time": "3-minute",
         "track": "customer stories",
         "description": "Learn how Forum Virium Helsinki optimized costs and improved collaboration with Google Workspace",
-        "published_date": "2025-02-25 20:02:00"
+        "published_date": "2025-02-25 20:02:00",
+        "summary": "Forum Virium Helsinki, the innovation company of the City of Helsinki, has built a thriving workplace by leveraging Google Workspace to enhance collaboration and efficiency. The platform's integrated communication tools, cloud-based document sharing, and robust security features enable their teams to innovate and manage smart city projects effectively, fostering a dynamic and productive environment.",
+        "tags": [
+            "Forum Virium Helsinki",
+            "Google Workspace",
+            "Smart City",
+            "Innovation",
+            "Collaboration",
+            "Productivity",
+            "Customer Story",
+            "Cloud Solutions"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -899,7 +1771,18 @@
         "read_time": "2-minute",
         "track": "ai and machine learning",
         "description": "In this edition, we share how teams at Understood.org leverage Gemini to save 10 hours per research project",
-        "published_date": "2025-02-21 20:02:00"
+        "published_date": "2025-02-21 20:02:00",
+        "summary": "Understood.org is leveraging Gemini within Google Workspace to significantly reduce stress and save an estimated 10 hours per project by streamlining content creation and summarizing complex information. Gemini's AI assistance helps their team accelerate drafting, refine communication, and gain insights faster, allowing them to focus on their mission of supporting individuals with learning and thinking differences.",
+        "tags": [
+            "Understood.org",
+            "Gemini",
+            "Google Workspace",
+            "Productivity",
+            "Time Savings",
+            "Content Creation",
+            "AI Assistance",
+            "Non-Profit"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -910,7 +1793,18 @@
         "read_time": "4-minute",
         "track": "ai and machine learning",
         "description": "Explore how gen AI can help research, reduce bias, and ideate faster for better business outcomes.",
-        "published_date": "2025-02-20 20:02:00"
+        "published_date": "2025-02-20 20:02:00",
+        "summary": "This article explores how Generative AI, particularly within Google Workspace with Gemini, can help individuals and organizations make better decisions by providing faster access to insights, synthesizing complex information, and generating diverse perspectives. By automating data analysis and offering intelligent summaries, Gen AI empowers users to evaluate options more thoroughly and confidently.",
+        "tags": [
+            "Generative AI",
+            "Decision Making",
+            "Gemini",
+            "Google Workspace",
+            "AI Insights",
+            "Data Analysis",
+            "Problem Solving",
+            "Productivity"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -921,7 +1815,18 @@
         "read_time": "3-minute",
         "track": "identity and security",
         "description": "Learn how Google Workspace can help you achieve CMMC 2.0 compliance",
-        "published_date": "2025-02-10 20:02:00"
+        "published_date": "2025-02-10 20:02:00",
+        "summary": "Google Workspace can help organizations achieve CMMC 2.0 compliance by providing a secure and controlled environment for handling sensitive government data. Its robust security features, including advanced access controls, data loss prevention, and audit logging, align with CMMC requirements for protecting Controlled Unclassified Information (CUI), making it a suitable platform for defense contractors.",
+        "tags": [
+            "CMMC 2.0 Compliance",
+            "Google Workspace",
+            "Cybersecurity",
+            "Government Contracts",
+            "Data Protection",
+            "Security",
+            "CUI",
+            "Defense Contractors"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -932,7 +1837,18 @@
         "read_time": "3-minute",
         "track": "ai and machine learning",
         "description": "Learn the three do\u2019s and dont\u2019s to get the most out of your migration to Google Workspace",
-        "published_date": "2025-02-06 20:02:00"
+        "published_date": "2025-02-06 20:02:00",
+        "summary": "This article provides three key 'dos and don'ts' for organizations to maximize the benefits of migrating to Google Workspace. It emphasizes thorough planning, comprehensive user training, and leveraging AI tools like Gemini post-migration, while cautioning against neglecting data hygiene, underestimating change management, and failing to secure executive buy-in for a successful transition.",
+        "tags": [
+            "Google Workspace",
+            "Migration",
+            "Best Practices",
+            "Change Management",
+            "AI Adoption",
+            "Gemini",
+            "Cloud Migration",
+            "Productivity"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -943,7 +1859,18 @@
         "read_time": "3-minute",
         "track": "identity and security",
         "description": "Learn how to defend against malware and phishing attacks with Google Workspace, Chrome Enterprise, and ChromeOS.",
-        "published_date": "2025-02-05 20:02:00"
+        "published_date": "2025-02-05 20:02:00",
+        "summary": "This guide offers practical strategies for defending against malware and phishing attacks within Google Workspace, emphasizing proactive security measures and user education. It covers leveraging Workspace's built-in advanced threat protection, multi-factor authentication, robust spam filters, and ongoing training to protect organizations from common cyber threats.",
+        "tags": [
+            "Malware Protection",
+            "Phishing Defense",
+            "Cybersecurity",
+            "Google Workspace",
+            "Threat Protection",
+            "Security Guide",
+            "MFA",
+            "User Education"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -954,7 +1881,18 @@
         "read_time": "3-minute",
         "track": "ai and machine learning",
         "description": "In this edition, we share how to use questions with Gemini for better results",
-        "published_date": "2025-01-30 20:01:00"
+        "published_date": "2025-01-30 20:01:00",
+        "summary": "The 'Beyond the Prompt' series continues by emphasizing the importance of asking precise and iterative questions to achieve better prompting results with Gemini in Google Workspace. This approach encourages users to refine their queries, provide context, and explore different angles to guide the AI towards more accurate, detailed, and relevant outputs for various tasks.",
+        "tags": [
+            "Prompting",
+            "Gemini",
+            "Google Workspace",
+            "Prompt Engineering",
+            "AI Interaction",
+            "Best Practices",
+            "Generative AI",
+            "Questioning"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -965,7 +1903,18 @@
         "read_time": "4-minute",
         "track": "customer stories",
         "description": "Uber achieved a 98% cost reduction and 95% faster resolution times by developing a custom admin app using Google AppSheet and Apps Script",
-        "published_date": "2025-01-28 20:01:00"
+        "published_date": "2025-01-28 20:01:00",
+        "summary": "Uber is resolving internal issues faster by leveraging Google AppSheet and Google Apps Script, demonstrating how no-code development and automation enhance operational efficiency within their Google Workspace environment. These tools enable Uber to quickly build custom applications and automate workflows, streamlining processes and improving response times for complex challenges across their global operations.",
+        "tags": [
+            "Uber",
+            "Google AppSheet",
+            "Google Apps Script",
+            "No-Code Development",
+            "Automation",
+            "Operational Efficiency",
+            "Google Workspace",
+            "Customer Story"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -976,7 +1925,18 @@
         "read_time": "3-minute",
         "track": "ai and machine learning",
         "description": "Learn 3 ways to strengthen your generative AI skills",
-        "published_date": "2025-01-23 20:01:00"
+        "published_date": "2025-01-23 20:01:00",
+        "summary": "This article outlines three ways to strengthen an organization's \"Gen AI muscles\" within Google Workspace, fostering greater proficiency and adoption of generative AI tools like Gemini. These include encouraging experimentation, providing structured training on prompt engineering, and integrating AI into core workflows to build collective expertise and maximize productivity.",
+        "tags": [
+            "Generative AI",
+            "AI Adoption",
+            "Google Workspace",
+            "Gemini",
+            "Training",
+            "Prompt Engineering",
+            "Skill Development",
+            "Productivity"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -987,7 +1947,18 @@
         "read_time": "2-minute",
         "track": "productivity and collaboration",
         "description": "Our productivity expert shares ways to beat procrastination",
-        "published_date": "2025-01-22 22:01:00"
+        "published_date": "2025-01-22 22:01:00",
+        "summary": "This productivity column addresses strategies for beating procrastination within a Google Workspace environment, offering practical tips for better focus and task completion. It suggests using Calendar for time blocking, Tasks for clear prioritization, and leveraging Gemini for quick content generation to overcome inertia and maintain momentum on important projects.",
+        "tags": [
+            "Procrastination",
+            "Productivity Tips",
+            "Google Workspace",
+            "Time Management",
+            "Focus",
+            "Google Calendar",
+            "Google Tasks",
+            "Gemini"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -998,7 +1969,18 @@
         "read_time": "4-minute",
         "track": "customer stories",
         "description": "Sundogs leverages the power of Google Workspace with Gemini to drive impactful campaigns for global clients.",
-        "published_date": "2025-01-16 22:01:00"
+        "published_date": "2025-01-16 22:01:00",
+        "summary": "Sundogs, a creative agency, is scaling to meet complex creative challenges by leveraging Google Workspace with Gemini, enhancing efficiency and innovation in its projects. Gemini's AI capabilities assist with brainstorming, content generation, and streamlining production workflows, allowing Sundogs to deliver high-quality creative solutions at an accelerated pace for its growing client base.",
+        "tags": [
+            "Sundogs",
+            "Google Workspace",
+            "Gemini",
+            "Creative Agency",
+            "Scalability",
+            "Innovation",
+            "AI Assistance",
+            "Customer Story"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -1009,7 +1991,18 @@
         "read_time": "4-minute",
         "track": "product announcements",
         "description": "The best of Google AI is now included in Workspace Business & Enterprise plans, giving you AI features like Gemini and NotebookLM Plus with no add-on needed.",
-        "published_date": "2025-01-15 16:01:00"
+        "published_date": "2025-01-15 16:01:00",
+        "summary": "Google Workspace is empowering businesses with advanced AI capabilities, primarily through Gemini, to boost productivity, foster innovation, and streamline operations across various sectors. These AI integrations assist with tasks from content creation and data analysis to communication and workflow automation, enabling organizations to achieve more with their existing resources.",
+        "tags": [
+            "AI for Business",
+            "Google Workspace",
+            "Gemini",
+            "Productivity",
+            "Innovation",
+            "Automation",
+            "Business Empowerment",
+            "Generative AI"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -1020,7 +2013,18 @@
         "read_time": "3-minute",
         "track": "ai and machine learning",
         "description": "Learn about the four common AI pitfalls to avoid this year",
-        "published_date": "2025-01-13 20:01:00"
+        "published_date": "2025-01-13 20:01:00",
+        "summary": "This article identifies four common pitfalls to avoid when implementing Generative AI within an organization, such as over-reliance on AI, neglecting human oversight, failing to validate outputs, and inadequate data privacy considerations. It emphasizes the importance of a balanced approach, robust governance, and continuous learning to successfully integrate Gen AI tools like Gemini in Google Workspace.",
+        "tags": [
+            "Generative AI",
+            "AI Pitfalls",
+            "Best Practices",
+            "Gemini",
+            "Google Workspace",
+            "AI Governance",
+            "Human Oversight",
+            "Data Privacy"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -1031,7 +2035,18 @@
         "read_time": "4-minute",
         "track": "ai and machine learning",
         "description": "Learn how Gemini for Workspace can help sellers and marketers save time and focus on what matters most",
-        "published_date": "2025-01-09 20:01:00"
+        "published_date": "2025-01-09 20:01:00",
+        "summary": "This article highlights four ways Gemini in Google Workspace empowers sellers and marketers to focus on high-value activities by automating routine tasks and enhancing creative output. Gemini assists with drafting personalized emails, generating campaign content, summarizing market research, and analyzing customer data, allowing professionals to dedicate more time to strategy and client engagement.",
+        "tags": [
+            "Gemini",
+            "Google Workspace",
+            "Sales Productivity",
+            "Marketing Efficiency",
+            "AI Automation",
+            "Content Generation",
+            "Customer Engagement",
+            "Generative AI"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -1042,7 +2057,18 @@
         "read_time": "2-minute",
         "track": "product announcements",
         "description": "Learn how our updated smart feature settings make it easier to manage your data",
-        "published_date": "2025-01-07 20:01:00"
+        "published_date": "2025-01-07 20:01:00",
+        "summary": "Google Workspace is rolling out updated smart feature settings, providing users with increased choice and control over how their data is used to power intelligent functionalities across applications like Gmail, Docs, and Calendar. These granular controls enhance transparency and privacy, allowing users to customize their experience while still benefiting from AI-powered assistance.",
+        "tags": [
+            "Smart Features",
+            "Google Workspace",
+            "Privacy Controls",
+            "User Choice",
+            "Data Settings",
+            "Gmail",
+            "Google Docs",
+            "Transparency"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -1053,7 +2079,18 @@
         "read_time": "3-minute",
         "track": "customer stories",
         "description": "PEAR Health Labs achieves secure and agile collaboration with Google Workspace",
-        "published_date": "2024-12-23 20:12:00"
+        "published_date": "2024-12-23 20:12:00",
+        "summary": "Pear Health Labs is activating secure and agile collaboration by leveraging Google Workspace to streamline its operations and accelerate healthcare innovation. The integrated suite of tools, coupled with robust security features, enables Pear Health Labs to maintain compliance while fostering efficient teamwork and rapid development of digital health solutions.",
+        "tags": [
+            "Pear Health Labs",
+            "Google Workspace",
+            "Healthcare Innovation",
+            "Secure Collaboration",
+            "Agile Development",
+            "Compliance",
+            "Customer Story",
+            "Digital Health"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -1064,7 +2101,18 @@
         "read_time": "4-minute",
         "track": "customer stories",
         "description": "Learn how Vendasta moved from Slack to Google Chat to boost collaboration among its 800 global employees",
-        "published_date": "2024-12-19 20:12:00"
+        "published_date": "2024-12-19 20:12:00",
+        "summary": "Vendasta, a platform for local businesses, successfully migrated to Google Chat, facilitated by CloudFuze, to enhance internal communication and collaboration within their Google Workspace environment. The transition improved team messaging, file sharing, and project coordination, demonstrating the benefits of a unified communication platform for a growing enterprise.",
+        "tags": [
+            "Vendasta",
+            "Google Chat",
+            "CloudFuze",
+            "Cloud Migration",
+            "Team Communication",
+            "Collaboration",
+            "Google Workspace",
+            "Customer Story"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -1075,7 +2123,18 @@
         "read_time": "4-minute",
         "track": "customer stories",
         "description": "Learn how COCHA modernized travel and cut costs by 90% with Google Voice and Google Workspace.",
-        "published_date": "2024-12-18 20:12:00"
+        "published_date": "2024-12-18 20:12:00",
+        "summary": "Cocha, a leading travel agency, is modernizing its communication infrastructure and cutting costs by adopting Google Voice within Google Workspace. Google Voice provides a flexible, cloud-based telephony solution that integrates seamlessly with their existing Workspace tools, improving customer service, internal communication, and overall operational efficiency.",
+        "tags": [
+            "Cocha",
+            "Google Voice",
+            "Google Workspace",
+            "Travel Agency",
+            "Cost Savings",
+            "Communication",
+            "Cloud Telephony",
+            "Customer Story"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -1086,7 +2145,18 @@
         "read_time": "4-minute",
         "track": "customer stories",
         "description": "Learn how Forus uses Google Workspace to connect employees and foster collaboration across multiple locations.",
-        "published_date": "2024-12-13 20:12:00"
+        "published_date": "2024-12-13 20:12:00",
+        "summary": "Forus, an organization dedicated to empowering civil society, fosters collaboration and builds community by leveraging Google Workspace. The platform's integrated tools like Gmail, Docs, and Drive enable seamless communication, document sharing, and project management across diverse teams and global partners, facilitating their mission to drive social change.",
+        "tags": [
+            "Forus",
+            "Google Workspace",
+            "Collaboration",
+            "Community Building",
+            "Civil Society",
+            "Productivity",
+            "Global Teams",
+            "Customer Story"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
@@ -1097,7 +2167,18 @@
         "read_time": "3-minute",
         "track": "productivity and collaboration",
         "description": "Explore key AppSheet updates from 2024 and learn how they can benefit your business",
-        "published_date": "2024-12-12 20:12:00"
+        "published_date": "2024-12-12 20:12:00",
+        "summary": "AppSheet's year in review highlights its advancements in AI-powered app development and more streamlined controls, empowering Google Workspace users to create custom applications without code. Key updates include enhanced AI assistance for app creation from natural language and improved governance features, making it easier for businesses to automate workflows and build tailored solutions.",
+        "tags": [
+            "AppSheet",
+            "No-Code Development",
+            "AI Powered Apps",
+            "Google Workspace",
+            "Automation",
+            "Workflow",
+            "Productivity",
+            "App Development"
+        ]
     },
     {
         "website": "GOOGLE_WORKSPACE_BLOG",

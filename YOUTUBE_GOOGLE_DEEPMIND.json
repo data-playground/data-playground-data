@@ -1,0 +1,152 @@
+[
+    {
+        "website": "YOUTUBE_GOOGLE_DEEPMIND",
+        "link": "https://www.youtube.com/watch?v=2t2pMtJGv6k",
+        "title": "Waymo: The future of autonomous driving with Vincent Vanhoucke",
+        "thumbnail": "https://www.youtube.com/v/2t2pMtJGv6k?version=3",
+        "author": "Google DeepMind",
+        "track": null,
+        "description": "How do you train an AI to drive safer than a human? Professor Hannah Fry sits down with Waymo Distinguished Engineer Vincent Vanhoucke to break down the complexities of autonomous driving\u2014from the \"closed loop\" problem of real-world traffic to using generative AI for simulation. Plus, Hannah moves from theory to practice, taking a Waymo for a spin in California to experience it firsthand.\n\nTimecodes\n00:00 Intro\n01:02 Ride around town\n03:48 The driverless car problem\n08:43 Sensors \n13:00 3D model of the world \n16:42 Closed loop problem \n22:51 Multimodal models \n29:31 Tokenizing \n34:39 Human drivers \n43:51 Safety \n48:41 London and the future \n52:44 Outro\n___\n\nThanks to everyone who made this possible, including but not limited to: \n\nPresenter: Professor Hannah Fry\nSeries Producer: Dan Hardoon\nEditor: Rami Tzabar\nCommissioner & Producer: Emma Yousif\nMusic composition: Eleni Shaw\nAudio engineer: Richard Courtice\n\nVideo Editor: Anthony Le\nAudio Engineer: Perry Rogantin\nVisual Identity and Design: Rob Ashley \nCommissioned by Google DeepMind\n\n____\nSubscribe to our channel https://www.youtube.com/@googledeepmind\nFind us on X https://twitter.com/GoogleDeepMind\nFollow us on Instagram https://instagram.com/googledeepmind\nAdd us on Linkedin https://www.linkedin.com/company/deepmind/",
+        "published_date": "2025-11-06 18:57:24"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEEPMIND",
+        "link": "https://www.youtube.com/watch?v=kv-b6RFRbfI",
+        "title": "Part 2: Social engineering, malware, and the future of cybersecurity in AI",
+        "thumbnail": "https://www.youtube.com/v/kv-b6RFRbfI?version=3",
+        "author": "Google DeepMind",
+        "track": null,
+        "description": "In part two, Hannah and Four tackle the human element at the heart of cybersecurity: Who are the bad actors, and what motivates them? They dissect the evolving strategies designed to stop social engineering attacks - like passkeys and risk-based authentication - and confront the complex security and privacy challenges that may be introduced by autonomous agents.\n\nIf you haven't watched part one, start here: https://youtu.be/1gO2bC5xLlo\n\nTimecodes:\n00:00 Intro\n01:30 Bad actors \n08:00 Project Zero \n14:00 Social engineering\n16:25 Best practices \n20:00 Agents \n26:30 Global cooperation \n27:20 Hannah's thoughts\n\n_____\n\nFurther reading:\nCodeMender: https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/\nCybersecurity at Google: https://blog.google/technology/safety-security/ai-security-frontier-strategy-tools/\nThreat intelligence report: https://cloud.google.com/blog/topics/threat-intelligence/adversarial-misuse-generative-ai\n\n___\n\nThanks to everyone who made this possible, including but not limited to: \n\nPresenter: Professor Hannah Fry\nSeries Producer: Dan Hardoon\nEditor: Rami Tzabar\nCommissioner & Producer: Emma Yousif\nMusic composition: Eleni Shaw\nAudio engineer: Richard Courtice\n\nVideo Editor: Bilal Merhi \nAudio Engineer: Perry Rogantin\nVisual Identity and Design: Rob Ashley \nCommissioned by Google DeepMind\n\n____\nSubscribe to our channel https://www.youtube.com/@googledeepmind\nFind us on X https://twitter.com/GoogleDeepMind\nFollow us on Instagram https://instagram.com/googledeepmind\nAdd us on Linkedin https://www.linkedin.com/company/deepmind/",
+        "published_date": "2025-10-16 16:08:50"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEEPMIND",
+        "link": "https://www.youtube.com/watch?v=yuQ7p3d4LLk",
+        "title": "Veo 3.1 - Add and remove objects to your scene",
+        "thumbnail": "https://www.youtube.com/v/yuQ7p3d4LLk?version=3",
+        "author": "Google DeepMind",
+        "track": null,
+        "description": "Add new elements to any scene. Introduce anything you can imagine, from realistic details to fantastical creatures. Veo now handles complex details like shadows and scene lighting, making the addition look natural.\n\nRemove unwanted objects or characters seamlessly. Soon, you\u2019ll be able to take anything out of a scene, and Veo will reconstruct the background and surroundings, making it look as though the object was never there. \n\nTry it today in Flow at flow.google.\n\nLearn more: https://blog.google/technology/ai/veo-updates-flow\n____\n\nSubscribe to our channel    / @googledeepmind  \nFind us on X   / googledeepmind  \nFollow us on Instagram   / googledeepmind  \nAdd us on Linkedin   / deepmind",
+        "published_date": "2025-10-15 15:56:43"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEEPMIND",
+        "link": "https://www.youtube.com/watch?v=ZFh6gVarloc",
+        "title": "Veo 3.1 - Frames to video",
+        "thumbnail": "https://www.youtube.com/v/ZFh6gVarloc?version=3",
+        "author": "Google DeepMind",
+        "track": null,
+        "description": "Control the shot from start to finish. Provide a starting and ending image, and Veo will generate a seamless video that bridges the two, perfect for artful and epic transitions. Try it today in Flow at flow.google.\n\nLearn more: https://blog.google/technology/ai/veo-updates-flow\n____\n\nSubscribe to our channel    / @googledeepmind  \nFind us on X   / googledeepmind  \nFollow us on Instagram   / googledeepmind  \nAdd us on Linkedin   / deepmind",
+        "published_date": "2025-10-15 15:56:35"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEEPMIND",
+        "link": "https://www.youtube.com/watch?v=8Uf6OO-XG00",
+        "title": "Veo 3.1 - Ingredients to video",
+        "thumbnail": "https://www.youtube.com/v/8Uf6OO-XG00?version=3",
+        "author": "Google DeepMind",
+        "track": null,
+        "description": "With \"Ingredients to Video,\" you can use multiple reference images to control the characters, objects and style. Veo uses your ingredients to create a final scene that looks just as you envisioned. Try it today in Flow at flow.google.\n\nLearn more: https://blog.google/technology/ai/veo-updates-flow\n____\n\nSubscribe to our channel https://www.youtube.com/@googledeepmind\nFind us on X https://twitter.com/GoogleDeepMind\nFollow us on Instagram https://instagram.com/googledeepmind\nAdd us on Linkedin https://www.linkedin.com/company/deepmind/",
+        "published_date": "2025-10-15 15:56:26"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEEPMIND",
+        "link": "https://www.youtube.com/watch?v=AuLw1H1opgE",
+        "title": "Veo 3.1 - Create longer, seamless shots",
+        "thumbnail": "https://www.youtube.com/v/AuLw1H1opgE?version=3",
+        "author": "Google DeepMind",
+        "track": null,
+        "description": "With \"Extend,\" you can create longer videos, even lasting for a minute or more, that connect to and continue the action from your original clip. Each video is generated based on the final second of your previous clip, making it most useful for creating a longer establishing shot. Try it today in Flow at flow.google.\n\nLearn more: https://blog.google/technology/ai/veo-updates-flow\n____\n\nSubscribe to our channel    / @googledeepmind  \nFind us on X   / googledeepmind  \nFollow us on Instagram   / googledeepmind  \nAdd us on Linkedin   / deepmind",
+        "published_date": "2025-10-15 15:56:20"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEEPMIND",
+        "link": "https://www.youtube.com/watch?v=B78BJuPxmBU",
+        "title": "Veo 3.1 and more artistic control in Flow",
+        "thumbnail": "https://www.youtube.com/v/B78BJuPxmBU?version=3",
+        "author": "Google DeepMind",
+        "track": null,
+        "description": "We\u2019re introducing Veo 3.1, which brings richer audio, more narrative control, and enhanced realism that captures true-to-life textures. Veo 3.1 is state-of-the-art and builds on Veo 3, with stronger prompt adherence and improved audiovisual quality when turning images into videos. We\u2019re also introducing new capabilities, and bringing audio to existing capabilities for the first time.\n\nLearn more: https://blog.google/technology/ai/veo-updates-flow\n\n____\n\nSubscribe to our channel https://www.youtube.com/@googledeepmind\nFind us on X https://twitter.com/GoogleDeepMind\nFollow us on Instagram https://instagram.com/googledeepmind\nAdd us on Linkedin https://www.linkedin.com/company/deepmind/",
+        "published_date": "2025-10-15 15:56:16"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEEPMIND",
+        "link": "https://www.youtube.com/watch?v=I06Ef8alr2Y",
+        "title": "Veo 3.1 - Designed to empower creatives",
+        "thumbnail": "https://www.youtube.com/v/I06Ef8alr2Y?version=3",
+        "author": "Google DeepMind",
+        "track": null,
+        "description": "We're giving creators more artistic control with increased support for audio across all features. We\u2019re also bringing audio to existing capabilities like \u201cIngredients to Video,\u201d \u201cFrames to Video\u201d and \u201cExtend.\u201d\n\nWe\u2019re also introducing Veo 3.1, which brings richer audio, more narrative control, and enhanced realism that captures true-to-life textures. Veo 3.1 is state-of-the-art and builds on Veo 3, with stronger prompt adherence and improved audiovisual quality when turning images into videos.\n\nTry it today at flow.google and learn more athttps://blog.google/technology/ai/veo-updates-flow\n____\n\nSubscribe to our channel https://www.youtube.com/@googledeepmind\nFind us on X https://twitter.com/GoogleDeepMind\nFollow us on Instagram https://instagram.com/googledeepmind\nAdd us on Linkedin https://www.linkedin.com/company/deepmind/",
+        "published_date": "2025-10-15 15:56:09"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEEPMIND",
+        "link": "https://www.youtube.com/watch?v=1gO2bC5xLlo",
+        "title": "Part 1: Social engineering, malware, and the future of cybersecurity in AI",
+        "thumbnail": "https://www.youtube.com/v/1gO2bC5xLlo?version=3",
+        "author": "Google DeepMind",
+        "track": null,
+        "description": "Social engineering, cyberattacks, and the fog of war - all topics covered in this interview with the VP of Security and Privacy at Google DeepMind. Hannah Fry and Four Flynn take us behind the scenes of Operation Aurora, the monumental 2009 attack on Google that forever changed the landscape of cybersecurity. They discuss the defender's dilemma, the constant battle between attackers and defenders in the digital world, and how AI can potentially help mitigate some of the most complex vulnerabilities.\n\nAs Hannah said, there was just too much to fit into one episode, so keep an eye on your feed for part 2. If you\u2019re worried about missing it, why not subscribe and turn on notifications for new episodes. Until next time!\n\n___\n\n00:00 Intro\n02:00 Project Aurora \n20:48 Defenders dilemma \n21:22 Zero Day vulnerabilities \n23:49 Kill chain\n25:39 LLM vulnerabilities \n27:00 Malware and polymorphism \n37:00 Big Sleep \n45:00 Using AI to fix vulnerabilities (CodeMender)\n51:10 Next time \n___\n\nFurther reading:\nCodeMender: https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/\nCybersecurity at Google: https://blog.google/technology/safety-security/ai-security-frontier-strategy-tools/\nThreat intelligence report: https://cloud.google.com/blog/topics/threat-intelligence/adversarial-misuse-generative-ai\n\n___\n\nThanks to everyone who made this possible, including but not limited to: \n\nPresenter: Professor Hannah Fry\nSeries Producer: Dan Hardoon\nEditor: Rami Tzabar\nCommissioner & Producer: Emma Yousif\nMusic composition: Eleni Shaw\nAudio engineer: Richard Courtice\n\nVideo Editor: Bilal Merhi \nAudio Engineer: Perry Rogantin\nVisual Identity and Design: Rob Ashley \nCommissioned by Google DeepMind\n\n____\n\nSubscribe to our channel https://www.youtube.com/@googledeepmind\nFind us on X https://twitter.com/GoogleDeepMind\nFollow us on Instagram https://instagram.com/googledeepmind\nAdd us on Linkedin https://www.linkedin.com/company/deepmind/",
+        "published_date": "2025-10-09 18:27:33"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEEPMIND",
+        "link": "https://www.youtube.com/watch?v=lULd8fmxJC0",
+        "title": "From sketches to prototype: Designing with generative AI",
+        "thumbnail": "https://www.youtube.com/v/lULd8fmxJC0?version=3",
+        "author": "Google DeepMind",
+        "track": null,
+        "description": "Using Gemini and Google DeepMind\u2019s generative image technology, we worked with Lovegrove Studio to build a fine-tuned model to act as a prototyping tool to support their creative process. The model translates Ross Lovegrove's distinct design language of organic, fluidlike structures and biomorphic forms into outputs that reflect his style, while also offering new directions. The result is a unique, fine-tuned model that can produce new ideas true to the studio\u2019s vision, demonstrating how AI can help artists move from a digital concept to a physical product.\n\nThis was a partnership with designer Ross Lovegrove and Creative Director Ila Colombo from Lovegrove Studio, as well as design office Modem and Serial Box studio.\n\nLearn more at https://blog.google/technology/google-deepmind/ross-lovegrove-design and try generating or editing your own images with Gemini at http://gemini.google\n\n___\n\nSubscribe to our channel https://www.youtube.com/@googledeepmind\nFind us on X https://twitter.com/GoogleDeepMind\nFollow us on Instagram https://instagram.com/googledeepmind\nAdd us on Linkedin https://www.linkedin.com/company/deepmind/",
+        "published_date": "2025-10-01 16:00:20"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEEPMIND",
+        "link": "https://www.youtube.com/watch?v=AMRxbIO04kQ",
+        "title": "Gemini Robotics 1.5: Using agentic capabilities",
+        "thumbnail": "https://www.youtube.com/v/AMRxbIO04kQ?version=3",
+        "author": "Google DeepMind",
+        "track": null,
+        "description": "Gemini Robotics 1.5 can use digital tools to solve tasks. For example, if a robot was asked, \u201cBased on my location, can you sort these objects into the correct compost, recycling and trash bins?\" it would need to search for relevant local recycling guidelines on the internet, look at the objects in front of it and figure out how to sort them based on those rules \u2014 and then do all the steps needed to completely put them away. So, to help robots complete these types of complex, multi-step tasks, we designed two models that work together in an agentic framework. \n\nLearn more at https://deepmind.google/models/gemini-robotics/\n___\n\nSubscribe to our channel https://www.youtube.com/@googledeepmind\nFind us on X https://twitter.com/GoogleDeepMind\nFollow us on Instagram https://instagram.com/googledeepmind\nAdd us on Linkedin https://www.linkedin.com/company/deepmind/",
+        "published_date": "2025-09-25 15:54:12"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEEPMIND",
+        "link": "https://www.youtube.com/watch?v=9FV5ZYytkOQ",
+        "title": "Gemini Robotics 1.5: Learning across embodiments",
+        "thumbnail": "https://www.youtube.com/v/9FV5ZYytkOQ?version=3",
+        "author": "Google DeepMind",
+        "track": null,
+        "description": "Robots come in all shapes and sizes, and have different sensing capabilities and different degrees of freedom, making it difficult to transfer motions learned from one robot to another. \n\nGemini Robotics 1.5 shows a remarkable ability to learn across different embodiments. It can transfer motions learned from one robot to another, without needing to specialize the model to each new embodiment. This breakthrough accelerates learning new behaviors, helping robots become smarter and more useful. \n\nLearn more at https://deepmind.google/models/gemini-robotics/\n___\n\nSubscribe to our channel https://www.youtube.com/@googledeepmind\nFind us on X https://twitter.com/GoogleDeepMind\nFollow us on Instagram https://instagram.com/googledeepmind\nAdd us on Linkedin https://www.linkedin.com/company/deepmind/",
+        "published_date": "2025-09-25 15:54:05"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEEPMIND",
+        "link": "https://www.youtube.com/watch?v=UObzWjPb6XM",
+        "title": "Gemini Robotics 1.5: Enabling robots to plan, think and use tools to solve complex tasks",
+        "thumbnail": "https://www.youtube.com/v/UObzWjPb6XM?version=3",
+        "author": "Google DeepMind",
+        "track": null,
+        "description": "We\u2019re powering an era of physical agents with Gemini Robotics 1.5 \u2014 enabling robots to perceive, plan, think, use tools and act to better solve complex, multi-step tasks.\n\n\ud83e\udd16 Gemini Robotics 1.5 is our most capable vision-language-action (VLA) model that turns visual information and instructions into motor commands for a robot to perform a task. This model thinks before taking action and shows its process, helping robots assess and complete complex tasks more transparently. It also learns across embodiments, accelerating skill learning.\n\n\ud83e\udd16 Gemini Robotics-ER 1.5 is our most capable vision-language model (VLM) that reasons about the physical world, natively calls digital tools and creates detailed, multi-step plans to complete a mission. This model now achieves state-of-the-art performance across spatial understanding benchmarks.\n\nWe\u2019re making Gemini Robotics-ER 1.5 available to developers via the Gemini API in Google AI Studio and Gemini Robotics 1.5 to select partners.\n\nLearn more: https://deepmind.google/models/gemini-robotics/\n\n------\n\nSubscribe to our channel https://www.youtube.com/@googledeepmind\nFind us on X https://twitter.com/GoogleDeepMind\nFollow us on Instagram https://instagram.com/googledeepmind\nAdd us on Linkedin https://www.linkedin.com/company/deepmind/",
+        "published_date": "2025-09-25 15:54:00"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEEPMIND",
+        "link": "https://www.youtube.com/watch?v=eDyXEh8XqjM",
+        "title": "Gemini Robotics 1.5: Thinking while acting",
+        "thumbnail": "https://www.youtube.com/v/eDyXEh8XqjM?version=3",
+        "author": "Google DeepMind",
+        "track": null,
+        "description": "Previously, robots could complete one tasks per instruction. Now, they can solve longer multi-step challenges. This means they can generate an internal sequence of reasoning and analysis in natural language to perform tasks that require multiple steps or require a deeper semantic understanding. \n\nLearn more at https://deepmind.google/models/gemini-robotics/\n___\n\nSubscribe to our channel https://www.youtube.com/@googledeepmind\nFind us on X https://twitter.com/GoogleDeepMind\nFollow us on Instagram https://instagram.com/googledeepmind\nAdd us on Linkedin https://www.linkedin.com/company/deepmind/",
+        "published_date": "2025-09-25 15:53:55"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEEPMIND",
+        "link": "https://www.youtube.com/shorts/EZpmgEpehYA",
+        "title": "Google DeepMind researchers react to Nano Banana demos \ud83c\udf4c",
+        "thumbnail": "https://www.youtube.com/v/EZpmgEpehYA?version=3",
+        "author": "Google DeepMind",
+        "track": null,
+        "description": "",
+        "published_date": "2025-09-24 17:26:50"
+    }
+]

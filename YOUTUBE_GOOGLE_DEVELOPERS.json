@@ -1,0 +1,152 @@
+[
+    {
+        "website": "YOUTUBE_GOOGLE_DEVELOPERS",
+        "link": "https://www.youtube.com/watch?v=r3-x0GtOmmc",
+        "title": "Code Execution with Gemini | Intro to Tools",
+        "thumbnail": "https://www.youtube.com/v/r3-x0GtOmmc?version=3",
+        "author": "Google for Developers",
+        "track": null,
+        "description": "Tools extend the abilities of large language models by connecting them to the outside world. Learn how to use the Code Execution tool with Gemini, which enables the model to generate and run Python code, for problems that involve math, data analysis, and code-based reasoning. This is Part 2 of our series on using tools with the Gemini API.\n\nSubscribe to Google for Developers \u2192 https://goo.gle/developers\n\nProducts Mentioned: Gemini, Google AI Studio,  Gemini API",
+        "published_date": "2025-11-08 00:58:43"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEVELOPERS",
+        "link": "https://www.youtube.com/watch?v=u5sQDKot0qE",
+        "title": "Building AI Agents with ADK Go",
+        "thumbnail": "https://www.youtube.com/v/u5sQDKot0qE?version=3",
+        "author": "Google for Developers",
+        "track": null,
+        "description": "Introducing the  Agent Development Kit (ADK) Go! This new toolkit is officially here, designed for Go developers ready to build powerful generative AI applications.\n\nGet started with our hands-on tutorial, where we'll guide you through building your very first intelligent Go agent. You'll learn the core concepts and see how the ADK Go streamlines the development of sophisticated AI solutions natively in Go.\n\nResources:\nGoogle for Developers \u2192 https://goo.gle/developers\nADK documentation \u2192 https://google.github.io/adk-docs\nSample agents \u2192 https://github.com/google/adk-samples\nADK Go source code \u2192 https://github.com/google/adk-go\n\nChapters: \n0:00 - Introducing the Go ADK\n0:53 - Build your first Go agent\n1:49 - Run your agent\n2:23 - Understanding Tools\n3:28 - Run your agent with tools\n5:00 - Multi-agent patterns in Go\n7:58 - State, Sessions, and Events \n\nSubscribe to Google for Developers \u2192 https://goo.gle/developers \n\n\nSpeaker: Ivan Cheung \nProducts Mentioned: Agent Development Kit (ADK)",
+        "published_date": "2025-11-07 17:13:59"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEVELOPERS",
+        "link": "https://www.youtube.com/shorts/QagTKYVfF_k",
+        "title": "Differences between AI automation and augmentation? \ud83e\udd14",
+        "thumbnail": "https://www.youtube.com/v/QagTKYVfF_k?version=3",
+        "author": "Google for Developers",
+        "track": null,
+        "description": "Automation is when AI completes a task with minimal user input and handles routing tasks. Augmentation amplifies the user\u2019s own skills, maximizing their creativity.  See how you can strike a balance between these powerful approaches to unlock new possibilities and enhance human potential.\n\nSubscribe to Google for Developers \u2192 https://goo.gle/developers \n\nSpeaker: Jonathan Caton \nProducts Mentioned: Google AI",
+        "published_date": "2025-11-07 05:00:29"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEVELOPERS",
+        "link": "https://www.youtube.com/shorts/lytlt8gBAYo",
+        "title": "THINK FAST: register for Devfest!",
+        "thumbnail": "https://www.youtube.com/v/lytlt8gBAYo?version=3",
+        "author": "Google for Developers",
+        "track": null,
+        "description": "Where did the box go? Never you mind. Just ask us about DevFest.\n\nResources:\nRSVP for DevFest here \u2192 https://goo.gle/43wInOK \n\nSubscribe to Google for Developers \u2192 https://goo.gle/developers \n\nEvent: DevFest \n\nSpeaker: Crystal Endless",
+        "published_date": "2025-11-06 20:00:47"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEVELOPERS",
+        "link": "https://www.youtube.com/shorts/yx9zHnBK85o",
+        "title": "Just in \ud83d\udcf0: Google Play Console updates -Gemini localization & deep link validation",
+        "thumbnail": "https://www.youtube.com/v/yx9zHnBK85o?version=3",
+        "author": "Google for Developers",
+        "track": null,
+        "description": "Uncover powerful new tools and features in Google Play Console designed for app developers. See how you can leverage Gemini for effortless localization, ensure reliable deep linking, and more!  Explore how these updates can accelerate your app's success and market reach.\n\nResources: \n Learn more \u2192 https://goo.gle/49711R4\n\nSubscribe to Google for Developers \u2192 https://goo.gle/developers \n\n#GoogleDeveloperNews\n\nSpeaker: Andrew Brogdon\nProducts Mentioned:  Gemini",
+        "published_date": "2025-11-06 17:29:09"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEVELOPERS",
+        "link": "https://www.youtube.com/shorts/ukW6n0UCp5g",
+        "title": "Supercharge your agents with Agent2Agent (A2A) Protocol! \u26a1",
+        "thumbnail": "https://www.youtube.com/v/ukW6n0UCp5g?version=3",
+        "author": "Google for Developers",
+        "track": null,
+        "description": "AI agents can write code, fetch data, and handle multi-step tasks, but often work in isolation. See how the Agent2Agent (A2A) Protocol can help your agents communicate, coordinate, and complete tasks across different systems. \n\nSubscribe to Google for Developers \u2192 https://goo.gle/developers \n\nSpeaker: M.E Francis \nProducts Mentioned: Cloud",
+        "published_date": "2025-11-06 05:01:10"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEVELOPERS",
+        "link": "https://www.youtube.com/watch?v=NWNNDvehBIU",
+        "title": "How to get started on Opal",
+        "thumbnail": "https://www.youtube.com/v/NWNNDvehBIU?version=3",
+        "author": "Google for Developers",
+        "track": null,
+        "description": "Megan Li  - Senior PM @ Google Labs - walks through a tutorial of Opal's visual editor. Learn how to create a new AI workflow or mini-app using natural language and a visual app builder. \n\nSubscribe to Google for Developers \u2192 https://goo.gle/developers \n\nSpeaker: Megan Li \nProducts Mentioned: Gemini",
+        "published_date": "2025-11-05 20:35:20"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEVELOPERS",
+        "link": "https://www.youtube.com/shorts/LXqassleEcw",
+        "title": "Don\u2019t forget to join us at #TheAndroidShow",
+        "thumbnail": "https://www.youtube.com/v/LXqassleEcw?version=3",
+        "author": "Google for Developers",
+        "track": null,
+        "description": "A behind the scenes peek at where Google devs ideate, design, and ship features that help developers distribute their apps and games. Get the full scoop at #TheAndroidShow!\n\nSubscribe to Google for Developers \u2192 https://goo.gle/developers \n\nSpeaker: Sajna Verna",
+        "published_date": "2025-11-05 20:00:31"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEVELOPERS",
+        "link": "https://www.youtube.com/shorts/wACQU4TWHTw",
+        "title": "That feeling when you drop your app's wait time. \u26a1\ufe0f",
+        "thumbnail": "https://www.youtube.com/v/wACQU4TWHTw?version=3",
+        "author": "Google for Developers",
+        "track": null,
+        "description": "Why, yes. I am happier that my app is low-latency. \n\nSubscribe to Google for Developers \u2192 https://goo.gle/developers \n\nSpeaker: M.E Francis",
+        "published_date": "2025-11-05 05:01:13"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEVELOPERS",
+        "link": "https://www.youtube.com/shorts/VK5fxLOKPu8",
+        "title": "What is SRE?",
+        "thumbnail": "https://www.youtube.com/v/VK5fxLOKPu8?version=3",
+        "author": "Google for Developers",
+        "track": null,
+        "description": "Our Google SREs explain what Site Reliability Engineering is and why reliability is an essential component of modern software engineering.\n\nResources: \nLearn about SRE \u2192 https://goo.gle/43IXUv2 \n\nSubscribe to Google for Developers \u2192 https://goo.gle/developers \n\nSpeaker: Salim Virji",
+        "published_date": "2025-11-05 00:00:40"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEVELOPERS",
+        "link": "https://www.youtube.com/shorts/gq6mXwicBO4",
+        "title": "What\u2019s going to happen when we call show()? Go!",
+        "thumbnail": "https://www.youtube.com/v/gq6mXwicBO4?version=3",
+        "author": "Google for Developers",
+        "track": null,
+        "description": "Here's a Python scoping puzzle that catches many developers off guard! This code appears straightforward - print a global variable, reassign it locally, print again. But Python's scoping rules have a surprise in store. Will this print 10 and 5, or will it raise an error? Understanding local versus global scope is essential for writing correct Python code.\n\nSubscribe to Google for Developers \u2192 https://goo.gle/developers \n\nSpeakers: Juan Vazquez",
+        "published_date": "2025-11-03 14:01:23"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEVELOPERS",
+        "link": "https://www.youtube.com/shorts/1QdNxfI2wTc",
+        "title": "A developer\u2019s haunted house \ud83d\udc7b",
+        "thumbnail": "https://www.youtube.com/v/1QdNxfI2wTc?version=3",
+        "author": "Google for Developers",
+        "track": null,
+        "description": "Outdated dependencies, endless meetings, and 3-way merge conflicts? Screamworthy! \n\nSubscribe to Google for Developers \u2192 https://goo.gle/developers \n\nSpeaker: M.E Francis",
+        "published_date": "2025-10-31 04:00:06"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEVELOPERS",
+        "link": "https://www.youtube.com/shorts/Y1SRd-HKbBU",
+        "title": "How should devs use AI thoughtfully? (3 questions to guide you)",
+        "thumbnail": "https://www.youtube.com/v/Y1SRd-HKbBU?version=3",
+        "author": "Google for Developers",
+        "track": null,
+        "description": "3 essential questions to thoughtfully integrate AI into your products by prioritizing user needs.\n\nSubscribe to Google for Developers \u2192 https://goo.gle/developers \n\nSpeaker: Mahima Pushkarna \nProducts Mentioned:  Google AI",
+        "published_date": "2025-10-30 23:00:59"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEVELOPERS",
+        "link": "https://www.youtube.com/watch?v=Pm3vxmvrK18",
+        "title": "Connecting Gemini API to the Outside World with Tools | Intro to Tools",
+        "thumbnail": "https://www.youtube.com/v/Pm3vxmvrK18?version=3",
+        "author": "Google for Developers",
+        "track": null,
+        "description": "Learn what tools are and why they're needed to get real-time information through a practical demo in Google AI Studio. This video shows how to enable the \"Grounding with Google Search\" tool to bypass a model's knowledge cutoff and provide a correct, cited answer to a real-world query. This is Part 1 of our series on using tools with the Gemini API.\n\nResources:\n\nStart building AI apps \u2192 https://goo.gle/4oARdmR \n\nWatch more AI Studio Tutorials\u2192https://goo.gle/AIStudioTutorials \nSubscribe to Google for Developers \u2192 https://goo.gle/developers \n\nProducts Mentioned: Google AI, Gemini, Gemini API",
+        "published_date": "2025-10-30 22:20:02"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEVELOPERS",
+        "link": "https://www.youtube.com/shorts/-YGIV5nrI3M",
+        "title": "Just in from the news desk \ud83d\udcf0: Gemini 2.5 Computer Use Model",
+        "thumbnail": "https://www.youtube.com/v/-YGIV5nrI3M?version=3",
+        "author": "Google for Developers",
+        "track": null,
+        "description": "The Computer Use model is a specialized model built on Gemini 2.5 Pro\u2019s capabilities to power agents that can interact with user interfaces. See how this tool enables you to build browser control agents that interact with and automate tasks.\n\nResources:\nLearn more\u2192 https://goo.gle/Computer-Use-Model \n\nSubscribe to Google for Developers \u2192 https://goo.gle/developers \n\n#GoogleDeveloperNews\n\nSpeaker: Juan Vasquez \nProducts Mentioned:  Products Mentioned: Google AI, Gemini, Gemini API",
+        "published_date": "2025-10-30 16:00:00"
+    }
+]

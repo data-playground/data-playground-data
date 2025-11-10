@@ -1,0 +1,152 @@
+[
+    {
+        "website": "YOUTUBE_TABLEAU",
+        "link": "https://www.youtube.com/watch?v=6zH8_AfZNDc",
+        "title": "Tableau Next and Slack Demo",
+        "thumbnail": "https://www.youtube.com/v/6zH8_AfZNDc?version=3",
+        "author": "Tableau",
+        "track": null,
+        "description": "Tableau Next infuses agentic analytics directly into your team's Slack workflow. Share permission-aware live metrics and dashboards in channels, direct messages, and canvases, ask agents natural language questions for accurate insights, and collaborate on a single source of truth\u2014all from Slack, with seamless click back to Tableau Next for deeper data exploration.\n\nLearn more: https://tabsoft.co/4lckwKY",
+        "published_date": "2025-06-16 15:00:22"
+    },
+    {
+        "website": "YOUTUBE_TABLEAU",
+        "link": "https://www.youtube.com/watch?v=Mn0w-xtAUi8",
+        "title": "6 Data Engineering Practices Every Developer Needs to Know",
+        "thumbnail": "https://www.youtube.com/v/Mn0w-xtAUi8?version=3",
+        "author": "Tableau",
+        "track": null,
+        "description": "Discover how Tableau developers can leverage key data engineering concepts to enhance their workflows and collaborate effectively with technical teams to enhance dashboard impact.",
+        "published_date": "2025-06-01 12:15:03"
+    },
+    {
+        "website": "YOUTUBE_TABLEAU",
+        "link": "https://www.youtube.com/watch?v=dnP12MtfCZU",
+        "title": "Designing Tableau Dashboards for Impact",
+        "thumbnail": "https://www.youtube.com/v/dnP12MtfCZU?version=3",
+        "author": "Tableau",
+        "track": null,
+        "description": "Showcase your data skills by creating playful dashboards. Learn how to use design principles and best practices to create impactful infographic dashboards for your portfolio and work.",
+        "published_date": "2025-05-31 15:30:18"
+    },
+    {
+        "website": "YOUTUBE_TABLEAU",
+        "link": "https://www.youtube.com/watch?v=yrb4-ZjdKns",
+        "title": "A Guide to Effective Tableau Dashboard Documentation",
+        "thumbnail": "https://www.youtube.com/v/yrb4-ZjdKns?version=3",
+        "author": "Tableau",
+        "track": null,
+        "description": "Have you been asked to maintain or fix a dashboard you didn\u2019t create? Don\u2019t panic. Learn how to create clear and effective Tableau dashboard documentation for easy troubleshooting or hand-off.",
+        "published_date": "2025-05-30 15:30:37"
+    },
+    {
+        "website": "YOUTUBE_TABLEAU",
+        "link": "https://www.youtube.com/watch?v=o_kxSqmgeAg",
+        "title": "Tableau 2025 Gartner BI Bake-Off",
+        "thumbnail": "https://www.youtube.com/v/o_kxSqmgeAg?version=3",
+        "author": "Tableau",
+        "track": null,
+        "description": "Each year, Gartner\u2019s Analytics & BI Bake-Off puts leading business intelligence platforms to the test, challenging them to solve real-world data problems in front of a live audience at the annual Data & Analytics Summit. It\u2019s more than just a feature showcase; it\u2019s a head-to-head competition where vendors must prove their ability to transform raw data into meaningful insights. This year, Tableau didn\u2019t just participate\u2014we set a new standard for AI-powered decision-making.",
+        "published_date": "2025-05-29 18:31:09"
+    },
+    {
+        "website": "YOUTUBE_TABLEAU",
+        "link": "https://www.youtube.com/watch?v=G1vbWmaT3u4",
+        "title": "Chart Chat Live: One Dataset, Four Different Ways",
+        "thumbnail": "https://www.youtube.com/v/G1vbWmaT3u4?version=3",
+        "author": "Tableau",
+        "track": null,
+        "description": "Four data experts remake one chart four different ways, sharing their design and analytical choices. Learn how to create better vizzes and be entertained.",
+        "published_date": "2025-05-28 18:55:36"
+    },
+    {
+        "website": "YOUTUBE_TABLEAU",
+        "link": "https://www.youtube.com/watch?v=ydO-brQalt8",
+        "title": "5 Dashboard Pitfalls Learned From Homeownership",
+        "thumbnail": "https://www.youtube.com/v/ydO-brQalt8?version=3",
+        "author": "Tableau",
+        "track": null,
+        "description": "Building dashboards is like owning a home \u2014 both require planning and organization. Learn how to avoid five common pitfalls with Tableau tips, stories, and techniques for better user experience and functionality.",
+        "published_date": "2025-05-27 18:31:14"
+    },
+    {
+        "website": "YOUTUBE_TABLEAU",
+        "link": "https://www.youtube.com/watch?v=pH_iMxPmFqE",
+        "title": "Tableau Next: Concierge Demo",
+        "thumbnail": "https://www.youtube.com/v/pH_iMxPmFqE?version=3",
+        "author": "Tableau",
+        "track": null,
+        "description": "Concierge, a pre-built Agentforce skill from Tableau Next, enables you to ask questions and receive trusted, actionable answers in natural language with visual insights. It helps Agentforce quickly get insights, drill down deeper, and ultimately make faster, more informed decisions.\n\nLearn more: https://tabsoft.co/4lckwKY",
+        "published_date": "2025-05-23 21:21:05"
+    },
+    {
+        "website": "YOUTUBE_TABLEAU",
+        "link": "https://www.youtube.com/watch?v=tFt_u0ExufA",
+        "title": "Relationships vs. Joins vs. Blends in Tableau",
+        "thumbnail": "https://www.youtube.com/v/tFt_u0ExufA?version=3",
+        "author": "Tableau",
+        "track": null,
+        "description": "Effectively bring tables together in Tableau. Learn all about joins, relationships, and blends\u2014how they work, when to use them, and best practices for building efficient, effective data models.",
+        "published_date": "2025-05-22 20:30:10"
+    },
+    {
+        "website": "YOUTUBE_TABLEAU",
+        "link": "https://www.youtube.com/watch?v=x2oT4gRA-OU",
+        "title": "3 Ways to Visualize Outliers in Tableau",
+        "thumbnail": "https://www.youtube.com/v/x2oT4gRA-OU?version=3",
+        "author": "Tableau",
+        "track": null,
+        "description": "Agentforce makes uncovering statistical insights a breeze, but how do you present those findings effectively to stakeholders? Get tips and best practices from the author of \u201cStatistical Tableau.\u201d",
+        "published_date": "2025-05-22 18:18:08"
+    },
+    {
+        "website": "YOUTUBE_TABLEAU",
+        "link": "https://www.youtube.com/watch?v=rkbMNhKT3NQ",
+        "title": "Tableau Semantics Demo",
+        "thumbnail": "https://www.youtube.com/v/rkbMNhKT3NQ?version=3",
+        "author": "Tableau",
+        "track": null,
+        "description": "Tableau Semantics is a powerful AI-infused semantic layer integrated into Data Cloud that translates your data into your business language. With an intuitive UI, built-in AI assistance, and agent enrichment capabilities, Tableau Semantics infuses your data with business knowledge, driving more accurate responses and relevant insights.\n\nLearn more: https://tabsoft.co/4lckwKY",
+        "published_date": "2025-05-21 16:01:24"
+    },
+    {
+        "website": "YOUTUBE_TABLEAU",
+        "link": "https://www.youtube.com/watch?v=NaA2t7F4HbI",
+        "title": "Effortless Dashboard Design: Reuse and Replicate Charts",
+        "thumbnail": "https://www.youtube.com/v/NaA2t7F4HbI?version=3",
+        "author": "Tableau",
+        "track": null,
+        "description": "Level up your Tableau game by leveraging existing designs from the DataFam. Learn key techniques for quickly reusing and replicating design patterns.",
+        "published_date": "2025-05-15 22:27:34"
+    },
+    {
+        "website": "YOUTUBE_TABLEAU",
+        "link": "https://www.youtube.com/watch?v=isCbRSgMIYo",
+        "title": "Tableau Speed-Tipping: 40 Tips in 40 Minutes",
+        "thumbnail": "https://www.youtube.com/v/isCbRSgMIYo?version=3",
+        "author": "Tableau",
+        "track": null,
+        "description": "This fast-paced session is packed with a fresh round of Tableau tips, shortcuts, and solutions to take your vizzing to the next level.",
+        "published_date": "2025-05-15 22:27:10"
+    },
+    {
+        "website": "YOUTUBE_TABLEAU",
+        "link": "https://www.youtube.com/watch?v=RyWxEver8hg",
+        "title": "6-Step Roadmap to Impactful Vizzes",
+        "thumbnail": "https://www.youtube.com/v/RyWxEver8hg?version=3",
+        "author": "Tableau",
+        "track": null,
+        "description": "Learn a six-step process to creating impactful and effective data visualizations from a Tableau Visionary and Iron Viz Champion. Go from a blank workbook to a compelling data story seamlessly.",
+        "published_date": "2025-05-13 19:22:53"
+    },
+    {
+        "website": "YOUTUBE_TABLEAU",
+        "link": "https://www.youtube.com/watch?v=pNSb-IFNrF8",
+        "title": "Tableau Next Demo",
+        "thumbnail": "https://www.youtube.com/v/pNSb-IFNrF8?version=3",
+        "author": "Tableau",
+        "track": null,
+        "description": "In this demo, see how Tableau Next delivers insights every where that work happens with Agentic Analytics.\n\nTableau Next is a flexible, API-first analytics experience that integrates the #1 analytics platform with Agentforce, the world\u2019s first digital labor platform. Built on a composable architecture, with a unified data layer and trusted semantics, it delivers personalized, contextual, and actionable insights to every user.\n\nLearn more: https://www.tableau.com/products/tableau-next",
+        "published_date": "2025-04-29 18:38:41"
+    }
+]

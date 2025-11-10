@@ -1,0 +1,152 @@
+[
+    {
+        "website": "YOUTUBE_GOOGLE_QUANTUMAI",
+        "link": "https://www.youtube.com/shorts/Ufq7hGPVTtU",
+        "title": "The hardware behind Quantum Echoes",
+        "thumbnail": "https://www.youtube.com/v/Ufq7hGPVTtU?version=3",
+        "author": "Google Quantum AI",
+        "track": null,
+        "description": "Building quantum computers faces a core challenge: control qubits without losing info. Hear from Yu Chen, Director, Quantum Processor, on the \u201csecret sauce\u201d behind Willow. It let Quantum Echoes run 13,000x faster, a verifiable quantum advantage.\nRead more on the Keyword \u2192 https://goo.gle/47C7jH9\"",
+        "published_date": "2025-10-22 22:23:23"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_QUANTUMAI",
+        "link": "https://www.youtube.com/shorts/mghx4lG9k9E",
+        "title": "Augmenting NMR Capabilities with Quantum Echoes",
+        "thumbnail": "https://www.youtube.com/v/mghx4lG9k9E?version=3",
+        "author": "Google Quantum AI",
+        "track": null,
+        "description": "In collaboration with UC Berkeley, we predicted molecular structures using our Quantum Echoes algorithm on Willow, then verified our predictions by measuring the same molecules using an NMR spectrometer at the Pines Magnetic Resonance Center. \n\nLearn how NMR is used to peer inside molecules and how quantum computing can augment its capabilities.",
+        "published_date": "2025-10-22 20:49:16"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_QUANTUMAI",
+        "link": "https://www.youtube.com/watch?v=mEBCQidaNTQ",
+        "title": "Quantum Echoes: Towards real world applications",
+        "thumbnail": "https://www.youtube.com/v/mEBCQidaNTQ?version=3",
+        "author": "Google Quantum AI",
+        "track": null,
+        "description": "The Google Quantum AI team has demonstrated the world\u2019s first algorithm with verifiable quantum advantage, which we call Quantum Echoes.\n\nThis breakthrough was made possible by our Willow quantum processor, which ran the algorithm 13,000x faster than one of the world\u2019s fastest supercomputers. Our Quantum Echoes algorithm computes an Out-of-Time-Ordered Correlator (OTOC), and can be cross-benchmarked and verified by any other quantum computers or by nature. This marks the first time a quantum computer has successfully run a verifiable algorithm that surpasses the ability of classical supercomputers.\n\nIn separate experiments,  we\u2019ve shown we can use Quantum Echoes to characterize the structure of molecules. This capability paves a path for quantum computers to augment traditional Nuclear Magnetic Resonance (NMR), offering scientists a powerful new tool to study new kinds of molecular systems. This information is vital for fields like drug discovery and materials science.\n\nAs a result of this breakthrough, we are even more optimistic that we will see real-world applications possible only on quantum computers within five years.\n\nHear directly from Vadim Smelyanskiy, Yu Chen, and Nicholas Rubin from the Google Quantum AI team about this work. \n\nAdditional Resources:\n- Explore the full publication in Nature \u2192 http://goo.gle/48Ey6Un\n- Read more on The Keyword \u2192 https://goo.gle/4Ou7Rp\n- Get the technical details from the Quantum AI team \u2192 http://goo.gle/474hPHa\n\nSubscribe to Google Quantum AI \u2192 https://goo.gle/QuantumAI\n\n#GoogleQuantumAI  #QuantumAI",
+        "published_date": "2025-10-22 15:04:34"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_QUANTUMAI",
+        "link": "https://www.youtube.com/watch?v=l_KrC1mzd0g",
+        "title": "Quantum\u2019s next leap: Ten septillion years beyond-classical",
+        "thumbnail": "https://www.youtube.com/v/l_KrC1mzd0g?version=3",
+        "author": "Google Quantum AI",
+        "track": null,
+        "description": "In 2019, Google made history by demonstrating the first beyond-classical computation, performing a benchmark task in 200 seconds\u2014that would have taken one of the world\u2019s fastest classical supercomputers at the time 10,000 years.\n\nFast forward to 2024, and Google\u2019s latest quantum chip, Willow, has redefined what\u2019s possible. As a measure of Willow\u2019s performance, we reran the random circuit sampling (RCS) benchmark and the results are astonishing. Willow completed the task in 300 seconds, which would take one of today\u2019s fastest classical supercomputers 10 septillion years. That\u2019s 10^25 or 10,000,000,000,000,000,000,000,000 years.\n\nThis is a timeframe longer than the age of the universe itself!\n\nIn this discussion, you\u2019ll hear from: \n      - Sergio Boixo, Principal Scientist at Google Quantum AI\n      - Hartmut Neven, Vice President of Engineering at Google Quantum AI\n      - John Preskill, Director, Institute for Quantum Information and Matter at Caltech\n\nWhat is random circuit sampling (RCS)? \n\nPioneered by our team and now widely used as a standard in the field, RCS is the classically hardest benchmark that can be done on a quantum computer today. RCS is used to demonstrate the rapidly growing gap between quantum and classical computers and highlights how quantum processors are peeling away at a double exponential rate and will continue to vastly outperform classical computers as qubits are scaled up. It involves generating and measuring the output of random quantum circuits, which are sequences of quantum gates applied to qubits in a seemingly arbitrary fashion.\n\nRCS is not designed to solve any practical problems but rather to highlight where quantum computers can outperform classical computers. When a quantum computer completes RCS in a fraction of the time it would take a classical computer, it demonstrates quantum advantage or beyond-classical performance.\n\nWhat will we see in this video?  \n\nIn this discussion of the Google Quantum AI team\u2019s latest groundbreaking news, Hartmut Neven, John Preskill, and Sergio Boixo explore the meaning of this quantum milestone. Neven emphasized the exponential growth in compute power for classical supercomputers that has been outpaced by what\u2019s now described as \u201cNeven\u2019s Law\u201d--a double exponential increase in quantum processing capability.\n\nPreskill highlighted the resilience of quantum systems, which, despite inherent noise and errors, outperform classical supercomputers by running millions of simulations in mere minutes. This progress underscores quantum computing\u2019s potential to tackle complex quantum systems and even discover new forms of matter.\n\nThe RCS benchmark is not practical for real-world applications, but it\u2019s a critical proving ground. As Sergio Boixo explained, if a quantum processor can outperform classical systems here, it opens doors to broader computational breakthroughs.\n\nGoogle\u2019s roadmap aims to develop quantum chips with a thousand logical qubits, translating to a million physical qubits. Milestone by milestone, the team is steadily progressing toward building quantum systems for real-world and commercially relevant applications.\n\nThis leap in quantum computing is not just a technological marvel\u2014it\u2019s a step toward unlocking unprecedented solutions for science, industry, and humanity. \n\nStay tuned as Google continues to push the boundaries of what\u2019s computationally possible.\n\n\nAdditional Resources:\n        - Learn more about RCS from our researchers \u2192  https://goo.gle/4ilm98o \n        - Subscribe to Google Quantum AI \u2192 https://goo.gle/QuantumAI\n\n#GoogleQuantumAI  #QuantumAI",
+        "published_date": "2024-12-09 19:00:45"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_QUANTUMAI",
+        "link": "https://www.youtube.com/watch?v=W7ppd_RY-UE",
+        "title": "Meet Willow, our state-of-the-art quantum chip",
+        "thumbnail": "https://www.youtube.com/v/W7ppd_RY-UE?version=3",
+        "author": "Google Quantum AI",
+        "track": null,
+        "description": "The Google Quantum AI team is proud to announce Willow, our latest quantum chip. Willow has state-of-the-art performance across a number of metrics, enabling two major achievements. \n\nFirst, Willow can reduce errors exponentially as quantum processors scale up using more qubits. This cracks a key challenge in quantum error correction that the field has pursued for almost 30 years. \n\nSecond, Willow performed a standard benchmark computation in under five minutes that would take one of today\u2019s most powerful supercomputers 10 septillion years! That is 10^25 or 10,000,000,000,000,000,000,000,000 years \u2014 a number that vastly exceeds the age of the universe.\n\nWith these and other breakthroughs, the Willow chip is a major step toward building a useful, large-scale quantum computer that could harness quantum mechanics by advancing scientific discovery and tackling some of society's greatest challenges.\n\nHear directly from Director of Hardware, Julian Kelly, who leads the Google Quantum AI team driving this groundbreaking research.\n\nAdditional Resources:\n        - Explore the full publication in Nature \u2192 https://goo.gle/3VoqLka \n        - Read more on The Keyword \u2192 https://goo.gle/3Bik6Bk\n        - Get the technical details from the Quantum AI team \u2192 https://goo.gle/3ZCPNyB\n        - Read about our new free Coursera course on quantum error correction \u2192 https://goo.gle/3DdRjyc\n         - Learn more about our roadmap \u2192 https://goo.gle/3Vtk9AY\n\nSubscribe to Google Quantum AI \u2192 https://goo.gle/QuantumAI\n\n#GoogleQuantumAI  #QuantumAI",
+        "published_date": "2024-12-09 16:47:50"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_QUANTUMAI",
+        "link": "https://www.youtube.com/watch?v=FgZ-8NFSysA",
+        "title": "Step inside the Google Quantum AI lab",
+        "thumbnail": "https://www.youtube.com/v/FgZ-8NFSysA?version=3",
+        "author": "Google Quantum AI",
+        "track": null,
+        "description": "Get a behind-the-scenes look at Google's Quantum AI lab in Santa Barbara, hosted by the very team of scientists and engineers who are on a mission to build a quantum computer that will solve problems otherwise unsolvable. \n\nIn this video, you'll:\n- Discover the qubit: The fundamental building block of quantum computers\n- Witness the art of fabrication: See how quantum processors are meticulously created.\n- Uncover the secrets of packaging: Learn how qubits are protected in a \"cold, dark, and quiet\" environment.\n- Experience the extreme cold: Explore the dilution refrigerator, where temperatures near absolute zero are reached.\n- Orchestrate the quantum dance: See how researchers control qubits to perform complex algorithms\n- Glimpse the future: Hear from the scientists and engineers driving this groundbreaking research\n\nTo learn more, visit \u2192 https://goo.gle/quantumAI\n\nSubscribe to Google Quantum AI \u2192 https://goo.gle/QuantumAI\n\n\n#GoogleQuantumAI",
+        "published_date": "2024-09-03 18:00:09"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_QUANTUMAI",
+        "link": "https://www.youtube.com/watch?v=XLBIJk6AXjg",
+        "title": "XPRIZE Quantum Applications | Google Quantum AI",
+        "thumbnail": "https://www.youtube.com/v/XLBIJk6AXjg?version=3",
+        "author": "Google Quantum AI",
+        "track": null,
+        "description": "Announcing the XPRIZE Quantum Applications, a 3-year, $5 million global competition to apply quantum computing to accelerate quantum applications that address global challenges.\n\nThe Google Quantum AI team is excited to power the XPRIZE Quantum Applications as title sponsor, made possible in partnership with Google.org and supporting partner GESDA. \n\nLearn more \u2192 https://www.xprize.org/qc-apps\n\nSubscribe to Google Quantum AI \u2192 https://goo.gle/QuantumAI\n#GoogleQuantumAI",
+        "published_date": "2024-03-04 10:00:16"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_QUANTUMAI",
+        "link": "https://www.youtube.com/shorts/Ay8qp92V33s",
+        "title": "Take a tour of Google's Quantum AI Lab",
+        "thumbnail": "https://www.youtube.com/v/Ay8qp92V33s?version=3",
+        "author": "Google Quantum AI",
+        "track": null,
+        "description": "To celebrate #WorldQuantumDay, Research Scientist, Dripto Debroy takes you behind the scenes of the Google Quantum Campus in Santa Barbara, California.  \n\nSubscribe to Google Quantum AI \u2192 https://goo.gle/QuantumAI\n\n#quantum #quantumcomputer",
+        "published_date": "2023-04-14 15:00:08"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_QUANTUMAI",
+        "link": "https://www.youtube.com/watch?v=_ugJLuJ1_gM",
+        "title": "Demonstrating Quantum Error Correction",
+        "thumbnail": "https://www.youtube.com/v/_ugJLuJ1_gM?version=3",
+        "author": "Google Quantum AI",
+        "track": null,
+        "description": "The Google Quantum AI team has made an important step towards the development of a large-scale useful quantum computer. This breakthrough is the first demonstration of a logical qubit prototype, showing that it\u2019s possible to reduce errors by increasing the number of qubits.  \n\nResources: \nExplore the full publication in Nature \u2192 https://goo.gle/3Kq8f6r \nGet the technical details from the Quantum AI team \u2192 https://goo.gle/3Sqj2zA \nRead more on The Keyword \u2192 https://goo.gle/3xGTiFw\n\nChapters: \n\n0:00 - Building a useful quantum computer\n0:34 - What is Quantum Error Correction? \n1:12 - What did this experiment require? \n3:07 - Proving that Quantum Error Correction works in practice.\n\nSubscribe to Google Quantum AI \u2192 https://goo.gle/QuantumAI  \n\n#GoogleQuantumAI",
+        "published_date": "2023-02-22 16:05:47"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_QUANTUMAI",
+        "link": "https://www.youtube.com/watch?v=nhd9tU82D0E",
+        "title": "Quantum computing developer ecosystem updates",
+        "thumbnail": "https://www.youtube.com/v/nhd9tU82D0E?version=3",
+        "author": "Google Quantum AI",
+        "track": null,
+        "description": "Join us to hear updates around the quantum computing developer ecosystem. \n\nWatch more Quantum Summer Symposium 2022 sessions \u2192 https://goo.gle/QSS22\nSubscribe to Google Quantum AI \u2192 https://goo.gle/QuantumAI  \n\n#QSS22",
+        "published_date": "2022-09-07 16:00:38"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_QUANTUMAI",
+        "link": "https://www.youtube.com/watch?v=shUVm_5Qjyo",
+        "title": "Evidencing quantum effects in machine learning",
+        "thumbnail": "https://www.youtube.com/v/shUVm_5Qjyo?version=3",
+        "author": "Google Quantum AI",
+        "track": null,
+        "description": "Since the advent of quantum machine learning, a large focus has been placed on finding computational advantage, often in the form of speed ups or intractability. While this goal has clear motivation, there is usually little-to-no understanding of exactly what quantum effect produces said advantage, and how. In general, studying quantum effects is not straightforward, and it is particularly difficult in a machine learning setting, where things like data loading and non-convex optimization come into play. In this talk, we introduce a simple quantum machine learning model from which a particular criterion can be extracted and used to understand if the model actually needs anything quantum to learn. The purpose of this is to attempt to build a framework where one can directly study the contribution of quantum effects in machine learning tasks, in order to design more meaningful quantum machine learning algorithms.\n\nWatch more Quantum Summer Symposium 2022 sessions \u2192 https://goo.gle/QSS22\nSubscribe to Google Quantum AI \u2192 https://goo.gle/QuantumAI  \n\n#QSS22",
+        "published_date": "2022-09-07 16:00:36"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_QUANTUMAI",
+        "link": "https://www.youtube.com/watch?v=fk2HH9M4FqA",
+        "title": "Calibrating large quantum processors",
+        "thumbnail": "https://www.youtube.com/v/fk2HH9M4FqA?version=3",
+        "author": "Google Quantum AI",
+        "track": null,
+        "description": "Scaling up quantum processors poses several challenges in the world of device calibration. In this talk, we go into some of the active research at Google into creating faster, more robust, fully automated systems to calibrate these processors. We introduce the high level concepts behind initial device calibration as well as maintenance and show how we applied our calibration infrastructure to provide a high performing and stable platform for our recent surface code demonstrations.\n\nWatch more Quantum Summer Symposium 2022 sessions \u2192 https://goo.gle/QSS22\nSubscribe to Google Quantum AI \u2192 https://goo.gle/QuantumAI  \n\n#QSS22",
+        "published_date": "2022-09-07 16:00:33"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_QUANTUMAI",
+        "link": "https://www.youtube.com/watch?v=Z5uWBPVdP0g",
+        "title": "Quantum Careers Panel",
+        "thumbnail": "https://www.youtube.com/v/Z5uWBPVdP0g?version=3",
+        "author": "Google Quantum AI",
+        "track": null,
+        "description": "Join us for a panel to hear more about working in Quantum and opportunities with Google Quantum AI.\n\nWatch more Quantum Summer Symposium 2022 sessions \u2192 https://goo.gle/QSS22\nSubscribe to Google Quantum AI \u2192 https://goo.gle/QuantumAI  \n\n#QSS22",
+        "published_date": "2022-09-07 16:00:32"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_QUANTUMAI",
+        "link": "https://www.youtube.com/watch?v=b53G80uQ3t0",
+        "title": "Quantum walks on hierarchical graphs",
+        "thumbnail": "https://www.youtube.com/v/b53G80uQ3t0?version=3",
+        "author": "Google Quantum AI",
+        "track": null,
+        "description": "There are few known exponential speedups for quantum algorithms and these tend to fall into even fewer families. One speedup that has mostly resisted generalization is the use of quantum walks to traverse the welded-tree graph, due to Childs, Cleve, Deotto, Farhi, Gutmann, and Spielman. We show how to generalize this to a large class of hierarchical graphs in which the vertices are grouped into a lattice of \"\"supervertices\"\". Supervertices can have different sizes, and edges between supervertices correspond to random connections between their constituent vertices.\n \nThe hitting times of quantum walks on these graphs is mapped to the localization properties of zero modes in certain disordered tight binding Hamiltonians. The speedups range from superpolynomial to exponential, depending on the underlying dimension and the random graph model.\n\nWatch more Quantum Summer Symposium 2022 sessions \u2192 https://goo.gle/QSS22\nSubscribe to Google Quantum AI \u2192 https://goo.gle/QuantumAI  \n\n#QSS22",
+        "published_date": "2022-09-07 16:00:30"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_QUANTUMAI",
+        "link": "https://www.youtube.com/watch?v=TUozPUvN4w0",
+        "title": "Comprehensive simulations of error correction experiments",
+        "thumbnail": "https://www.youtube.com/v/TUozPUvN4w0?version=3",
+        "author": "Google Quantum AI",
+        "track": null,
+        "description": "Comprehensive numerical models will be required to accurately predict the performance of a fault-tolerant quantum memory. In this talk, we discuss the challenges (both physical and computational) in developing these models. We highlight the need for appropriate physical approximations and stress the necessary tradeoff between model detail and numerical scalability.\n\nWatch more Quantum Summer Symposium 2022 sessions \u2192 https://goo.gle/QSS22\nSubscribe to Google Quantum AI \u2192 https://goo.gle/QuantumAI  \n\n#QSS22",
+        "published_date": "2022-09-07 16:00:28"
+    }
+]
