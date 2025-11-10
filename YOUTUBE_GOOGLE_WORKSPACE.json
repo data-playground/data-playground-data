@@ -232,7 +232,17 @@
         "author": "Google Workspace",
         "track": null,
         "description": "Get paid when people book. Connect your Stripe account to your Google Calendar appointment booking page to collect payments directly when people schedule time with you. \ud83d\udc49 http://goo.gle/49uJZMN\n\nTry Google Calendar for yourself \u2192 http://goo.gle/46CTQ1p\nTry Google Workspace with Gemini \u2192 http://goo.gle/42sSRyt\n\nWhat is Google Workspace \u2192 http://goo.gle/4nDoIVq\nSet up Google Workspace \u2192 http://goo.gle/42rmAb1\nSubscribe to Google Workspace \u2192 https://goo.gle/GoogleWorkspace\n\nFollow Google Workspace on X \u2192 http://goo.gle/4nI3LJ6\nFollow Google Workspace on Facebook \u2192 http://goo.gle/4nAlYYR\nFollow Google Workspace on LinkedIn \u2192 http://goo.gle/4gXZFdn\nFollow Google Workspace on Instagram \u2192 http://goo.gle/46E66i7\nFollow Google Workspace on TikTok \u2192 http://goo.gle/4h7VknV\nFollow Google Workspace on Threads \u2192 http://goo.gle/46Zfjk8\n\n#GoogleWorkspace \n#GoogleWorkspaceWithGemini",
-        "published_date": "2025-10-30 16:46:55"
+        "published_date": "2025-10-30 16:46:55",
+        "summary": "Google Calendar now enables users to collect payments and reduce no-shows directly through their booking page, integrating payment processing from platforms like Stripe. The video demonstrates how a customer, Amanda Hayes, can book a \"Strategy session\" for $50.00 USD, select a preferred time, fill in personal details, and complete the payment process seamlessly. This feature aims to streamline appointment scheduling and payment for businesses using Google Workspace.",
+        "tags": [
+            "Google Calendar",
+            "Appointment Booking",
+            "Payment Collection",
+            "Stripe",
+            "No-shows",
+            "Google Workspace",
+            "Online Scheduling"
+        ]
     },
     {
         "website": "YOUTUBE_GOOGLE_WORKSPACE",
