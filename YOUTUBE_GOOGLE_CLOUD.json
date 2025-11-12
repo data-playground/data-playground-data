@@ -1,6 +1,26 @@
 [
     {
         "website": "YOUTUBE_GOOGLE_CLOUD",
+        "link": "https://www.youtube.com/watch?v=bN7p66GYu8Q",
+        "title": "Chat with your data in BigQuery",
+        "thumbnail": "https://www.youtube.com/v/bN7p66GYu8Q?version=3",
+        "author": "Google Cloud",
+        "track": null,
+        "description": "Try BigQuery: https://goo.gle/3JHkIo6\n\nBigQuery's AI-powered Conversational Analytics agent makes data accessible to everyone, from business users to data scientists. You can ask questions in plain language and receive answers directly from your BigQuery data.  Business users can now quickly get answers and interact with data agents. Developers can rapidly build data applications, create and edit agents, and deploy them flexibly. Data analysts can query, analyze, and build data agents, improving exploration and collaboration.  Integrated within BigQuery Studio, the agent leverages Gemini to generate, execute, and deliver answers from your BigQuery tables, thereby reducing coding effort and increasing actionable insights.",
+        "published_date": "2025-11-10 05:00:44"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_CLOUD",
+        "link": "https://www.youtube.com/watch?v=JlG37pVayf8",
+        "title": "How Nuro transformed end-to-end AI and data discovery with Google Cloud Consulting",
+        "thumbnail": "https://www.youtube.com/v/JlG37pVayf8?version=3",
+        "author": "Google Cloud",
+        "track": null,
+        "description": "Ready to disrupt your industry? Google Cloud Consulting can show you how\u2026https://cloud.google.com/consulting\n\nLearn how Nuro, a leader in the self-driving vehicle space, partnered with Google Cloud Consulting to provide scalable infrastructure capable of simulating millions of scenes daily. Fei Meng, Head of Data Platform at Nuro,explains how the company needed a robust infrastructure to support training different models. They specifically leveraged Google Cloud to execute a critical database migration for a unified data backend and utilize powerful Vector Search. Discover how the Google Cloud Consulting team provided the engineering support and expertise needed to ensure a successful database migration and deliver cost-effective, high-quality search capabilities that simplified infrastructure setup.",
+        "published_date": "2025-11-10 05:00:33"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_CLOUD",
         "link": "https://www.youtube.com/watch?v=zJjqNqVIf0c",
         "title": "Make code reviews your most effective line of defense with Qodo and Google Cloud",
         "thumbnail": "https://www.youtube.com/v/zJjqNqVIf0c?version=3",

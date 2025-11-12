@@ -1,6 +1,36 @@
 [
     {
         "website": "YOUTUBE_GOOGLE_DEVELOPERS",
+        "link": "https://www.youtube.com/shorts/qf_HIvdmNcw",
+        "title": "What's the one tool you couldn't work without? Share your go-to. \ud83d\udc47",
+        "thumbnail": "https://www.youtube.com/v/qf_HIvdmNcw?version=3",
+        "author": "Google for Developers",
+        "track": null,
+        "description": "What tools help boost your productivity? Let's hear what these devs have to say. \n\nSubscribe to Google for Developers \u2192 https://goo.gle/developers \n\nEvent: Google IO",
+        "published_date": "2025-11-11 20:00:53"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEVELOPERS",
+        "link": "https://www.youtube.com/shorts/GH1Ns0Wenec",
+        "title": "Which DevFest dev are you?",
+        "thumbnail": "https://www.youtube.com/v/GH1Ns0Wenec?version=3",
+        "author": "Google for Developers",
+        "track": null,
+        "description": "DevFest so you can manifest your personality!\n\nResources:\n\nRSVP for DevFest here \u2192 https://goo.gle/43wInOK \n\nSubscribe to Google for Developers \u2192 https://goo.gle/developers \n\nEvent: DevFest \n\nSpeaker: Crystal Endless",
+        "published_date": "2025-11-11 17:00:24"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEVELOPERS",
+        "link": "https://www.youtube.com/shorts/U4r5v837JaA",
+        "title": "What do you think this Python code will print? Go!",
+        "thumbnail": "https://www.youtube.com/v/U4r5v837JaA?version=3",
+        "author": "Google for Developers",
+        "track": null,
+        "description": "Here's a Python closure puzzle that catches even experienced developers! This code creates lambda functions in a loop, but the output might surprise you. The issue involves how Python handles variable binding in closures - a subtle behavior that can lead to unexpected bugs. What do you think gets printed when we call these functions? Understanding closure semantics is crucial for functional programming patterns.\n\nSubscribe to Google for Developers \u2192 https://goo.gle/developers \n\nSpeakers: Juan Vasquez",
+        "published_date": "2025-11-10 17:01:01"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEVELOPERS",
         "link": "https://www.youtube.com/watch?v=r3-x0GtOmmc",
         "title": "Code Execution with Gemini | Intro to Tools",
         "thumbnail": "https://www.youtube.com/v/r3-x0GtOmmc?version=3",

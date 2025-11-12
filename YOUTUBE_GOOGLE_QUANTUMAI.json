@@ -1,6 +1,26 @@
 [
     {
         "website": "YOUTUBE_GOOGLE_QUANTUMAI",
+        "link": "https://www.youtube.com/shorts/HOEfA79Qoqw",
+        "title": "Michel Devoret on Quantum Echoes",
+        "thumbnail": "https://www.youtube.com/v/HOEfA79Qoqw?version=3",
+        "author": "Google Quantum AI",
+        "track": null,
+        "description": "As our Chief Scientist of Quantum Hardware, Michel Devoret, notes, the field of quantum mechanics is thrilling because \"nature has been clever, more clever than you.\"\n\nIn this video about Google Quantum AI\u2019s latest breakthrough algorithm, Quantum Echoes, he discusses how his pioneering work on superconducting artificial atoms is the basis for the Willow processor chip. That powerful foundation enabled this verifiable result\u2014a crucial step toward real-world applications in fields such as chemistry and materials science.",
+        "published_date": "2025-11-11 17:45:43"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_QUANTUMAI",
+        "link": "https://www.youtube.com/watch?v=ltTMP_ACkIA",
+        "title": "Research@ 2025: Fireside Chat with James Manyika and Hartmut Neven",
+        "thumbnail": "https://www.youtube.com/v/ltTMP_ACkIA?version=3",
+        "author": "Google Quantum AI",
+        "track": null,
+        "description": "",
+        "published_date": "2025-11-11 17:39:08"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_QUANTUMAI",
         "link": "https://www.youtube.com/shorts/Ufq7hGPVTtU",
         "title": "The hardware behind Quantum Echoes",
         "thumbnail": "https://www.youtube.com/v/Ufq7hGPVTtU?version=3",

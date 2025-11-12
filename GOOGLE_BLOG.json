@@ -1,6 +1,106 @@
 [
     {
         "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/products/messages/remix-nano-banana/",
+        "title": "Remix makes sending photos to friends even more fun on Google Messages.",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Remix-Keyword-Android-Blog-Soci.max-600x600.format-webp.webp",
+        "author": "Mikael Hveem",
+        "track": null,
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Remix-Keyword-Android-Blog-Soci.max-600x600.format-webp.webp\" />Remix, which uses Nano Banana, our Gemini image model, lets you edit photos with AI, without ever leaving the Google Messages app.",
+        "published_date": "2025-11-11 19:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/technology/ai/google-private-ai-compute/",
+        "title": "Private AI Compute: our next step in building private and helpful AI",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/25933_Google_Private_Inference_.max-600x600.format-webp.webp",
+        "author": "Jay Yagnik",
+        "track": null,
+        "description": "Introducing Private AI Compute, our new way to bring you helpful AI with the power of the cloud, while keeping your data private to you.",
+        "published_date": "2025-11-11 19:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/products/pixel/november-2025-pixel-drop/",
+        "title": "November Pixel Drop: 'Wicked: For Good' theme packs, Remix photos in Messages and more",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/PixelDropNovember_Hero_v2.max-600x600.format-webp.webp",
+        "author": "Aisha Sharif",
+        "track": null,
+        "description": "The November Pixel Drop is here with new AI-powered features, \u2018Wicked\u2019 theme packs and favorite features in new regions.",
+        "published_date": "2025-11-11 19:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/products/photos/nano-banana-ai-templates-ask-photos/",
+        "title": "6 new things you can do with AI in Google Photos",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GP_Nov_AI_Feature_Blog_Post_Her.max-600x600.format-webp.webp",
+        "author": "Yael Marzan",
+        "track": null,
+        "description": "Learn more about new AI tools in Google Photos, including Nano Banana image-generation and more.",
+        "published_date": "2025-11-11 17:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/outreach-initiatives/education/ai-learning-commitments/",
+        "title": "Our latest commitments in AI and learning",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/commitments_in_AI_and_learning_.max-600x600.format-webp.webp",
+        "author": "Ben Gomes",
+        "track": null,
+        "description": "We\u2019re bringing together experts, students, educators and more at our Google AI for Learning Forum.",
+        "published_date": "2025-11-11 09:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/around-the-globe/google-asia/sea-economy-2025/",
+        "title": "ASEAN\u2019s $300 billion digital economy enters the AI reality",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_Imagery_high_res.max-600x600.format-webp.webp",
+        "author": "Sapna Chadha",
+        "track": null,
+        "description": "The annual e-Conomy SEA report finds ASEAN\u2019s digital economy is set to surpass $300 billion in Gross Merchandise Value (GMV) by 2025",
+        "published_date": "2025-11-11 03:30:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/feed/free-fire-league/",
+        "title": "Get ready: The Free Fire League on Google Play starts today.",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero-2_mKStvbs.max-600x600.format-webp.webp",
+        "author": null,
+        "track": null,
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero-2_mKStvbs.max-600x600.format-webp.webp\" />In September, we announced updates to Google Play Games, shared our vision for leagues, and launched the Subway Surfers League with SYBO Games. Today, we\u2019re excited to a\u2026",
+        "published_date": "2025-11-10 18:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/products/google-nest/google-tv-streamer-gemini-tv-now-available/",
+        "title": "Gemini for TV is rolling out to Google TV Streamer.",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GeminiTVStreamer_Social.max-600x600.format-webp.webp",
+        "author": null,
+        "track": null,
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GeminiTVStreamer_Social.max-600x600.format-webp.webp\" />Learn more about Gemini for TV and what it can do, rolling out now for Google TV Streamer.",
+        "published_date": "2025-11-10 17:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/outreach-initiatives/creating-opportunity/google-veterans-day-2025/",
+        "title": "From service to corporate success: Google's commitment to the veteran community",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/VeteransDay_Keyword_Hero_Image_.max-600x600.format-webp.webp",
+        "author": "Karen Dahut",
+        "track": null,
+        "description": "Veteran and Google Public Sector CEO Karen Dahut shares a look at how Google supports the military community.",
+        "published_date": "2025-11-10 17:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/technology/google-deepmind/ai-classroom-northern-ireland/",
+        "title": "How AI is giving Northern Ireland teachers time back",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/rach.max-600x600.format-webp.webp",
+        "author": "Lila Ibrahim",
+        "track": null,
+        "description": "A six-month long pilot program with the Northern Ireland Education Authority\u2019s C2k initiative found that integrating Gemini and other generative AI tools saved participating teachers an average of 10 hours per week.",
+        "published_date": "2025-11-10 09:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
         "link": "https://blog.google/products/google-pay/payments-personalized-content-purchases/",
         "title": "Personalize your experience across Google based on your purchases, your way.",
         "thumbnail": null,
@@ -31,16 +131,6 @@
     },
     {
         "website": "GOOGLE_BLOG",
-        "link": "https://blog.google/outreach-initiatives/sustainability/how-were-using-ai-to-help-nature-and-people-flourish-together/",
-        "title": "How we\u2019re using AI to help nature and people flourish together",
-        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NaturePeople_Hero.max-600x600.format-webp.webp",
-        "author": "Kate Brandt",
-        "track": null,
-        "description": "Human wellbeing is deeply tied to the health of our planet. Here\u2019s how we\u2019re using AI to help nature and people flourish together.",
-        "published_date": "2025-11-06 20:00:00"
-    },
-    {
-        "website": "GOOGLE_BLOG",
         "link": "https://blog.google/technology/google-labs/opal-expansion-160/",
         "title": "Opal is now available in more than 160 countries",
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Opal_blog_header_1.max-600x600.format-webp.webp",
@@ -48,26 +138,6 @@
         "track": null,
         "description": "We\u2019re bringing Opal to 160 countries.",
         "published_date": "2025-11-06 19:00:00"
-    },
-    {
-        "website": "GOOGLE_BLOG",
-        "link": "https://blog.google/technology/google-labs/opal-expansion-160/",
-        "title": "Opal is now available in more than 160 countries",
-        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Opal_blog_header_1.max-600x600.format-webp.webp",
-        "author": "Megan Li",
-        "track": null,
-        "description": "We\u2019re bringing Opal to 160 countries.",
-        "published_date": "2025-11-06 19:00:00"
-    },
-    {
-        "website": "GOOGLE_BLOG",
-        "link": "https://blog.google/technology/developers/file-search-gemini-api/",
-        "title": "Introducing the File Search Tool in Gemini API",
-        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FileSearch-Keyword_RD2-V01.max-600x600.format-webp.webp",
-        "author": "Animesh Chatterji",
-        "track": null,
-        "description": "File Search is a fully managed Retrieval Augmented Generation (RAG) system built directly into the Gemini API.",
-        "published_date": "2025-11-06 18:00:00"
     },
     {
         "website": "GOOGLE_BLOG",
@@ -121,46 +191,6 @@
     },
     {
         "website": "GOOGLE_BLOG",
-        "link": "https://blog.google/technology/google-labs/notebooklm-app-quizzes-flashcards/",
-        "title": "Create flashcards and quizzes in the NotebookLM app.",
-        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FlashcardsQuiz_Social.max-600x600.format-webp.webp",
-        "author": null,
-        "track": null,
-        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FlashcardsQuiz_Social.max-600x600.format-webp.webp\" />We\u2019re rolling out a big update to the NotebookLM app this week.",
-        "published_date": "2025-11-06 17:00:00"
-    },
-    {
-        "website": "GOOGLE_BLOG",
-        "link": "https://blog.google/products/search/new-google-finance-ai-deep-search/",
-        "title": "Google Finance adds AI features for research, earnings and more",
-        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Finance_adds_AI_features.max-600x600.format-webp.webp",
-        "author": "Robert Dunnette",
-        "track": null,
-        "description": "Learn more about the new Google Finance, including new features like Deep Search and prediction markets data.",
-        "published_date": "2025-11-06 17:00:00"
-    },
-    {
-        "website": "GOOGLE_BLOG",
-        "link": "https://blog.google/products/ads-commerce/new-monetization-ai-tools-for-publishers-2025/",
-        "title": "New monetization and AI tools for publishers",
-        "thumbnail": null,
-        "author": "Scott Sheffer",
-        "track": null,
-        "description": "The latest updates for our sellside products to help publishers more easily and efficiently monetize their content.",
-        "published_date": "2025-11-06 17:00:00"
-    },
-    {
-        "website": "GOOGLE_BLOG",
-        "link": "https://blog.google/outreach-initiatives/education/ai-and-learning/",
-        "title": "AI and learning: A new chapter for students and educators",
-        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/TeacherTeaching_Hero.max-600x600.format-webp.webp",
-        "author": "Lila Ibrahim",
-        "track": null,
-        "description": "How Google approaches AI and education, from our tools to our commitment to responsibility.",
-        "published_date": "2025-11-06 17:00:00"
-    },
-    {
-        "website": "GOOGLE_BLOG",
         "link": "https://blog.google/technology/safety-security/fraud-and-scams-advisory-november-2025/",
         "title": "Our latest fraud and scams advisory",
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/OnlineScamsAdvisory3_Hero.max-600x600.format-webp.webp",
@@ -168,46 +198,6 @@
         "track": null,
         "description": "An overview from Google\u2019s Trust & Safety teams on the most recent online scam trends.",
         "published_date": "2025-11-06 15:00:00"
-    },
-    {
-        "website": "GOOGLE_BLOG",
-        "link": "https://blog.google/technology/safety-security/fraud-and-scams-advisory-november-2025/",
-        "title": "Our latest fraud and scams advisory",
-        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/OnlineScamsAdvisory3_Hero.max-600x600.format-webp.webp",
-        "author": "Laurie Richardson",
-        "track": null,
-        "description": "An overview from Google\u2019s Trust & Safety teams on the most recent online scam trends.",
-        "published_date": "2025-11-06 15:00:00"
-    },
-    {
-        "website": "GOOGLE_BLOG",
-        "link": "https://blog.google/products/maps/google-maps-data-holidays-2025/",
-        "title": "Google Maps 2025 holiday trends: Enjoy the holidays and save time with new insights from Google Maps",
-        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Artboard_2_qJtr56I.max-600x600.format-webp.webp",
-        "author": "Holly N. Jolly",
-        "track": null,
-        "description": "Google Maps reveals the best times to avoid traffic, hit the post office \u2013 and even which states get their shopping done earliest during the holiday season.",
-        "published_date": "2025-11-06 14:00:00"
-    },
-    {
-        "website": "GOOGLE_BLOG",
-        "link": "https://blog.google/outreach-initiatives/sustainability/mombak-co2-removal/",
-        "title": "Our new deal with Mombak is designed to accelerate the planet\u2019s natural ability to remove CO2.",
-        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thumbnail_Mombak.max-600x600.format-webp.webp",
-        "author": "Randy Spock",
-        "track": null,
-        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thumbnail_Mombak.max-600x600.format-webp.webp\" />We signed a new carbon dioxide (CO2) removal deal with Mombak, a Brazil-based company that is restoring degraded land in the Amazon by planting native, biodiverse forest\u2026",
-        "published_date": "2025-11-06 14:00:00"
-    },
-    {
-        "website": "GOOGLE_BLOG",
-        "link": "https://blog.google/products/marketingplatform/360/3-tips-google-commerce-media-suite/",
-        "title": "We're sharing 3 tips for holiday success with Google's Commerce Media Suite.",
-        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Carousel_Image_1.max-600x600.format-webp.webp",
-        "author": "Shreya Mathur",
-        "track": null,
-        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Carousel_Image_1.max-600x600.format-webp.webp\" />Maximize holiday success with Commerce Media Suite. Fuel AI, own the shelf, and measure SKU-level ROI.",
-        "published_date": "2025-11-06 14:00:00"
     },
     {
         "website": "GOOGLE_BLOG",
@@ -251,26 +241,6 @@
     },
     {
         "website": "GOOGLE_BLOG",
-        "link": "https://blog.google/outreach-initiatives/entrepreneurs/the-lasting-impact-of-googles-support-for-ukrainian-founders/",
-        "title": "The lasting impact of Google\u2019s support for Ukrainian founders",
-        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/UkraineSupport_Hero.max-600x600.format-webp.webp",
-        "author": "Karen Fiester",
-        "track": null,
-        "description": "The second Google for Startups Ukraine Support Fund is now complete, having successfully provided funding and mentorship to 98 startups.",
-        "published_date": "2025-11-06 09:00:00"
-    },
-    {
-        "website": "GOOGLE_BLOG",
-        "link": "https://blog.google/outreach-initiatives/education/miami-education-ai-tools/",
-        "title": "How teachers and students in Miami are using AI in the classroom",
-        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/20251021_Florida_DL_0658.max-600x600.format-webp.webp",
-        "author": "Ben Gomes",
-        "track": null,
-        "description": "We visited Miami earlier this month to see firsthand how students and teachers are using our AI tools in innovative ways.",
-        "published_date": "2025-11-05 20:00:00"
-    },
-    {
-        "website": "GOOGLE_BLOG",
         "link": "https://blog.google/outreach-initiatives/education/miami-education-ai-tools/",
         "title": "How teachers and students in Miami are using AI in the classroom",
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/20251021_Florida_DL_0658.max-600x600.format-webp.webp",
@@ -308,46 +278,6 @@
         "track": null,
         "description": "",
         "published_date": "2025-11-05 17:00:00"
-    },
-    {
-        "website": "GOOGLE_BLOG",
-        "link": "https://blog.google/products/gemini/deep-research-workspace-app-integration/",
-        "title": "Gemini Deep Research can now connect to your Gmail, Docs, Drive and even Chat.",
-        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Deepresearch_Social.max-600x600.format-webp.webp",
-        "author": null,
-        "track": null,
-        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Deepresearch_Social.max-600x600.format-webp.webp\" />Learn more about how Google Workspace apps now work with Gemini\u2019s Deep Research tool.",
-        "published_date": "2025-11-05 17:00:00"
-    },
-    {
-        "website": "GOOGLE_BLOG",
-        "link": "https://blog.google/products/chrome/ai-mode-in-chrome-ios-android/",
-        "title": "AI Mode in Chrome is easier to use on iOS and Android.",
-        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/wagtailvideo-93k5q8em_thumb.jpg",
-        "author": "Nick Kim Sexton",
-        "track": null,
-        "description": "",
-        "published_date": "2025-11-05 17:00:00"
-    },
-    {
-        "website": "GOOGLE_BLOG",
-        "link": "https://blog.google/technology/developers/gemini-api-structured-outputs/",
-        "title": "Improving Structured Outputs in the Gemini API",
-        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/StructuredOutput_Hero.max-600x600.format-webp.webp",
-        "author": "Gemini API Team",
-        "track": null,
-        "description": "Today, we're announcing enhancements to Structured Outputs in the Gemini API.",
-        "published_date": "2025-11-05 17:00:00"
-    },
-    {
-        "website": "GOOGLE_BLOG",
-        "link": "https://blog.google/technology/safety-security/google-threat-intelligence-group-report-ai-november-2025/",
-        "title": "A new report from the Google Threat Intelligence Group shows adversaries experimenting with AI for novel capabilities.",
-        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleSecurity_Social.max-600x600.format-webp.webp",
-        "author": null,
-        "track": null,
-        "description": "",
-        "published_date": "2025-11-05 14:30:00"
     },
     {
         "website": "GOOGLE_BLOG",
@@ -373,16 +303,6 @@
         "website": "GOOGLE_BLOG",
         "link": "https://blog.google/waze/waze-now-you-see-me/",
         "title": "Drive with \u2018Now You See Me\u2019 on Waze",
-        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NYSM-Keyvisual_NYSM-Horizontal_.max-600x600.format-webp.webp",
-        "author": null,
-        "track": null,
-        "description": "",
-        "published_date": "2025-11-05 14:00:00"
-    },
-    {
-        "website": "GOOGLE_BLOG",
-        "link": "https://blog.google/waze/waze-now-you-see-me/",
-        "title": "Drive with \u2018Now You See Me\u2019 on Waze.",
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NYSM-Keyvisual_NYSM-Horizontal_.max-600x600.format-webp.webp",
         "author": null,
         "track": null,
