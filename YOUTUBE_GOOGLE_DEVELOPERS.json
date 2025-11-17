@@ -1,6 +1,56 @@
 [
     {
         "website": "YOUTUBE_GOOGLE_DEVELOPERS",
+        "link": "https://www.youtube.com/shorts/GHPjBkwEKh4",
+        "title": "Why does this throw a null pointer exception?  Go!",
+        "thumbnail": "https://www.youtube.com/v/GHPjBkwEKh4?version=3",
+        "author": "Google for Developers",
+        "track": null,
+        "description": "Time for a Java debugging challenge! This code attempts to switch on an Integer wrapper type, but crashes with a NullPointerException. Can you identify the minimal fix? Share your solution in the comments!\n\nSubscribe to Google for Developers \u2192 https://goo.gle/developers \n\nSpeakers:Dio Gado",
+        "published_date": "2025-11-17 14:00:21"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEVELOPERS",
+        "link": "https://www.youtube.com/shorts/QAXe1nfo8Jk",
+        "title": "It was \u2013 indeed \u2013 not their first day.",
+        "thumbnail": "https://www.youtube.com/v/QAXe1nfo8Jk?version=3",
+        "author": "Google for Developers",
+        "track": null,
+        "description": "That \"first day\" state of mind \ud83d\ude43\n\nSubscribe to Google for Developers \u2192 https://goo.gle/developers \n\nSpeaker: Crystal Endless, Justine Lai",
+        "published_date": "2025-11-14 20:00:25"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEVELOPERS",
+        "link": "https://www.youtube.com/shorts/RQ_WppuZxWk",
+        "title": "5 ways Genkit makes building AI apps faster \u26a1",
+        "thumbnail": "https://www.youtube.com/v/RQ_WppuZxWk?version=3",
+        "author": "Google for Developers",
+        "track": null,
+        "description": "Genkit is an open source framework that helps you build, deploy, and monitor production-ready AI-powered apps. Learn 5 ways this tool can streamline your projects. \n\nSubscribe to Google for Developers \u2192 https://goo.gle/developers \n\nSpeaker: M.E Francis \nProducts Mentioned: Google AI",
+        "published_date": "2025-11-13 20:00:21"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEVELOPERS",
+        "link": "https://www.youtube.com/watch?v=hQ6nqDP905k",
+        "title": "Introduction to Metrax: Evaluation metrics for JAX",
+        "thumbnail": "https://www.youtube.com/v/hQ6nqDP905k?version=3",
+        "author": "Google for Developers",
+        "track": null,
+        "description": "Metrax is a JAX-native, high-performance, open-source evaluation metrics library developed by Google. Metrax offers standard evaluation metric implementations using JAX, allowing you to focus on your model and training. \n\nResources: \n\nDocumentation \u2192 https://goo.gle/3LFkZIR \nGitHub repo \u2192 https://goo.gle/3WMu05o \nExample notebook \u2192 https://goo.gle/3JYO0yN \n\nSubscribe to Google for Developers \u2192 https://goo.gle/developers \n\nSpeaker: Yufeng Guo \nProducts Mentioned: Google AI",
+        "published_date": "2025-11-13 17:01:15"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEVELOPERS",
+        "link": "https://www.youtube.com/shorts/iezyXHUniVI",
+        "title": "How are AI agents useful for reliability?",
+        "thumbnail": "https://www.youtube.com/v/iezyXHUniVI?version=3",
+        "author": "Google for Developers",
+        "track": null,
+        "description": "Agents are autonomous helpers powered by AI that take actions. Specifically, they can help you move from reactive to proactive levels of maturity, digest a plethora of alerts from operations, and more! See how AI agents can help you with SRE. \n\nWatch more Ask A Site Reliability Engineer \u2192 \nSubscribe to Google for Developers \u2192 https://goo.gle/developers \n\nSpeaker: Nastassia Mitskevich \nProducts Mentioned: Google AI",
+        "published_date": "2025-11-12 05:01:03"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEVELOPERS",
         "link": "https://www.youtube.com/shorts/qf_HIvdmNcw",
         "title": "What's the one tool you couldn't work without? Share your go-to. \ud83d\udc47",
         "thumbnail": "https://www.youtube.com/v/qf_HIvdmNcw?version=3",

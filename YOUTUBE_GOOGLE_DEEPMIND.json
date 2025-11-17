@@ -1,6 +1,26 @@
 [
     {
         "website": "YOUTUBE_GOOGLE_DEEPMIND",
+        "link": "https://www.youtube.com/watch?v=YQwqoEm_xis",
+        "title": "WeatherNext 2: Our most advanced weather forecasting model",
+        "thumbnail": "https://www.youtube.com/v/YQwqoEm_xis?version=3",
+        "author": "Google DeepMind",
+        "track": null,
+        "description": "We\u2019re powering a new era of global weather forecasting with WeatherNext 2, our most advanced and efficient AI model. It delivers more accurate, higher-resolution predictions to help everyone\u2014from businesses managing global supply chains to you planning your day\u2014make better, faster decisions.\n\n\u2601\ufe0f WeatherNext 2 is a breakthrough AI forecasting model from Google DeepMind and Google Research that is 8x faster than previous systems and provides forecasts with resolution up to 1-hour. It surpasses our previous state-of-the-art model on 99.9% of weather variables.\n\n\u26a1\ufe0f This model is enabled by a new AI modelling approach called a Functional Generative Network (FGN), allowing it to predict thousands of possible weather outcomes from a single starting point in less than a minute on a single TPU.\n\nWeatherNext technology is already upgrading forecasts in Search, Gemini, Pixel Weather, and Google Maps Platform\u2019s Weather API. Businesses can now customize WeatherNext 2 models and create forecasts through Google Cloud Vertex AI. WeatherNext 2 is also available for downstream model training via BigQuery and Google Earth Engine.\n\nLearn more at https://blog.google/technology/google-deepmind/weathernext-2 \n\n___\n\nSubscribe to our channel https://www.youtube.com/@googledeepmind\nFind us on X https://twitter.com/GoogleDeepMind\nFollow us on Instagram https://instagram.com/googledeepmind\nAdd us on Linkedin https://www.linkedin.com/company/deepmind/",
+        "published_date": "2025-11-17 14:56:31"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEEPMIND",
+        "link": "https://www.youtube.com/watch?v=Zphax4f6Rls",
+        "title": "SIMA 2: An agent that plays, reasons, and learns with you in virtual 3D worlds",
+        "thumbnail": "https://www.youtube.com/v/Zphax4f6Rls?version=3",
+        "author": "Google DeepMind",
+        "track": null,
+        "description": "We\u2019re introducing SIMA 2, the next major milestone in general and helpful embodied AI agents. \ud83d\udc7e\n\nWith Gemini integrated at its core, it moves beyond following basic instructions to think, learn, and collaborate in complex, 3D worlds.\n\n\ud83d\udd35 Advanced reasoning: It can accomplish high-level goals in a wide array of games \u2013 describing its intentions, explaining what it sees, and outlining the steps it is taking. \n\n\ud83d\udd35 Improved generalization: It can transfer concepts like \u201cmining\u201d in one game and apply it to \u201charvesting\u201d in another - connecting the dots between similar tasks. \n\n\ud83d\udd35 Self-improvement: Through trial-and-error and Gemini-based feedback, it can teach itself entirely new skills in unseen worlds without additional human input.\n\n\ud83d\udd35 Adaptability: When tested in simulated 3D worlds created with our Genie 3 world model, it demonstrates unprecedented adaptability by navigating its surroundings, following instructions, and taking meaningful steps towards goals.  \n\nThis research offers a strong path toward applications in robotics and another step towards AGI in the physical world. \n\nLearn more at https://deepmind.google/sima\n___\n\nSubscribe to our channel https://www.youtube.com/@googledeepmind\nFind us on X https://twitter.com/GoogleDeepMind\nFollow us on Instagram https://instagram.com/googledeepmind\nAdd us on Linkedin https://www.linkedin.com/company/deepmind/",
+        "published_date": "2025-11-13 14:51:38"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEEPMIND",
         "link": "https://www.youtube.com/watch?v=2t2pMtJGv6k",
         "title": "Waymo: The future of autonomous driving with Vincent Vanhoucke",
         "thumbnail": "https://www.youtube.com/v/2t2pMtJGv6k?version=3",

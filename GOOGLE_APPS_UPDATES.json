@@ -1,6 +1,56 @@
 [
     {
         "website": "GOOGLE_APPS_UPDATES",
+        "link": "http://workspaceupdates.googleblog.com/2025/11/block-time-for-tasks-google-calendar.html",
+        "title": "Block off time to work on a task in Calendar",
+        "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpRgp38athAn94N1YR0wvEP5Z81oMWQh0fHf5AiJRrXO14IXfEmOVGOUiRVHVHPVyH-IRD30w17q3HQgUumDfz8RrRSufnvU1Utv84ZQS1XjTYL6dDH-1QP5w6Uqgz6Pvy_wKf0G0ulEiOkhlQDsmwLOoSAYuXbqsVEwBaNTtPepwog_N4XrWC1xPDyYw/s72-c/time%20blocking%20for%20tasks%20on%20google%20calendar.gif",
+        "author": "Dan C",
+        "track": null,
+        "description": "<h3 style=\"text-align: left;\">What\u2019s changing&nbsp;</h3><div>Users can now easily block off time on their calendar to work on a specific task. On your calendar, select an empty slot &gt; click task. F",
+        "published_date": "2025-11-17 14:56:00"
+    },
+    {
+        "website": "GOOGLE_APPS_UPDATES",
+        "link": "http://workspaceupdates.googleblog.com/2025/11/weekly-recap-11-07-2025_0735443609.html",
+        "title": "Google Workspace Updates Weekly Recap - November 14, 2025",
+        "thumbnail": null,
+        "author": "Dan C",
+        "track": null,
+        "description": "<p>&nbsp;</p><h3>A summary of announcements from the last week:<br /><i style=\"font-size: x-small; font-weight: normal;\">The announcements below were published on the&nbsp;<a href=\"https://workspaceup",
+        "published_date": "2025-11-14 20:29:00"
+    },
+    {
+        "website": "GOOGLE_APPS_UPDATES",
+        "link": "http://workspaceupdates.googleblog.com/2025/11/help-me-create-google-forms-seven-languages.html",
+        "title": "Help me create in Google Forms now available in seven additional languages",
+        "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAtYafkhfF-b6tqo1vrDOm7ryU9laxksS-Phwh6VarKt2lRLfuibcitclzlEBF785ivQTBacse37RnqQOKY3-pRxiAnk_CZ-pfpu1DF1uYGWpv1HqjS9afH6MZQ4FqRlSFemqqyW7OMsORiKMh3TvcTEaoeut026fLo4ydB6y3jOOvadOW941_33Fa2FrO/s72-c/Help%20me%20create%20in%20Spanish%20helps%20users%20create%20a%20form%20with%20a%20simple%20prompt%20.gif",
+        "author": "Victor Ome",
+        "track": null,
+        "description": "<h3 style=\"text-align: left;\">What\u2019s changing</h3><p>Earlier this year, we announced <a href=\"https://workspaceupdates.googleblog.com/2025/06/help-me-create-gemini-google-forms.html\" target=\"_blank\">H",
+        "published_date": "2025-11-13 14:07:00"
+    },
+    {
+        "website": "GOOGLE_APPS_UPDATES",
+        "link": "http://workspaceupdates.googleblog.com/2025/11/google-voice-starter-adds-desk-phones-recording.html",
+        "title": "Desk phone support and on-demand call recording now available in the Google Voice Starter plan",
+        "thumbnail": null,
+        "author": "Victor Ome",
+        "track": null,
+        "description": "<h3 style=\"text-align: left;\">What\u2019s changing</h3><div>We\u2019re expanding the capabilities of our Google Voice Starter plan by adding two highly requested features already available in Voice Standard and",
+        "published_date": "2025-11-12 21:01:00"
+    },
+    {
+        "website": "GOOGLE_APPS_UPDATES",
+        "link": "http://workspaceupdates.googleblog.com/2025/11/analyze-large-scale-csv-files-in-google-sheets.html",
+        "title": "Analyze large-scale .csv files in Google Sheets with a new direct-to-BigQuery import",
+        "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxDN9nN1RWmnsMR2aCLHiNzElwo0Yf6s6lvOT-dGjXJ7ltFIg7SiCHM5uOBqiBSesKlPVxzZ-NK76N_AePIhagjQAkuHXI9vwgPq43zIVBRqALmrmlEnGCUTT2InKZqlaHWirSoYIIC1iE4cXphucFr-HrK2A0bdgdwT0nPwhOkX6_XiYjetNySaF-OlkE/s72-w640-h388-c/Part%20of%20the%20upload%20dialog%20when%20users%20choose%20to%20import%20a%20file%20to%20BigQuery%20via%20the%20Google%20Sheets%20interface%20.png",
+        "author": "Victor Ome",
+        "track": null,
+        "description": "<h3 style=\"text-align: left;\">What\u2019s changing</h3><div>We're making it easier than ever to analyze massive datasets by more seamlessly connecting Google Sheets and BigQuery. Now, users will see a new ",
+        "published_date": "2025-11-12 16:13:00"
+    },
+    {
+        "website": "GOOGLE_APPS_UPDATES",
         "link": "http://workspaceupdates.googleblog.com/2025/11/option-longer-meeting-notes-google-meet.html",
         "title": "Option for longer meeting notes with \u201ctake notes for me\u201d in Google Meet",
         "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmYIKzUQ7yE_08e4YSemoLFVMOddaEO1yGowsY7hXLtA3ZPh3D-sokPYw4fmEHY2WJVb3E-HAs9q3w4dstgXhilOkVo5Y3uJk_ORqnea09j20ysYSbHwrEw9qieNNFUtovgDexTCzfEDU3vkLqtsrAbOVEsd6p1xhpX0B6N9_lciH307dyKbDPl5ZHissP/s72-c/Caption-%20Longer%20notes%20can%20be%20enabled%20by%20selecting%20%E2%80%9CLonger%E2%80%9D%20in%20Notes%20Length%20settings.%20Alt%20text-%20An%20animation%20showing%20the%20process%20of%20selecting%20the%20%E2%80%9CLonger%E2%80%9D%20option%20in%20the%20Notes%20Length%20settings%20for%20the%20%E2%80%9CTake%20notes%20for%20me%22%20feature%20Google%20Meet.gif",

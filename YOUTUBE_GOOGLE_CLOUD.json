@@ -1,6 +1,46 @@
 [
     {
         "website": "YOUTUBE_GOOGLE_CLOUD",
+        "link": "https://www.youtube.com/watch?v=76okQTyiNyw",
+        "title": "2x champion, Zaza Pachulia puts AI basketball coach to the test",
+        "thumbnail": "https://www.youtube.com/v/76okQTyiNyw?version=3",
+        "author": "Google Cloud",
+        "track": null,
+        "description": "Learn more\u2192 https://goo.gle/3WXTAV9 \nRead the case study\u2192 https://goo.gle/48isePM\n\nWe built an AI basketball coach with Gemini on Vertex AI. Zaza Pachulia put it to the test \ud83c\udfc0  Hey Bay Area, learn how Vertex AI on Google Cloud and Gemini can help turn observation into insight for athletes like Zaza, the Golden State Warriors' basketball operations department, and wherever there\u2019s a need to derive intelligence from physical motion.",
+        "published_date": "2025-11-17 18:04:41"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_CLOUD",
+        "link": "https://www.youtube.com/watch?v=fcnYWgHibbo",
+        "title": "What happens when AI, Cloud, and Mobile converge?",
+        "thumbnail": "https://www.youtube.com/v/fcnYWgHibbo?version=3",
+        "author": "Google Cloud",
+        "track": null,
+        "description": "In a special discussion, Google Cloud's own Sachin Gupta, VP/GM for Infrastructure and Solutions Group, sits down with Erik Ekudden, CTO of Ericsson. Together, they explore how this powerful combination is reshaping industries and creating new opportunities for communication service providers.\n\n#GoogleCloud #Ericsson #AI #CloudComputing #5G #Innovation #DigitalTransformation\n\n00:00 Power of AI, Clould and Mobile\n02:12 Efficiency gains in 5G\n05:00 Enablers and growth opportunities\n09:04 5G as a digital platform\n11:18 Impact of ecosystem collaboration and wrap-up",
+        "published_date": "2025-11-14 21:03:32"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_CLOUD",
+        "link": "https://www.youtube.com/shorts/cccMsD6L99Q",
+        "title": "How do you ask your board for a cybersecurity budget?",
+        "thumbnail": "https://www.youtube.com/v/cccMsD6L99Q?version=3",
+        "author": "Google Cloud",
+        "track": null,
+        "description": "Monica Verma (@MonicaTalksCyber)  leading CISO, always has a 3-tier approach, because a board wants options, not ultimatums.\u00a0\n\nWatch how her approach works. Do you agree?",
+        "published_date": "2025-11-14 12:40:14"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_CLOUD",
+        "link": "https://www.youtube.com/watch?v=9_akO0Q9Z3k",
+        "title": "Looker Conversational Analytics \u2013 The intelligent evolution of BI",
+        "thumbnail": "https://www.youtube.com/v/9_akO0Q9Z3k?version=3",
+        "author": "Google Cloud",
+        "track": null,
+        "description": "Try Looker Conversational Analytics: https://goo.gle/4hRLGWI\n\nLooker Conversational Analytics, powered by Gemini AI, signals the intelligent evolution of Business Intelligence by democratizing data access. Users can now bypass complex interfaces and ask sophisticated business questions in plain, natural language, receiving immediate, governed answers and visualizations. Crucially, this feature is uniquely grounded in the LookML semantic layer\u2014your single source of truth\u2014ensuring every insight is accurate, consistent, and compliant with Looker's strict Zero Model Training policy; this transforms data exploration into an instant, trusted, and highly accessible experience for everyone in your organization.",
+        "published_date": "2025-11-12 15:41:56"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_CLOUD",
         "link": "https://www.youtube.com/watch?v=bN7p66GYu8Q",
         "title": "Chat with your data in BigQuery",
         "thumbnail": "https://www.youtube.com/v/bN7p66GYu8Q?version=3",

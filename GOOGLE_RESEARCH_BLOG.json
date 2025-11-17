@@ -1,6 +1,36 @@
 [
     {
         "website": "GOOGLE_RESEARCH_BLOG",
+        "link": "https://research.google/blog/separating-natural-forests-from-other-tree-cover-with-ai-for-deforestation-free-supply-chains/",
+        "title": "Separating natural forests from other tree cover with AI for deforestation-free supply chains",
+        "thumbnail": "https://storage.googleapis.com/gweb-research2023-media/original_images/Natural_Forests-1.png",
+        "author": null,
+        "track": null,
+        "description": "Climate & Sustainability",
+        "published_date": "2025-11-13 19:04:07"
+    },
+    {
+        "website": "GOOGLE_RESEARCH_BLOG",
+        "link": "https://research.google/blog/a-new-quantum-toolkit-for-optimization/",
+        "title": "A new quantum toolkit for optimization",
+        "thumbnail": "https://storage.googleapis.com/gweb-research2023-media/original_images/DQI2_OPI.png",
+        "author": null,
+        "track": null,
+        "description": "Algorithms & Theory",
+        "published_date": "2025-11-13 07:27:00"
+    },
+    {
+        "website": "GOOGLE_RESEARCH_BLOG",
+        "link": "https://research.google/blog/differentially-private-machine-learning-at-scale-with-jax-privacy/",
+        "title": "Differentially private machine learning at scale with JAX-Privacy",
+        "thumbnail": "https://storage.googleapis.com/gweb-research2023-media/original_images/JAXPrivacy1_Hero.png",
+        "author": null,
+        "track": null,
+        "description": "Algorithms & Theory",
+        "published_date": "2025-11-12 15:32:00"
+    },
+    {
+        "website": "GOOGLE_RESEARCH_BLOG",
         "link": "https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/",
         "title": "Introducing Nested Learning: A new ML paradigm for continual learning",
         "thumbnail": "https://storage.googleapis.com/gweb-research2023-media/original_images/NestedLearning-0-Hero.png",

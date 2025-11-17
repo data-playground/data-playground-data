@@ -1,6 +1,206 @@
 [
     {
         "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/outreach-initiatives/education/ben-gomes-speech-transcript/",
+        "title": "AI in education: From accessing information to achieving understanding",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIforLearning_Hero.max-600x600.format-webp.webp",
+        "author": "Ben Gomes",
+        "track": null,
+        "description": "Read Ben Gomes\u2019 remarks from our Google AI for Learning Forum in London.",
+        "published_date": "2025-11-17 16:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/technology/google-deepmind/weathernext-2/",
+        "title": "WeatherNext 2: Our most advanced weather forecasting model",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WeatherNext2_KeywordHero_2096x1.max-600x600.format-webp.webp",
+        "author": "The WeatherNext team",
+        "track": null,
+        "description": "The new AI model delivers more efficient, more accurate and higher-resolution global weather predictions.",
+        "published_date": "2025-11-17 15:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/technology/ai/ai-ready-data-in-africa/",
+        "title": "Google is committing $2.25 million to support AI-ready data in Africa.",
+        "thumbnail": null,
+        "author": null,
+        "track": null,
+        "description": "New funding from Google will help launch a regional Data Commons for Africa.",
+        "published_date": "2025-11-17 08:30:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/inside-google/company-announcements/google-american-innovation-texas/",
+        "title": "Google\u2019s investments run deep in the heart of Texas.",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Texas_Social.max-600x600.format-webp.webp",
+        "author": null,
+        "track": null,
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Texas_Social.max-600x600.format-webp.webp\" />We\u2019ve called Texas home for more than 15 years, and today, we're announcing a new $40 billion investment in the Lone Star State through 2027. This funding will help buil\u2026",
+        "published_date": "2025-11-14 21:45:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/technology/google-deepmind/imagine-if/",
+        "title": "Gen AI is bringing New Yorkers' imagination to life",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/imagine_hero.max-600x600.format-webp.webp",
+        "author": "Matthieu Kim Lorrain",
+        "track": null,
+        "description": "\u2018Imagine If\u2026\u2019 lets New Yorkers submit artistic visions of New York City and see them brought to life my local artists.",
+        "published_date": "2025-11-14 11:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/around-the-globe/google-europe/european-commission-ad-tech-response/",
+        "title": "Our proposal in response to the European Commission's decision about our ad tech business  fully addresses concerns and minimizes disruption for businesses.",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_SocialShare.max-600x600.format-webp.webp",
+        "author": null,
+        "track": null,
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_SocialShare.max-600x600.format-webp.webp\" />As we\u2019ve said before, we disagree with the European Commission\u2019s ad tech decision and will appeal. It doesn't reflect today's highly competitive and rapidly evolving ad \u2026",
+        "published_date": "2025-11-14 06:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/inside-google/doodles/doodle-for-google-2025-26/",
+        "title": "Doodle for Google is back to celebrate students\u2019 superpowers",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DoodleforGoogle_Hero.max-600x600.format-webp.webp",
+        "author": "Selly Sallah",
+        "track": null,
+        "description": "Doodle for Google is back for its 17th year, celebrating students\u2019 \u201csuperpowers\u201d",
+        "published_date": "2025-11-13 17:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/technology/google-labs/notebooklm-deep-research-file-types/",
+        "title": "NotebookLM adds Deep Research and support for more source types",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DeepResearch_BlogHeader_2096x11.max-600x600.format-webp.webp",
+        "author": "Shan Wang",
+        "track": null,
+        "description": "NotebookLM adds \"Deep Research\" for discovering sources, support for Word and PDFs, and a preview of Sheets.",
+        "published_date": "2025-11-13 17:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/technology/research/useful-quantum-computing-applications/",
+        "title": "The road to useful quantum computing applications",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/RoadtoQuantum_Hero.max-600x600.format-webp.webp",
+        "author": "Ryan Babbush",
+        "track": null,
+        "description": "An overview of our new framework to help us navigate the pathways and obstacles on the journey to real world quantum computing applications.",
+        "published_date": "2025-11-13 17:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/threat-analysis-group/tag-bulletin-q3-2025/",
+        "title": "TAG Bulletin: Q3 2025",
+        "thumbnail": null,
+        "author": "Billy Leonard",
+        "track": null,
+        "description": "Our bulletin covering coordinated influence operation campaigns terminated on our platforms in Q3 2025.",
+        "published_date": "2025-11-13 16:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/products/ads-commerce/improved-accuracy-account-suspensions/",
+        "title": "We\u2019ve significantly improved the accuracy of advertiser account suspensions.",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Suspension.max-600x600.format-webp.webp",
+        "author": "Keerat Sharma",
+        "track": null,
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Suspension.max-600x600.format-webp.webp\" />Every day, Google Ads harnesses the power of Gemini to block bad actors and protect people online. But sometimes, legitimate advertisers also get suspended, either becau\u2026",
+        "published_date": "2025-11-13 16:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/products/shopping/agentic-checkout-holiday-ai-shopping/",
+        "title": "Let AI do the hard parts of your holiday shopping",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/holiday_shopping_hero.max-600x600.format-webp_IpsLUCQ.webp",
+        "author": "Vidhya Srinivasan",
+        "track": null,
+        "description": "Learn more about new AI Google Shopping tools, including agentic checkout.",
+        "published_date": "2025-11-13 14:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/inside-google/company-announcements/defending-search-users-from-parasite-seo-spam/",
+        "title": "Defending Search users from \u201cParasite SEO\u201d spam",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_SocialShare.max-600x600.format-webp.webp",
+        "author": "Pandu Nayak",
+        "track": null,
+        "description": "",
+        "published_date": "2025-11-13 10:45:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/products/pixel/google-pixel-and-golden-goose-partner-to-bring-ai-to-global-ateliers/",
+        "title": "Google Pixel and Golden Goose partner to  bring AI to global ateliers",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2025-11-13_10.23.26_.max-600x600.format-webp.webp",
+        "author": "Google Italy Team",
+        "track": null,
+        "description": "",
+        "published_date": "2025-11-13 08:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/feed/search-images-tab-browse-organize/",
+        "title": "We\u2019re introducing a new way to explore and organize images in the Google app.",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/new_way_to_explore_and_organize.max-600x600.format-webp_3vBolij.webp",
+        "author": "Christina Collada",
+        "track": null,
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/new_way_to_explore_and_organize.max-600x600.format-webp_3vBolij.webp\" />People all over the world already turn to Google Images for visual discovery, whether you're planning a trip, sprucing up your apartment or deciding what to wear to a ho\u2026",
+        "published_date": "2025-11-12 17:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/products/gemini/gemini-live-audio-updates/",
+        "title": "5 ways to have more natural conversations with Gemini",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GeminiLive_SocialShare.max-600x600.format-webp.webp",
+        "author": "Angela Sun",
+        "track": null,
+        "description": "Here\u2019s how Gemini Live can help you have a more natural conversation with new updates.",
+        "published_date": "2025-11-12 17:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/products/ads-commerce/ads-advisor-and-analytics-advisor/",
+        "title": "Google's AI advisors: agentic tools to drive impact and insights",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Social_share__Advisor_Zr9LxYM.max-600x600.format-webp.webp",
+        "author": "Dan Taylor",
+        "track": null,
+        "description": "An overview of Ads Advisor and Analytics Advisor, two tools coming to English-language accounts this December.",
+        "published_date": "2025-11-12 17:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/outreach-initiatives/public-policy/legal-action-and-legislation-fight-scammers/",
+        "title": "A dual strategy: legal action and new legislation to fight scammers",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Policy_Hero_2096x1182.max-600x600.format-webp.webp",
+        "author": "Halimah DeLaine Prado",
+        "track": null,
+        "description": "An overview of how Google is taking legal action, supporting strong bipartisan legislation and releasing new features to fight scammers.",
+        "published_date": "2025-11-12 10:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/outreach-initiatives/arts-culture/visit-vilnius-on-google-arts-culture/",
+        "title": "Visit Vilnius on Google Arts & Culture",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Cover_for_YT_video.max-600x600.format-webp.webp",
+        "author": "Valdas Benkunskas",
+        "track": null,
+        "description": "Today, on the occasion of Google\u2019s 10-year office anniversary in the Baltics, the city of Vilnius is proud to unveil Visit Vilnius on Google Arts & Culture.",
+        "published_date": "2025-11-12 09:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/outreach-initiatives/education/gemini-education-italian-university-students/",
+        "title": "How Gemini for Education accelerates learning for over 1 million Italian university students",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HigherEdGemini_Hero.max-600x600.format-webp.webp",
+        "author": "Marco Berardinelli",
+        "track": null,
+        "description": "See how top higher education institutions are using Google AI tools and training to transform education.",
+        "published_date": "2025-11-12 07:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
         "link": "https://blog.google/products/messages/remix-nano-banana/",
         "title": "Remix makes sending photos to friends even more fun on Google Messages.",
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Remix-Keyword-Android-Blog-Soci.max-600x600.format-webp.webp",

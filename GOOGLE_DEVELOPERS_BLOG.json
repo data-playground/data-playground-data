@@ -228,5 +228,45 @@
         "track": null,
         "description": "Agent Garden is now available to all users to simplify AI agent creation and deployment using the Agent Development Kit (ADK). It provides curated agent samples, one-click deployment via Agent Starter Pack, and customization through Firebase Studio. It helps developers with complex business challenges and multi-agent workflows, with Renault Group cited as an early success story.",
         "published_date": ""
+    },
+    {
+        "website": "GOOGLE_DEVELOPERS_BLOG",
+        "link": "https://developers.googleblog.com/en/introducing-code-wiki-accelerating-your-code-understanding/",
+        "title": "Introducing Code Wiki: Accelerating your code understanding",
+        "thumbnail": null,
+        "author": null,
+        "track": null,
+        "description": "Code Wiki is a new platform that tackles the bottleneck of reading existing code by providing an automated, continuously updated, structured wiki for code repositories. It features hyper-linked documentation, a Gemini-powered chat agent that understands your repo, and automated diagrams. A public preview is available for open-source projects, and a Gemini CLI extension is coming soon for secure use on private repos.",
+        "published_date": ""
+    },
+    {
+        "website": "GOOGLE_DEVELOPERS_BLOG",
+        "link": "https://developers.googleblog.com/en/google-colab-is-coming-to-vs-code/",
+        "title": "Google Colab is Coming to VS Code",
+        "thumbnail": null,
+        "author": null,
+        "track": null,
+        "description": "Google Colab has launched an official VS Code extension, bridging the gap between the popular code editor and the AI/ML platform. The extension combines VS Code's powerful development environment with Colab's seamless access to high-powered runtimes (GPUs/TPUs), allowing users to connect local notebooks to Colab. This aims to meet developers where they are and brings the best of both worlds.",
+        "published_date": ""
+    },
+    {
+        "website": "GOOGLE_DEVELOPERS_BLOG",
+        "link": "https://developers.googleblog.com/en/making-the-terminal-beautiful-one-pixel-at-a-time/",
+        "title": "Making the terminal beautiful one pixel at a time",
+        "thumbnail": null,
+        "author": null,
+        "track": null,
+        "description": "Google has launched the redesigned **Android AI Sample Catalog**, a dedicated, open-source application to inspire and educate Android developers on building AI-powered apps. It showcases examples using both on-device (Gemini Nano via ML Kit GenAI API) and Cloud models (via Firebase AI Logic SDK), including image generation with Imagen, on-device summarization, and a \"Chat with Nano Banana\" chatbot. The code is easy to copy and paste to help developers quickly start their own projects.",
+        "published_date": ""
+    },
+    {
+        "website": "GOOGLE_DEVELOPERS_BLOG",
+        "link": "https://developers.googleblog.com/en/introducing-metrax-performant-efficient-and-robust-model-evaluation-metrics-in-jax/",
+        "title": "Introducing Metrax: performant, efficient, and robust model evaluation metrics in JAX",
+        "thumbnail": null,
+        "author": null,
+        "track": null,
+        "description": "Metrax is a high-performance JAX-based metrics library developed by Google. It standardizes model evaluation by offering robust, efficient metrics for classification, NLP, and vision, eliminating manual re-implementation after migrating from TensorFlow. Key strengths include parallel computation of \"at K\" metrics (e.g., PrecisionAtK) for multiple K values and strong integration with the JAX AI Stack, leveraging JAX's performance features. It is open-source on GitHub.",
+        "published_date": ""
     }
 ]
