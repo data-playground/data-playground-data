@@ -1,6 +1,16 @@
 [
     {
         "website": "YOUTUBE_GOOGLE_CLOUD",
+        "link": "https://www.youtube.com/watch?v=kDrJfaoqCl4",
+        "title": "Dun & Bradstreet Builds a Foundation for Innovation with Google Cloud: Powering Global Risk Data at",
+        "thumbnail": "https://www.youtube.com/v/kDrJfaoqCl4?version=3",
+        "author": "Google Cloud",
+        "track": null,
+        "description": "Try a Cloud SQL free Trial Instance today: https://goo.gle/3Xz9hlL\n\nAs a leading provider of business decisioning data, Dun & Bradstreet is trusted by customers to help them make complex decisions regarding risk mitigation, compliance, and growth. Before their partnership with Google Cloud, their infrastructure was fragmented across multiple providers and a physical data center.  In this video, Raghul Nandagopal, Vice President of Engineering at Dun & Bradstreet, explains how they chose Google Cloud for its powerful, simple, and secure architecture. By selecting Google Kubernetes Engine (GKE) and Cloud SQL\u2014leveraging its multi-engine support for PostgreSQL, MySQL, and SQL Server\u2014D&amp;B established a unified cloud environment.  This centralized approach not only offers unparalleled security and simplified scaling but also allows D&amp;B's DBAs and developers to focus on innovating rather than managing infrastructure. They are excited to leverage future technologies like Spanner and Google's Database Migration Assistant to continue driving their business forward.",
+        "published_date": "2025-11-17 20:05:31"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_CLOUD",
         "link": "https://www.youtube.com/watch?v=76okQTyiNyw",
         "title": "2x champion, Zaza Pachulia puts AI basketball coach to the test",
         "thumbnail": "https://www.youtube.com/v/76okQTyiNyw?version=3",

@@ -1,6 +1,16 @@
 [
     {
         "website": "YOUTUBE_TABLEAU_DATAFAM",
+        "link": "https://www.youtube.com/watch?v=4ZRywGOhGJY",
+        "title": "Chicago Tableau User Group 22 Oct 2025",
+        "thumbnail": "https://www.youtube.com/v/4ZRywGOhGJY?version=3",
+        "author": "The DataFam Tableau User Groups",
+        "track": null,
+        "description": "\"Five Ways to Actually Understand Your Dashboard Users\" presented by Amanda Makulec and Jeffrey Shaffer",
+        "published_date": "2025-11-18 00:12:08"
+    },
+    {
+        "website": "YOUTUBE_TABLEAU_DATAFAM",
         "link": "https://www.youtube.com/watch?v=Y4OcWbMcuzE",
         "title": "Brazil Tableau User Group 28 Oct 2025",
         "thumbnail": "https://www.youtube.com/v/Y4OcWbMcuzE?version=3",

@@ -1,6 +1,36 @@
 [
     {
         "website": "GOOGLE_TECHNOLOGY_BLOG",
+        "link": "https://blog.google/inside-google/company-announcements/investing-in-america-2025/",
+        "title": "Investing in America 2025",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/InvestinginAmerica_CollectionHe.max-600x600.format-webp.webp",
+        "author": null,
+        "track": null,
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/InvestinginAmerica_CollectionHe.max-600x600.format-webp.webp\" />Google\u2019s deep investments in American technical infrastructure, R&amp;D and the workforce will help the U.S. continue to lead the world in AI.",
+        "published_date": "2025-11-17 20:00:00"
+    },
+    {
+        "website": "GOOGLE_TECHNOLOGY_BLOG",
+        "link": "https://blog.google/technology/google-labs/3-things-learned-flow-sessions/",
+        "title": "3 lessons from Flow Sessions Artists on AI and creativity",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Clover_Thumb_01.max-600x600.format-webp.webp",
+        "author": "Brianna Doyle",
+        "track": null,
+        "description": "Learn more about Google\u2019s Flow Sessions, an artist cohort focusing on using AI in film while also using Google\u2019s AI filmmaking tool, Flow.",
+        "published_date": "2025-11-17 19:00:00"
+    },
+    {
+        "website": "GOOGLE_TECHNOLOGY_BLOG",
+        "link": "https://blog.google/products/search/agentic-plans-booking-travel-canvas-ai-mode/",
+        "title": "New ways to plan travel with AI in Search",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_Travel.max-600x600.format-webp.webp",
+        "author": "Julie Farago",
+        "track": null,
+        "description": "Use new Google AI tools to get help with itineraries, finding flight deals and booking reservations.",
+        "published_date": "2025-11-17 17:00:00"
+    },
+    {
+        "website": "GOOGLE_TECHNOLOGY_BLOG",
         "link": "https://blog.google/technology/google-deepmind/weathernext-2/",
         "title": "WeatherNext 2: Our most advanced weather forecasting model",
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WeatherNext2_KeywordHero_2096x1.max-600x600.format-webp.webp",
