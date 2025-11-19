@@ -1,6 +1,16 @@
 [
     {
         "website": "GOOGLE_RESEARCH_BLOG",
+        "link": "https://research.google/blog/generative-ui-a-rich-custom-visual-interactive-user-experience-for-any-prompt/",
+        "title": "Generative UI: A rich, custom, visual interactive user experience for any prompt",
+        "thumbnail": "https://storage.googleapis.com/gweb-research2023-media/original_images/GenUI-0b-Hero.png",
+        "author": null,
+        "track": null,
+        "description": "Generative AI",
+        "published_date": "2025-11-18 16:00:00"
+    },
+    {
+        "website": "GOOGLE_RESEARCH_BLOG",
         "link": "https://research.google/blog/separating-natural-forests-from-other-tree-cover-with-ai-for-deforestation-free-supply-chains/",
         "title": "Separating natural forests from other tree cover with AI for deforestation-free supply chains",
         "thumbnail": "https://storage.googleapis.com/gweb-research2023-media/original_images/Natural_Forests-1.png",
@@ -192,7 +202,7 @@
     {
         "website": "GOOGLE_RESEARCH_BLOG",
         "link": "https://research.google/blog/speech-to-retrieval-s2r-a-new-approach-to-voice-search/",
-        "title": "\u200b\u200bSpeech-to-Retrieval (S2R): A new approach to voice search",
+        "title": "​​Speech-to-Retrieval (S2R): A new approach to voice search",
         "thumbnail": "https://storage.googleapis.com/gweb-research2023-media/original_images/SpeechToRetrieval1_Hero.png",
         "author": null,
         "track": null,
@@ -242,7 +252,7 @@
     {
         "website": "GOOGLE_RESEARCH_BLOG",
         "link": "https://research.google/blog/towards-better-health-conversations-research-insights-on-a-wayfinding-ai-agent-based-on-gemini/",
-        "title": "Towards better health conversations: Research insights on a \u201cwayfinding\u201d AI agent based on Gemini",
+        "title": "Towards better health conversations: Research insights on a “wayfinding” AI agent based on Gemini",
         "thumbnail": "https://storage.googleapis.com/gweb-research2023-media/original_images/Wayfinder4_HeroSankey.png",
         "author": null,
         "track": null,
@@ -322,7 +332,7 @@
     {
         "website": "GOOGLE_RESEARCH_BLOG",
         "link": "https://research.google/blog/speculative-cascades-a-hybrid-approach-for-smarter-faster-llm-inference/",
-        "title": "Speculative cascades \u2014 A hybrid approach for smarter, faster LLM inference",
+        "title": "Speculative cascades — A hybrid approach for smarter, faster LLM inference",
         "thumbnail": "https://storage.googleapis.com/gweb-research2023-media/original_images/SpecCascades-0-Hero.png",
         "author": null,
         "track": null,
@@ -352,7 +362,7 @@
     {
         "website": "GOOGLE_RESEARCH_BLOG",
         "link": "https://research.google/blog/how-googles-ai-can-help-transform-health-professions-education/",
-        "title": "How Google\u2019s AI can help transform health professions education",
+        "title": "How Google’s AI can help transform health professions education",
         "thumbnail": "https://storage.googleapis.com/gweb-research2023-media/original_images/GenAI_for_Medical_Education-hero-final.webp",
         "author": null,
         "track": null,

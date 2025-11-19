@@ -1,8 +1,98 @@
 [
     {
         "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/products/android-enterprise/rcs-archival/",
+        "title": "Simplifying messaging compliance for businesses with Android RCS Archival on Pixel",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/messaging_compliance_Hero.max-600x600.format-webp.webp",
+        "author": "Ian Marsanyi",
+        "track": null,
+        "description": "Android Enterprise and Google Pixel devices are getting RCS archival to help IT admins easily configure and maintain compliant records",
+        "published_date": "2025-11-18 20:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/outreach-initiatives/education/google-scholar-labs/",
+        "title": "We’re introducing Google Scholar Labs to answer your research questions",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ScholarLabs-Logo_Social.max-600x600.format-webp.webp",
+        "author": null,
+        "track": null,
+        "description": "",
+        "published_date": "2025-11-18 18:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/technology/developers/gemini-3-developers/",
+        "title": "Start building with Gemini 3",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/StartBuildingwithGemini_Header.max-600x600.format-webp.webp",
+        "author": "Logan Kilpatrick",
+        "track": null,
+        "description": "Gemini 3 is introducing advanced agentic coding capabilities, plus Google Antigravity, a new agentic development platform.",
+        "published_date": "2025-11-18 16:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/products/search/gemini-3-search-ai-mode/",
+        "title": "Google Search with Gemini 3: Our most intelligent search yet",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SearchwithGemini3_Hero.max-600x600.format-webp.webp",
+        "author": "Elizabeth Hamon Reid",
+        "track": null,
+        "description": "Learn more about Gemini 3 and how it’s upgrading Google Search and AI Mode.",
+        "published_date": "2025-11-18 16:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/products/gemini/gemini-3/",
+        "title": "A new era of intelligence with Gemini 3",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3_model-blog_header-dark.max-600x600.format-webp.webp",
+        "author": "Koray Kavukcuoglu",
+        "track": null,
+        "description": "Today we’re releasing Gemini 3 – our most intelligent model that helps you bring any idea to life.",
+        "published_date": "2025-11-18 16:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/products/gemini/gemini-3-gemini-app/",
+        "title": "Gemini 3 brings upgraded smarts and new capabilities to the Gemini app",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Header_Dark_2096x1182.max-600x600.format-webp.webp",
+        "author": "Josh Woodward",
+        "track": null,
+        "description": "Today we’re unveiling a major update for the Gemini app, and it all starts with Gemini 3.",
+        "published_date": "2025-11-18 16:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/products/gemini/gemini-3-collection/",
+        "title": "Introducing Gemini 3",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Gemini3_Collection-Hero.png",
+        "author": null,
+        "track": null,
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Gemini3_Collection-Hero.png\" />Gemini 3, our most intelligent model, combines all of Gemini’s capabilities together so you can bring any idea to life.",
+        "published_date": "2025-11-18 16:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/around-the-globe/google-asia/google-play-best-2025/",
+        "title": "The best of Google Play in Asia Pacific",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Best_of_Play_2025_Keyword_Stati.max-600x600.format-webp.webp",
+        "author": "Karen Teo",
+        "track": null,
+        "description": "Here are the winners of Google Play’s Best of 2025 awards in Asia Pacific.",
+        "published_date": "2025-11-18 15:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/products/google-play/best-apps-games-2025/",
+        "title": "Google Play’s best apps, books and games of 2025",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/best_of_2025-fcc-dd-keyword_blo.max-600x600.format-webp.webp",
+        "author": "Sam Bright",
+        "track": null,
+        "description": "We’re announcing Google Play’s Best of 2025 awards, celebrating the best apps, games and books of the year.",
+        "published_date": "2025-11-18 15:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
         "link": "https://blog.google/products/workspace/google-vids-expands-ai-access/",
-        "title": "We\u2019re expanding access to Gemini in Google Vids.",
+        "title": "We’re expanding access to Gemini in Google Vids.",
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleVidsLockup_Social.max-600x600.format-webp.webp",
         "author": "Stephanie Ng",
         "track": null,
@@ -16,7 +106,7 @@
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/InvestinginAmerica_CollectionHe.max-600x600.format-webp.webp",
         "author": null,
         "track": null,
-        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/InvestinginAmerica_CollectionHe.max-600x600.format-webp.webp\" />Google\u2019s deep investments in American technical infrastructure, R&amp;D and the workforce will help the U.S. continue to lead the world in AI.",
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/InvestinginAmerica_CollectionHe.max-600x600.format-webp.webp\" />Google’s deep investments in American technical infrastructure, R&amp;D and the workforce will help the U.S. continue to lead the world in AI.",
         "published_date": "2025-11-17 20:00:00"
     },
     {
@@ -26,15 +116,15 @@
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Clover_Thumb_01.max-600x600.format-webp.webp",
         "author": "Brianna Doyle",
         "track": null,
-        "description": "Learn more about Google\u2019s Flow Sessions, an artist cohort focusing on using AI in film while also using Google\u2019s AI filmmaking tool, Flow.",
+        "description": "Learn more about Google’s Flow Sessions, an artist cohort focusing on using AI in film while also using Google’s AI filmmaking tool, Flow.",
         "published_date": "2025-11-17 19:00:00"
     },
     {
         "website": "GOOGLE_BLOG",
         "link": "https://blog.google/outreach-initiatives/education/gemini-certifications-education/",
-        "title": "We\u2019re announcing new Gemini certifications for education.",
+        "title": "We’re announcing new Gemini certifications for education.",
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Adobe_Express_-_file.max-600x600.format-webp_57hcVqf.webp",
-        "author": "Melissa Mu\u00f1oz",
+        "author": "Melissa Muñoz",
         "track": null,
         "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Adobe_Express_-_file.max-600x600.format-webp_57hcVqf.webp\" />A new suite of Gemini certifications are designed to validate core skills in generative AI.",
         "published_date": "2025-11-17 18:00:00"
@@ -52,7 +142,7 @@
     {
         "website": "GOOGLE_BLOG",
         "link": "https://blog.google/products/ads-commerce/demand-gen-drop-november-2025/",
-        "title": "Discover new features for the holiday season with November\u2019s Demand Gen Drop.",
+        "title": "Discover new features for the holiday season with November’s Demand Gen Drop.",
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/0092-YTAM-Demand_Gen_Drops-1113.max-600x600.format-webp.webp",
         "author": null,
         "track": null,
@@ -66,7 +156,7 @@
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIforLearning_Hero.max-600x600.format-webp.webp",
         "author": "Ben Gomes",
         "track": null,
-        "description": "Read Ben Gomes\u2019 remarks from our Google AI for Learning Forum in London.",
+        "description": "Read Ben Gomes’ remarks from our Google AI for Learning Forum in London.",
         "published_date": "2025-11-17 16:00:00"
     },
     {
@@ -92,11 +182,11 @@
     {
         "website": "GOOGLE_BLOG",
         "link": "https://blog.google/inside-google/company-announcements/google-american-innovation-texas/",
-        "title": "Google\u2019s investments run deep in the heart of Texas.",
+        "title": "Google’s investments run deep in the heart of Texas.",
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Texas_Social.max-600x600.format-webp.webp",
         "author": null,
         "track": null,
-        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Texas_Social.max-600x600.format-webp.webp\" />We\u2019ve called Texas home for more than 15 years, and today, we're announcing a new $40 billion investment in the Lone Star State through 2027. This funding will help buil\u2026",
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Texas_Social.max-600x600.format-webp.webp\" />We’ve called Texas home for more than 15 years, and today, we're announcing a new $40 billion investment in the Lone Star State through 2027. This funding will help buil…",
         "published_date": "2025-11-14 21:45:00"
     },
     {
@@ -106,7 +196,7 @@
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/imagine_hero.max-600x600.format-webp.webp",
         "author": "Matthieu Kim Lorrain",
         "track": null,
-        "description": "\u2018Imagine If\u2026\u2019 lets New Yorkers submit artistic visions of New York City and see them brought to life my local artists.",
+        "description": "‘Imagine If…’ lets New Yorkers submit artistic visions of New York City and see them brought to life my local artists.",
         "published_date": "2025-11-14 11:00:00"
     },
     {
@@ -116,17 +206,17 @@
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_SocialShare.max-600x600.format-webp.webp",
         "author": null,
         "track": null,
-        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_SocialShare.max-600x600.format-webp.webp\" />As we\u2019ve said before, we disagree with the European Commission\u2019s ad tech decision and will appeal. It doesn't reflect today's highly competitive and rapidly evolving ad \u2026",
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_SocialShare.max-600x600.format-webp.webp\" />As we’ve said before, we disagree with the European Commission’s ad tech decision and will appeal. It doesn't reflect today's highly competitive and rapidly evolving ad …",
         "published_date": "2025-11-14 06:00:00"
     },
     {
         "website": "GOOGLE_BLOG",
         "link": "https://blog.google/inside-google/doodles/doodle-for-google-2025-26/",
-        "title": "Doodle for Google is back to celebrate students\u2019 superpowers",
+        "title": "Doodle for Google is back to celebrate students’ superpowers",
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DoodleforGoogle_Hero.max-600x600.format-webp.webp",
         "author": "Selly Sallah",
         "track": null,
-        "description": "Doodle for Google is back for its 17th year, celebrating students\u2019 \u201csuperpowers\u201d",
+        "description": "Doodle for Google is back for its 17th year, celebrating students’ “superpowers”",
         "published_date": "2025-11-13 17:00:00"
     },
     {
@@ -162,11 +252,11 @@
     {
         "website": "GOOGLE_BLOG",
         "link": "https://blog.google/products/ads-commerce/improved-accuracy-account-suspensions/",
-        "title": "We\u2019ve significantly improved the accuracy of advertiser account suspensions.",
+        "title": "We’ve significantly improved the accuracy of advertiser account suspensions.",
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Suspension.max-600x600.format-webp.webp",
         "author": "Keerat Sharma",
         "track": null,
-        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Suspension.max-600x600.format-webp.webp\" />Every day, Google Ads harnesses the power of Gemini to block bad actors and protect people online. But sometimes, legitimate advertisers also get suspended, either becau\u2026",
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Suspension.max-600x600.format-webp.webp\" />Every day, Google Ads harnesses the power of Gemini to block bad actors and protect people online. But sometimes, legitimate advertisers also get suspended, either becau…",
         "published_date": "2025-11-13 16:00:00"
     },
     {
@@ -182,7 +272,7 @@
     {
         "website": "GOOGLE_BLOG",
         "link": "https://blog.google/inside-google/company-announcements/defending-search-users-from-parasite-seo-spam/",
-        "title": "Defending Search users from \u201cParasite SEO\u201d spam",
+        "title": "Defending Search users from “Parasite SEO” spam",
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_SocialShare.max-600x600.format-webp.webp",
         "author": "Pandu Nayak",
         "track": null,
@@ -202,11 +292,11 @@
     {
         "website": "GOOGLE_BLOG",
         "link": "https://blog.google/feed/search-images-tab-browse-organize/",
-        "title": "We\u2019re introducing a new way to explore and organize images in the Google app.",
+        "title": "We’re introducing a new way to explore and organize images in the Google app.",
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/new_way_to_explore_and_organize.max-600x600.format-webp_3vBolij.webp",
         "author": "Christina Collada",
         "track": null,
-        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/new_way_to_explore_and_organize.max-600x600.format-webp_3vBolij.webp\" />People all over the world already turn to Google Images for visual discovery, whether you're planning a trip, sprucing up your apartment or deciding what to wear to a ho\u2026",
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/new_way_to_explore_and_organize.max-600x600.format-webp_3vBolij.webp\" />People all over the world already turn to Google Images for visual discovery, whether you're planning a trip, sprucing up your apartment or deciding what to wear to a ho…",
         "published_date": "2025-11-12 17:00:00"
     },
     {
@@ -216,7 +306,7 @@
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GeminiLive_SocialShare.max-600x600.format-webp.webp",
         "author": "Angela Sun",
         "track": null,
-        "description": "Here\u2019s how Gemini Live can help you have a more natural conversation with new updates.",
+        "description": "Here’s how Gemini Live can help you have a more natural conversation with new updates.",
         "published_date": "2025-11-12 17:00:00"
     },
     {
@@ -246,7 +336,7 @@
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Cover_for_YT_video.max-600x600.format-webp.webp",
         "author": "Valdas Benkunskas",
         "track": null,
-        "description": "Today, on the occasion of Google\u2019s 10-year office anniversary in the Baltics, the city of Vilnius is proud to unveil Visit Vilnius on Google Arts & Culture.",
+        "description": "Today, on the occasion of Google’s 10-year office anniversary in the Baltics, the city of Vilnius is proud to unveil Visit Vilnius on Google Arts & Culture.",
         "published_date": "2025-11-12 09:00:00"
     },
     {
@@ -286,7 +376,7 @@
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/PixelDropNovember_Hero_v2.max-600x600.format-webp.webp",
         "author": "Aisha Sharif",
         "track": null,
-        "description": "The November Pixel Drop is here with new AI-powered features, \u2018Wicked\u2019 theme packs and favorite features in new regions.",
+        "description": "The November Pixel Drop is here with new AI-powered features, ‘Wicked’ theme packs and favorite features in new regions.",
         "published_date": "2025-11-11 19:00:00"
     },
     {
@@ -306,17 +396,17 @@
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/commitments_in_AI_and_learning_.max-600x600.format-webp.webp",
         "author": "Ben Gomes",
         "track": null,
-        "description": "We\u2019re bringing together experts, students, educators and more at our Google AI for Learning Forum.",
+        "description": "We’re bringing together experts, students, educators and more at our Google AI for Learning Forum.",
         "published_date": "2025-11-11 09:00:00"
     },
     {
         "website": "GOOGLE_BLOG",
         "link": "https://blog.google/around-the-globe/google-asia/sea-economy-2025/",
-        "title": "ASEAN\u2019s $300 billion digital economy enters the AI reality",
+        "title": "ASEAN’s $300 billion digital economy enters the AI reality",
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_Imagery_high_res.max-600x600.format-webp.webp",
         "author": "Sapna Chadha",
         "track": null,
-        "description": "The annual e-Conomy SEA report finds ASEAN\u2019s digital economy is set to surpass $300 billion in Gross Merchandise Value (GMV) by 2025",
+        "description": "The annual e-Conomy SEA report finds ASEAN’s digital economy is set to surpass $300 billion in Gross Merchandise Value (GMV) by 2025",
         "published_date": "2025-11-11 03:30:00"
     },
     {
@@ -326,7 +416,7 @@
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero-2_mKStvbs.max-600x600.format-webp.webp",
         "author": null,
         "track": null,
-        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero-2_mKStvbs.max-600x600.format-webp.webp\" />In September, we announced updates to Google Play Games, shared our vision for leagues, and launched the Subway Surfers League with SYBO Games. Today, we\u2019re excited to a\u2026",
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero-2_mKStvbs.max-600x600.format-webp.webp\" />In September, we announced updates to Google Play Games, shared our vision for leagues, and launched the Subway Surfers League with SYBO Games. Today, we’re excited to a…",
         "published_date": "2025-11-10 18:00:00"
     },
     {
@@ -356,7 +446,7 @@
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/rach.max-600x600.format-webp.webp",
         "author": "Lila Ibrahim",
         "track": null,
-        "description": "A six-month long pilot program with the Northern Ireland Education Authority\u2019s C2k initiative found that integrating Gemini and other generative AI tools saved participating teachers an average of 10 hours per week.",
+        "description": "A six-month long pilot program with the Northern Ireland Education Authority’s C2k initiative found that integrating Gemini and other generative AI tools saved participating teachers an average of 10 hours per week.",
         "published_date": "2025-11-10 09:00:00"
     },
     {
@@ -366,27 +456,27 @@
         "thumbnail": null,
         "author": null,
         "track": null,
-        "description": "Whether it's a show recommendation based on your favorite series or a new restaurant suggestion inspired by your go-to spot, people expect online experiences to be tailo\u2026",
+        "description": "Whether it's a show recommendation based on your favorite series or a new restaurant suggestion inspired by your go-to spot, people expect online experiences to be tailo…",
         "published_date": "2025-11-07 19:00:00"
     },
     {
         "website": "GOOGLE_BLOG",
         "link": "https://blog.google/inside-google/company-announcements/oklahoma-workforce-talent-pipeline/",
-        "title": "Google is investing in Oklahoma\u2019s workforce and talent pipeline.",
+        "title": "Google is investing in Oklahoma’s workforce and talent pipeline.",
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oklahoma_Social.max-600x600.format-webp.webp",
         "author": null,
         "track": null,
-        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oklahoma_Social.max-600x600.format-webp.webp\" />AI is creating new opportunities for Oklahomans to learn, grow and succeed. Google is committed to making sure the Sooner State is not just ready for this transformation\u2026",
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oklahoma_Social.max-600x600.format-webp.webp\" />AI is creating new opportunities for Oklahomans to learn, grow and succeed. Google is committed to making sure the Sooner State is not just ready for this transformation…",
         "published_date": "2025-11-07 19:00:00"
     },
     {
         "website": "GOOGLE_BLOG",
         "link": "https://blog.google/outreach-initiatives/sustainability/how-were-using-ai-to-help-nature-and-people-flourish-together/",
-        "title": "How we\u2019re using AI to help nature and people flourish together",
+        "title": "How we’re using AI to help nature and people flourish together",
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NaturePeople_Hero.max-600x600.format-webp.webp",
         "author": "Kate Brandt",
         "track": null,
-        "description": "Human wellbeing is deeply tied to the health of our planet. Here\u2019s how we\u2019re using AI to help nature and people flourish together.",
+        "description": "Human wellbeing is deeply tied to the health of our planet. Here’s how we’re using AI to help nature and people flourish together.",
         "published_date": "2025-11-06 20:00:00"
     },
     {
@@ -396,7 +486,7 @@
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Opal_blog_header_1.max-600x600.format-webp.webp",
         "author": "Megan Li",
         "track": null,
-        "description": "We\u2019re bringing Opal to 160 countries.",
+        "description": "We’re bringing Opal to 160 countries.",
         "published_date": "2025-11-06 19:00:00"
     },
     {
@@ -416,7 +506,7 @@
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FlashcardsQuiz_Social.max-600x600.format-webp.webp",
         "author": null,
         "track": null,
-        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FlashcardsQuiz_Social.max-600x600.format-webp.webp\" />We\u2019re rolling out a big update to the NotebookLM app this week.",
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FlashcardsQuiz_Social.max-600x600.format-webp.webp\" />We’re rolling out a big update to the NotebookLM app this week.",
         "published_date": "2025-11-06 17:00:00"
     },
     {
@@ -456,7 +546,7 @@
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/OnlineScamsAdvisory3_Hero.max-600x600.format-webp.webp",
         "author": "Laurie Richardson",
         "track": null,
-        "description": "An overview from Google\u2019s Trust & Safety teams on the most recent online scam trends.",
+        "description": "An overview from Google’s Trust & Safety teams on the most recent online scam trends.",
         "published_date": "2025-11-06 15:00:00"
     },
     {
@@ -466,17 +556,17 @@
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Artboard_2_qJtr56I.max-600x600.format-webp.webp",
         "author": "Holly N. Jolly",
         "track": null,
-        "description": "Google Maps reveals the best times to avoid traffic, hit the post office \u2013 and even which states get their shopping done earliest during the holiday season.",
+        "description": "Google Maps reveals the best times to avoid traffic, hit the post office – and even which states get their shopping done earliest during the holiday season.",
         "published_date": "2025-11-06 14:00:00"
     },
     {
         "website": "GOOGLE_BLOG",
         "link": "https://blog.google/outreach-initiatives/sustainability/mombak-co2-removal/",
-        "title": "Our new deal with Mombak is designed to accelerate the planet\u2019s natural ability to remove CO2.",
+        "title": "Our new deal with Mombak is designed to accelerate the planet’s natural ability to remove CO2.",
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thumbnail_Mombak.max-600x600.format-webp.webp",
         "author": "Randy Spock",
         "track": null,
-        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thumbnail_Mombak.max-600x600.format-webp.webp\" />We signed a new carbon dioxide (CO2) removal deal with Mombak, a Brazil-based company that is restoring degraded land in the Amazon by planting native, biodiverse forest\u2026",
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thumbnail_Mombak.max-600x600.format-webp.webp\" />We signed a new carbon dioxide (CO2) removal deal with Mombak, a Brazil-based company that is restoring degraded land in the Amazon by planting native, biodiverse forest…",
         "published_date": "2025-11-06 14:00:00"
     },
     {
@@ -492,7 +582,7 @@
     {
         "website": "GOOGLE_BLOG",
         "link": "https://blog.google/outreach-initiatives/entrepreneurs/the-lasting-impact-of-googles-support-for-ukrainian-founders/",
-        "title": "The lasting impact of Google\u2019s support for Ukrainian founders",
+        "title": "The lasting impact of Google’s support for Ukrainian founders",
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/UkraineSupport_Hero.max-600x600.format-webp.webp",
         "author": "Karen Fiester",
         "track": null,
@@ -516,7 +606,7 @@
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Deepresearch_Social.max-600x600.format-webp.webp",
         "author": null,
         "track": null,
-        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Deepresearch_Social.max-600x600.format-webp.webp\" />Learn more about how Google Workspace apps now work with Gemini\u2019s Deep Research tool.",
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Deepresearch_Social.max-600x600.format-webp.webp\" />Learn more about how Google Workspace apps now work with Gemini’s Deep Research tool.",
         "published_date": "2025-11-05 17:00:00"
     },
     {
@@ -562,7 +652,7 @@
     {
         "website": "GOOGLE_BLOG",
         "link": "https://blog.google/waze/waze-now-you-see-me/",
-        "title": "Drive with \u2018Now You See Me\u2019 on Waze",
+        "title": "Drive with ‘Now You See Me’ on Waze",
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NYSM-Keyvisual_NYSM-Horizontal_.max-600x600.format-webp.webp",
         "author": null,
         "track": null,

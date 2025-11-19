@@ -1,6 +1,16 @@
 [
     {
         "website": "YOUTUBE_TABLEAU_DATAFAM",
+        "link": "https://www.youtube.com/watch?v=KDVnVdS10Z8",
+        "title": "Tableau Newbies User Group 13 Nov 2025",
+        "thumbnail": "https://www.youtube.com/v/KDVnVdS10Z8?version=3",
+        "author": "The DataFam Tableau User Groups",
+        "track": null,
+        "description": "Two expert-led Tableau sessions in one event:\nBuilding Great Looking Dashboards\nKlaus Schulte (Tableau Hall of Fame Visionary) and Jim Dehner (Tableau Ambassador) share essential design principles and techniques for creating clear, effective, and visually appealing dashboards.\n\nTableau Speed Tipping: 40 Tips in 40 Minutes\nTore Levinson (Tableau Visionary) and Nhung Le (The Information Lab) deliver rapid, practical tips to help you work faster and smarter in Tableau.",
+        "published_date": "2025-11-18 03:17:47"
+    },
+    {
+        "website": "YOUTUBE_TABLEAU_DATAFAM",
         "link": "https://www.youtube.com/watch?v=4ZRywGOhGJY",
         "title": "Chicago Tableau User Group 22 Oct 2025",
         "thumbnail": "https://www.youtube.com/v/4ZRywGOhGJY?version=3",
@@ -16,7 +26,7 @@
         "thumbnail": "https://www.youtube.com/v/Y4OcWbMcuzE?version=3",
         "author": "The DataFam Tableau User Groups",
         "track": null,
-        "description": "Imagine reduzir em mais de 90% o tempo de desenvolvimento dos seus dashboards no Tableau, sem abrir m\u00e3o da qualidade e ainda garantindo consist\u00eancia em toda a organiza\u00e7\u00e3o. Nesta palestra, voc\u00ea vai descobrir como criar e aplicar templates inteligentes de dashboards em minutos, acelerando entregas, padronizando layouts entre departamentos e levando a experi\u00eancia anal\u00edtica para outro n\u00edvel.\n\nSeja para times de BI, \u00e1reas de neg\u00f3cio ou grandes corpora\u00e7\u00f5es, voc\u00ea vai entender como transformar o Tableau em uma verdadeira f\u00e1brica de dashboards: r\u00e1pidos, consistentes e de alto impacto.",
+        "description": "Imagine reduzir em mais de 90% o tempo de desenvolvimento dos seus dashboards no Tableau, sem abrir mão da qualidade e ainda garantindo consistência em toda a organização. Nesta palestra, você vai descobrir como criar e aplicar templates inteligentes de dashboards em minutos, acelerando entregas, padronizando layouts entre departamentos e levando a experiência analítica para outro nível.\n\nSeja para times de BI, áreas de negócio ou grandes corporações, você vai entender como transformar o Tableau em uma verdadeira fábrica de dashboards: rápidos, consistentes e de alto impacto.",
         "published_date": "2025-11-02 22:01:50"
     },
     {
@@ -26,7 +36,7 @@
         "thumbnail": "https://www.youtube.com/v/Iy8Ynqibc9M?version=3",
         "author": "The DataFam Tableau User Groups",
         "track": null,
-        "description": "\"How I used data visualisation to understand music\" by Ludo Koelman\n\nMy journey of understanding music through the lens of data visualisation and mathematical patterns. I created my own version of a \u201cmusic script language\u201d with data visualisation best practices in mind. During this journey I realised I was on the receiving end of \"user adoption gone wrong\", reflecting on the parallel to data visualisation projects",
+        "description": "\"How I used data visualisation to understand music\" by Ludo Koelman\n\nMy journey of understanding music through the lens of data visualisation and mathematical patterns. I created my own version of a “music script language” with data visualisation best practices in mind. During this journey I realised I was on the receiving end of \"user adoption gone wrong\", reflecting on the parallel to data visualisation projects",
         "published_date": "2025-10-30 23:57:05"
     },
     {
@@ -96,7 +106,7 @@
         "thumbnail": "https://www.youtube.com/v/wUmF3v_Cdbs?version=3",
         "author": "The DataFam Tableau User Groups",
         "track": null,
-        "description": "1) Intro\n2) \u201cNotion - Getting More From Your Day\u201d by Ludo Koelman, FIRN Analytics\n3) \u201cTableau Next \u2026 in the (almost) wild\u201d by Fiona Crocker, Dub Dub Data\n4) Open Discussion (LIVE only, will not be included in the recording)",
+        "description": "1) Intro\n2) “Notion - Getting More From Your Day” by Ludo Koelman, FIRN Analytics\n3) “Tableau Next … in the (almost) wild” by Fiona Crocker, Dub Dub Data\n4) Open Discussion (LIVE only, will not be included in the recording)",
         "published_date": "2025-10-23 00:37:13"
     },
     {
@@ -106,7 +116,7 @@
         "thumbnail": "https://www.youtube.com/v/-CHHKbIwOZo?version=3",
         "author": "The DataFam Tableau User Groups",
         "track": null,
-        "description": "Join us for \u201cGet a First Look at Tableau Next \u2013 Canada Edition,\u201d an exclusive preview of Tableau\u2019s next-generation analytics experience\u2014now available on the Salesforce platform! Discover the latest innovations revolutionizing how organizations interact with data. In this session, Candi and Kirk will walk you through a hands-on demo\u2014from connecting to data and building a semantic layer to creating trusted metrics and leveraging AI-powered insights.\n\nExplore how Tableau Next simplifies the analytics workflow, empowers teams across your organization, and supports smarter, faster decision-making. Whether you're a data analyst, business leader, or IT decision-maker, this is your chance to see how Tableau is making data more accessible than ever.",
+        "description": "Join us for “Get a First Look at Tableau Next – Canada Edition,” an exclusive preview of Tableau’s next-generation analytics experience—now available on the Salesforce platform! Discover the latest innovations revolutionizing how organizations interact with data. In this session, Candi and Kirk will walk you through a hands-on demo—from connecting to data and building a semantic layer to creating trusted metrics and leveraging AI-powered insights.\n\nExplore how Tableau Next simplifies the analytics workflow, empowers teams across your organization, and supports smarter, faster decision-making. Whether you're a data analyst, business leader, or IT decision-maker, this is your chance to see how Tableau is making data more accessible than ever.",
         "published_date": "2025-10-20 03:03:58"
     },
     {
@@ -116,7 +126,7 @@
         "thumbnail": "https://www.youtube.com/v/XgdVUSXO0wI?version=3",
         "author": "The DataFam Tableau User Groups",
         "track": null,
-        "description": "October Tableau Public TUG: Spooky Fall Spectacular\n\u2022 Ilija Stoji\u0107 \u2013 shares his harrowing tale of becoming a 1st time Tableau Ambassador.\n\u2022 Anne-Sophie Pereira \u2013 will present her classic Viz of the Day, Six reasons to watch Buffy the Vampire Slayer\n\u2022 Lucia Stefanuto\u2013 will present her Halloween - Best Candy Ever Viz of the Day\n\nWatch the October Tableau Public TUG to learn how to do really cool stuff in Tableau.",
+        "description": "October Tableau Public TUG: Spooky Fall Spectacular\n• Ilija Stojić – shares his harrowing tale of becoming a 1st time Tableau Ambassador.\n• Anne-Sophie Pereira – will present her classic Viz of the Day, Six reasons to watch Buffy the Vampire Slayer\n• Lucia Stefanuto– will present her Halloween - Best Candy Ever Viz of the Day\n\nWatch the October Tableau Public TUG to learn how to do really cool stuff in Tableau.",
         "published_date": "2025-10-20 01:23:34"
     },
     {
@@ -136,7 +146,7 @@
         "thumbnail": "https://www.youtube.com/v/GWPVnK5-NJw?version=3",
         "author": "The DataFam Tableau User Groups",
         "track": null,
-        "description": "\u2b50 The power of data in publishing a video game by Emmanuel Rosier\nWe all know the importance of data in bringing a product into market, and video games is no different. With over 10 years of experience in this industry, Emmanuel will share about how the current market landscape is like, and what it looks like to have data drive launch insights \u2013 from release timings, early access best practices to how attrition unfolds. \n\n\n\u2b50From Pixels to Patterns: Early Analytics Shaping Games by Celia Fryer\nStep back into the early days of gaming and visual analytics, where dashboards weren\u2019t just about numbers\u2014they changed the course of game design itself. We\u2019ll revisit some early gaming history and look at a couple Tableau dashboards that influenced key decisions were part of decisions for player experience, offering a glimpse at how data-driven insights became part of the creative process. \n\n \n\u2b50 Other than that, we have a few more items to chat about:\nWhat's everyone playing and their favorite games? (Of course we had to sneak in some data collection right? \ud83d\ude09)\n- Cadence of the business\n- Timeline of key industry events\n- Quick overview of the metrics we measure\n- How you can get started with #GamesNightViz",
+        "description": "⭐ The power of data in publishing a video game by Emmanuel Rosier\nWe all know the importance of data in bringing a product into market, and video games is no different. With over 10 years of experience in this industry, Emmanuel will share about how the current market landscape is like, and what it looks like to have data drive launch insights – from release timings, early access best practices to how attrition unfolds. \n\n\n⭐From Pixels to Patterns: Early Analytics Shaping Games by Celia Fryer\nStep back into the early days of gaming and visual analytics, where dashboards weren’t just about numbers—they changed the course of game design itself. We’ll revisit some early gaming history and look at a couple Tableau dashboards that influenced key decisions were part of decisions for player experience, offering a glimpse at how data-driven insights became part of the creative process. \n\n \n⭐ Other than that, we have a few more items to chat about:\nWhat's everyone playing and their favorite games? (Of course we had to sneak in some data collection right? 😉)\n- Cadence of the business\n- Timeline of key industry events\n- Quick overview of the metrics we measure\n- How you can get started with #GamesNightViz",
         "published_date": "2025-10-16 10:53:27"
     },
     {
@@ -146,7 +156,7 @@
         "thumbnail": "https://www.youtube.com/v/40DDpZXAws8?version=3",
         "author": "The DataFam Tableau User Groups",
         "track": null,
-        "description": "Schedule of Events\n3:30 PM: Welcome & Introductions\n\nJust a quick welcome and introduction to get the TUG started before we jump into the good stuff.\n\n3:45 PM: Community Spotlight, Cameron Brown\n\nLearn about one of our community members, Cameron Brown, Account Executive, Tableau Software.\n\n4:00 PM: Feature Presentation: All things AI in Tableau, Ojoswi Basu\n\nDiscover how AI and natural language are transforming the way we interact with data in Tableau. This session will showcase practical demos and insights into these powerful capabilities.\n\n4:30 PM: TableauNext Beta Wrap-up, Celia Fryar\n\nGet an inside look at TableauNext beta with a focus on semantic modeling, data governance, and opportunities to enable agentic analytics. This short wrap\u2011up will highlight key insights shaping the next era of Tableau.",
+        "description": "Schedule of Events\n3:30 PM: Welcome & Introductions\n\nJust a quick welcome and introduction to get the TUG started before we jump into the good stuff.\n\n3:45 PM: Community Spotlight, Cameron Brown\n\nLearn about one of our community members, Cameron Brown, Account Executive, Tableau Software.\n\n4:00 PM: Feature Presentation: All things AI in Tableau, Ojoswi Basu\n\nDiscover how AI and natural language are transforming the way we interact with data in Tableau. This session will showcase practical demos and insights into these powerful capabilities.\n\n4:30 PM: TableauNext Beta Wrap-up, Celia Fryar\n\nGet an inside look at TableauNext beta with a focus on semantic modeling, data governance, and opportunities to enable agentic analytics. This short wrap‑up will highlight key insights shaping the next era of Tableau.",
         "published_date": "2025-10-16 09:37:03"
     },
     {

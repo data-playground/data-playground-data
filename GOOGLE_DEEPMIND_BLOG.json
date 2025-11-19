@@ -1,12 +1,42 @@
 [
     {
         "website": "GOOGLE_DEEPMIND_BLOG",
+        "link": "https://blog.google/products/gemini/gemini-3/",
+        "title": "A new era of intelligence with Gemini 3",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3_model-blog_header-dark.max-600x600.format-webp.webp",
+        "author": "Koray Kavukcuoglu",
+        "track": null,
+        "description": "Today we’re releasing Gemini 3 – our most intelligent model that helps you bring any idea to life.",
+        "published_date": "2025-11-18 16:00:00"
+    },
+    {
+        "website": "GOOGLE_DEEPMIND_BLOG",
+        "link": "https://blog.google/technology/google-deepmind/weathernext-2/",
+        "title": "WeatherNext 2: Our most advanced weather forecasting model",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WeatherNext2_KeywordHero_2096x1.max-600x600.format-webp.webp",
+        "author": "The WeatherNext team",
+        "track": null,
+        "description": "The new AI model delivers more efficient, more accurate and higher-resolution global weather predictions.",
+        "published_date": "2025-11-17 15:00:00"
+    },
+    {
+        "website": "GOOGLE_DEEPMIND_BLOG",
+        "link": "https://blog.google/technology/google-deepmind/imagine-if/",
+        "title": "Gen AI is bringing New Yorkers' imagination to life",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/imagine_hero.max-600x600.format-webp.webp",
+        "author": "Matthieu Kim Lorrain",
+        "track": null,
+        "description": "‘Imagine If…’ lets New Yorkers submit artistic visions of New York City and see them brought to life my local artists.",
+        "published_date": "2025-11-14 11:00:00"
+    },
+    {
+        "website": "GOOGLE_DEEPMIND_BLOG",
         "link": "https://blog.google/technology/google-deepmind/ai-classroom-northern-ireland/",
         "title": "How AI is giving Northern Ireland teachers time back",
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/rach.max-600x600.format-webp.webp",
         "author": "Lila Ibrahim",
         "track": null,
-        "description": "A six-month long pilot program with the Northern Ireland Education Authority\u2019s C2k initiative found that integrating Gemini and other generative AI tools saved participating teachers an average of 10 hours per week.",
+        "description": "A six-month long pilot program with the Northern Ireland Education Authority’s C2k initiative found that integrating Gemini and other generative AI tools saved participating teachers an average of 10 hours per week.",
         "published_date": "2025-11-10 09:00:00"
     },
     {
@@ -26,7 +56,7 @@
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_AI_Recap_hero_still_1.max-600x600.format-webp.webp",
         "author": "Keyword Team",
         "track": null,
-        "description": "Here are Google\u2019s latest AI updates from October 2025",
+        "description": "Here are Google’s latest AI updates from October 2025",
         "published_date": "2025-11-04 17:00:00"
     },
     {
@@ -34,7 +64,7 @@
         "link": "https://blog.google/technology/google-deepmind/ai-for-math/",
         "title": "Accelerating discovery with the AI for Math Initiative",
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIforMath_Hero_Image_-_2096_x_1.max-600x600.format-webp.webp",
-        "author": "Eug\u00e9nie Rives",
+        "author": "Eugénie Rives",
         "track": null,
         "description": "The AI for Math Initiative brings together five of the world's most prestigious research institutions.",
         "published_date": "2025-10-29 14:00:00"
@@ -46,7 +76,7 @@
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Veo3.1_Social_v3.max-600x600.format-webp.webp",
         "author": "Thomas Iljic",
         "track": null,
-        "description": "Today, we\u2019re introducing new and enhanced creative capabilities to edit your clips.",
+        "description": "Today, we’re introducing new and enhanced creative capabilities to edit your clips.",
         "published_date": "2025-10-15 16:00:00"
     },
     {
@@ -56,7 +86,7 @@
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sep_AI_Recap_2025_hero.max-600x600.format-webp.webp",
         "author": "Keyword Team",
         "track": null,
-        "description": "Here are Google\u2019s latest AI updates from September 2025",
+        "description": "Here are Google’s latest AI updates from September 2025",
         "published_date": "2025-10-08 15:00:00"
     },
     {
@@ -72,11 +102,11 @@
     {
         "website": "GOOGLE_DEEPMIND_BLOG",
         "link": "https://blog.google/technology/safety-security/ai-security-frontier-strategy-tools/",
-        "title": "How we\u2019re securing the AI frontier",
+        "title": "How we’re securing the AI frontier",
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/secure_AI_frontier_hero_v2.max-600x600.format-webp.webp",
         "author": "Four Flynn",
         "track": null,
-        "description": "An overview of Google\u2019s cohesive strategy for securing the AI ecosystem from the inside out.",
+        "description": "An overview of Google’s cohesive strategy for securing the AI ecosystem from the inside out.",
         "published_date": "2025-10-06 13:00:00"
     },
     {
@@ -106,7 +136,7 @@
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/release-notes-podcast-pushmeet.max-600x600.format-webp.webp",
         "author": null,
         "track": null,
-        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/release-notes-podcast-pushmeet.max-600x600.format-webp.webp\" />Pushmeet Kohli, who leads DeepMind\u2019s science and strategic initiatives team, discusses AI and science.",
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/release-notes-podcast-pushmeet.max-600x600.format-webp.webp\" />Pushmeet Kohli, who leads DeepMind’s science and strategic initiatives team, discusses AI and science.",
         "published_date": "2025-09-15 18:52:00"
     },
     {
@@ -126,7 +156,7 @@
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_latest_AI_News.max-600x600.format-webp.webp",
         "author": "Keyword Team",
         "track": null,
-        "description": "Here are Google\u2019s latest AI updates from August 2025",
+        "description": "Here are Google’s latest AI updates from August 2025",
         "published_date": "2025-09-10 16:15:00"
     },
     {
@@ -136,7 +166,7 @@
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/demis-hassabis-podcast.max-600x600.format-webp.webp",
         "author": "TK Breuer",
         "track": null,
-        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/demis-hassabis-podcast.max-600x600.format-webp.webp\" />Google DeepMind CEO Demis Hassabis talks about AI\u2019s momentum, from new models to the Game Arena benchmark.",
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/demis-hassabis-podcast.max-600x600.format-webp.webp\" />Google DeepMind CEO Demis Hassabis talks about AI’s momentum, from new models to the Game Arena benchmark.",
         "published_date": "2025-08-11 20:35:00"
     },
     {
@@ -156,17 +186,17 @@
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Roundup_hero-still.max-600x600.format-webp.webp",
         "author": "Keyword Team",
         "track": null,
-        "description": "Here are Google\u2019s latest AI updates from July 2025",
+        "description": "Here are Google’s latest AI updates from July 2025",
         "published_date": "2025-08-07 14:30:00"
     },
     {
         "website": "GOOGLE_DEEPMIND_BLOG",
         "link": "https://blog.google/technology/google-deepmind/weather-lab-ai-cyclone-prediction-tracking/",
-        "title": "How we\u2019re using AI to help track and predict cyclones",
+        "title": "How we’re using AI to help track and predict cyclones",
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hurricane_Hero.max-600x600.format-webp.webp",
         "author": "Joel Meares",
         "track": null,
-        "description": "We\u2019re partnering with the National Hurricane Center, supporting their forecasts and warnings this cyclone season.",
+        "description": "We’re partnering with the National Hurricane Center, supporting their forecasts and warnings this cyclone season.",
         "published_date": "2025-08-04 19:00:00"
     },
     {
@@ -202,7 +232,7 @@
     {
         "website": "GOOGLE_DEEPMIND_BLOG",
         "link": "https://blog.google/technology/google-deepmind/aeneas/",
-        "title": "Google DeepMind\u2019s new AI model helps historians interpret ancient texts.",
+        "title": "Google DeepMind’s new AI model helps historians interpret ancient texts.",
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Aeneas.max-600x600.format-webp.webp",
         "author": "TK Breuer",
         "track": null,

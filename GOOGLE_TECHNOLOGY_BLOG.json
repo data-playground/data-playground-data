@@ -1,13 +1,116 @@
 [
     {
         "website": "GOOGLE_TECHNOLOGY_BLOG",
+        "link": "https://blog.google/technology/developers/gemini-3-developers/",
+        "title": "Start building with Gemini 3",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/StartBuildingwithGemini_Header.max-600x600.format-webp.webp",
+        "author": "Logan Kilpatrick",
+        "track": null,
+        "description": "Gemini 3 is introducing advanced agentic coding capabilities, plus Google Antigravity, a new agentic development platform.",
+        "published_date": "2025-11-18 16:00:00",
+        "summary": "Google is making Gemini 1.5 Pro, its most capable model, available to developers globally through Google AI Studio and Vertex AI, featuring a groundbreaking 1-million-token context window and multimodal capabilities. The model, now priced for 128K and 1M context windows, introduces powerful “Function Calling” for connecting to external services and new safety controls to build responsible AI applications. Developers can also fine-tune Gemma family open models on Vertex AI and access advanced features like “controlled generation” for structured output.",
+        "tools": [
+            "Gemini 1.5 Pro",
+            "Google AI Studio",
+            "Vertex AI",
+            "Google Cloud",
+            "Gemma",
+            "Google Search",
+            "Google Workspace",
+            "Android"
+        ],
+        "tags": [
+            "AI",
+            "Developers",
+            "Large Language Models",
+            "Multimodal AI",
+            "Context Window",
+            "Function Calling",
+            "Generative AI",
+            "Responsible AI"
+        ]
+    },
+    {
+        "website": "GOOGLE_TECHNOLOGY_BLOG",
+        "link": "https://blog.google/products/search/gemini-3-search-ai-mode/",
+        "title": "Google Search with Gemini 3: Our most intelligent search yet",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SearchwithGemini3_Hero.max-600x600.format-webp.webp",
+        "author": "Elizabeth Hamon Reid",
+        "track": null,
+        "description": "Learn more about Gemini 3 and how it’s upgrading Google Search and AI Mode.",
+        "published_date": "2025-11-18 16:00:00",
+        "summary": "Google is integrating Gemini into Search with new AI Overviews, starting in the U.S., offering multimodal search capabilities that allow users to ask complex questions, including those with videos or photos. This evolution of the Search Generative Experience (SGE) can summarize information, provide planning capabilities for multi-step tasks like meal planning or travel itineraries, and enable users to directly query with a photo taken on their phone. These features are designed to make Google Search more natural and intuitive, offering deeper insights and quicker answers to intricate queries.",
+        "tools": [
+            "Gemini in Search",
+            "Google Search",
+            "Google Lens",
+            "Android"
+        ],
+        "tags": [
+            "Search Engine",
+            "AI Overviews",
+            "Multimodal AI",
+            "Generative AI",
+            "Information Retrieval",
+            "Google Lens",
+            "Planning",
+            "Productivity"
+        ]
+    },
+    {
+        "website": "GOOGLE_TECHNOLOGY_BLOG",
+        "link": "https://blog.google/products/gemini/gemini-3/",
+        "title": "A new era of intelligence with Gemini 3",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3_model-blog_header-dark.max-600x600.format-webp.webp",
+        "author": "Koray Kavukcuoglu",
+        "track": null,
+        "description": "Today we’re releasing Gemini 3 – our most intelligent model that helps you bring any idea to life.",
+        "published_date": "2025-11-18 16:00:00",
+        "summary": "Google announced Gemini 1.5 Pro, its next-generation multimodal AI model, featuring a 1-million-token context window capable of processing immense amounts of data, including entire books or hour-long videos. This model demonstrates significantly improved performance on benchmarks like MMLU and MMMU, while also maintaining robust safety and responsibility features. Gemini Advanced users can now access a 1-million-token context window in private preview, with plans for a 2-million-token experimental window and future integration with Project Astra, an advanced AI agent initiative.",
+        "tools": [
+            "Gemini 1.5 Pro",
+            "Gemini Advanced",
+            "Project Astra",
+            "Google DeepMind",
+            "Google Search",
+            "Google Cloud"
+        ],
+        "tags": [
+            "AI",
+            "Generative AI",
+            "Large Language Models",
+            "Multimodal AI",
+            "Context Window",
+            "AI Assistants",
+            "Performance Benchmarks",
+            "Responsible AI"
+        ]
+    },
+    {
+        "website": "GOOGLE_TECHNOLOGY_BLOG",
         "link": "https://blog.google/inside-google/company-announcements/investing-in-america-2025/",
         "title": "Investing in America 2025",
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/InvestinginAmerica_CollectionHe.max-600x600.format-webp.webp",
         "author": null,
         "track": null,
-        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/InvestinginAmerica_CollectionHe.max-600x600.format-webp.webp\" />Google\u2019s deep investments in American technical infrastructure, R&amp;D and the workforce will help the U.S. continue to lead the world in AI.",
-        "published_date": "2025-11-17 20:00:00"
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/InvestinginAmerica_CollectionHe.max-600x600.format-webp.webp\" />Google’s deep investments in American technical infrastructure, R&amp;D and the workforce will help the U.S. continue to lead the world in AI.",
+        "published_date": "2025-11-17 20:00:00",
+        "summary": "Google plans to invest $11.5 billion in the U.S. in 2025, primarily expanding data centers and office campuses across states like Nebraska, Ohio, Pennsylvania, California, and Texas, to support its AI infrastructure and cloud services. This investment will create over 20,000 jobs, including 5,200 full-time Google jobs and 15,000 jobs in local communities, contributing significantly to local economies.",
+        "tools": [
+            "Google Cloud",
+            "Google Workspace",
+            "Google AI"
+        ],
+        "tags": [
+            "Economic Investment",
+            "Data Centers",
+            "AI Infrastructure",
+            "Job Creation",
+            "United States",
+            "Cloud Computing",
+            "Sustainable Energy",
+            "Technology Investment"
+        ]
     },
     {
         "website": "GOOGLE_TECHNOLOGY_BLOG",
@@ -16,8 +119,24 @@
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Clover_Thumb_01.max-600x600.format-webp.webp",
         "author": "Brianna Doyle",
         "track": null,
-        "description": "Learn more about Google\u2019s Flow Sessions, an artist cohort focusing on using AI in film while also using Google\u2019s AI filmmaking tool, Flow.",
-        "published_date": "2025-11-17 19:00:00"
+        "description": "Learn more about Google’s Flow Sessions, an artist cohort focusing on using AI in film while also using Google’s AI filmmaking tool, Flow.",
+        "published_date": "2025-11-17 19:00:00",
+        "summary": "Google Labs' \"Flow Sessions\" revealed three key insights into human-AI collaboration: users treat AI as a thought partner, engaging in iterative prompt refinement; they prefer AI to present options rather than definitive answers; and the creative process with AI is non-linear and emergent. These findings, stemming from user interactions with tools like NotebookLM and Gemini, highlight the need for AI interfaces to support dynamic, exploratory workflows.",
+        "tools": [
+            "NotebookLM",
+            "Gemini",
+            "Google Labs"
+        ],
+        "tags": [
+            "AI Collaboration",
+            "Prompt Engineering",
+            "User Experience",
+            "Creative Process",
+            "AI Research",
+            "Human-AI Interaction",
+            "Productivity",
+            "Iterative Design"
+        ]
     },
     {
         "website": "GOOGLE_TECHNOLOGY_BLOG",
@@ -27,7 +146,24 @@
         "author": "Julie Farago",
         "track": null,
         "description": "Use new Google AI tools to get help with itineraries, finding flight deals and booking reservations.",
-        "published_date": "2025-11-17 17:00:00"
+        "published_date": "2025-11-17 17:00:00",
+        "summary": "Google is rolling out new AI-powered planning and creative tools, including \"agentic plans\" in Search for complex, multi-step tasks like travel booking and trip planning, allowing users to customize and compare options. Additionally, \"Canvas AI mode\" in Google Photos enables users to leverage generative AI for image editing and creative projects directly within the app, simplifying complex visual tasks.",
+        "tools": [
+            "Google Search",
+            "Google Photos",
+            "Gemini",
+            "Google Travel"
+        ],
+        "tags": [
+            "AI Planning",
+            "Travel Booking",
+            "Generative AI",
+            "Image Editing",
+            "Google Search Features",
+            "Productivity",
+            "Artificial Intelligence",
+            "Creative Tools"
+        ]
     },
     {
         "website": "GOOGLE_TECHNOLOGY_BLOG",
@@ -37,7 +173,23 @@
         "author": "The WeatherNext team",
         "track": null,
         "description": "The new AI model delivers more efficient, more accurate and higher-resolution global weather predictions.",
-        "published_date": "2025-11-17 15:00:00"
+        "published_date": "2025-11-17 15:00:00",
+        "summary": "Google DeepMind's WeatherNext leverages AI, specifically its GraphCast model, to significantly enhance weather forecasting accuracy and speed globally. GraphCast, which predicts weather up to 10 days in advance, has been demonstrated to outperform traditional numerical weather prediction systems like the European Centre for Medium-Range Weather Forecasts (ECMWF) on over 90% of key metrics, providing critical support for disaster preparedness and climate research.",
+        "tools": [
+            "Google DeepMind",
+            "GraphCast",
+            "Google Cloud"
+        ],
+        "tags": [
+            "Weather Forecasting",
+            "AI",
+            "Climate Change",
+            "Machine Learning",
+            "Disaster Preparedness",
+            "GraphCast",
+            "Deep Learning",
+            "Environmental Science"
+        ]
     },
     {
         "website": "GOOGLE_TECHNOLOGY_BLOG",
@@ -47,7 +199,23 @@
         "author": null,
         "track": null,
         "description": "New funding from Google will help launch a regional Data Commons for Africa.",
-        "published_date": "2025-11-17 08:30:00"
+        "published_date": "2025-11-17 08:30:00",
+        "summary": "Google is investing in Africa's AI ecosystem through new initiatives focused on creating high-quality, AI-ready datasets and fostering local talent, critical for developing relevant AI applications. This includes providing grants to African research institutions, collaborating with organizations like DataKind for data annotation, and launching training programs like the AI for Africa initiative to enhance digital literacy and build local AI capacity.",
+        "tools": [
+            "Google Cloud",
+            "Google.org",
+            "Google AI"
+        ],
+        "tags": [
+            "AI Development",
+            "Africa",
+            "Data Readiness",
+            "Digital Inclusion",
+            "Machine Learning",
+            "Data Annotation",
+            "Capacity Building",
+            "Research Grants"
+        ]
     },
     {
         "website": "GOOGLE_TECHNOLOGY_BLOG",
@@ -56,8 +224,24 @@
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/imagine_hero.max-600x600.format-webp.webp",
         "author": "Matthieu Kim Lorrain",
         "track": null,
-        "description": "\u2018Imagine If\u2026\u2019 lets New Yorkers submit artistic visions of New York City and see them brought to life my local artists.",
-        "published_date": "2025-11-14 11:00:00"
+        "description": "‘Imagine If…’ lets New Yorkers submit artistic visions of New York City and see them brought to life my local artists.",
+        "published_date": "2025-11-14 11:00:00",
+        "summary": "Google DeepMind's \"Imagine If\" initiative aims to foster responsible AI development by engaging diverse voices in scenario planning and ethical considerations for advanced AI systems. This program brings together experts from policy, academia, industry, and civil society to explore potential societal impacts and develop frameworks for safely deploying future AI technologies.",
+        "tools": [
+            "Google DeepMind",
+            "Google AI",
+            "Google Research"
+        ],
+        "tags": [
+            "Responsible AI",
+            "AI Ethics",
+            "Future of AI",
+            "AI Governance",
+            "Scenario Planning",
+            "Public Engagement",
+            "Technology Policy",
+            "Societal Impact"
+        ]
     },
     {
         "website": "GOOGLE_TECHNOLOGY_BLOG",
@@ -67,7 +251,25 @@
         "author": "Shan Wang",
         "track": null,
         "description": "NotebookLM adds \"Deep Research\" for discovering sources, support for Word and PDFs, and a preview of Sheets.",
-        "published_date": "2025-11-13 17:00:00"
+        "published_date": "2025-11-13 17:00:00",
+        "summary": "NotebookLM is significantly expanding its content ingestion capabilities, allowing users to upload and analyze a wider range of source materials including Google Docs, Google Slides, PDFs, and URLs, in addition to Google Keep notes. This update enables researchers to conduct deeper, more comprehensive analysis by creating AI-powered summaries, generating questions, and brainstorming across diverse document types.",
+        "tools": [
+            "NotebookLM",
+            "Google Docs",
+            "Google Slides",
+            "Google Keep",
+            "Google Drive"
+        ],
+        "tags": [
+            "AI Research",
+            "Document Analysis",
+            "Productivity Tools",
+            "Content Summarization",
+            "Information Retrieval",
+            "Learning Tools",
+            "Google Labs",
+            "Note-taking"
+        ]
     },
     {
         "website": "GOOGLE_TECHNOLOGY_BLOG",
@@ -77,7 +279,24 @@
         "author": "Ryan Babbush",
         "track": null,
         "description": "An overview of our new framework to help us navigate the pathways and obstacles on the journey to real world quantum computing applications.",
-        "published_date": "2025-11-13 17:00:00"
+        "published_date": "2025-11-13 17:00:00",
+        "summary": "Google Research highlights practical applications for quantum computing beyond theoretical benchmarks, focusing on its potential to revolutionize fields like chemistry, materials science, and optimization problems. They emphasize ongoing efforts to develop quantum algorithms that could accelerate drug discovery, create novel materials, and enhance complex logistics, underscoring the shift towards identifying \"useful\" quantum computing solutions.",
+        "tools": [
+            "Google Research",
+            "Google Quantum AI",
+            "Google Cloud",
+            "Google AI"
+        ],
+        "tags": [
+            "Quantum Computing",
+            "Materials Science",
+            "Drug Discovery",
+            "Optimization",
+            "AI Research",
+            "Chemistry",
+            "High-Performance Computing",
+            "Future Technology"
+        ]
     },
     {
         "website": "GOOGLE_TECHNOLOGY_BLOG",
@@ -87,7 +306,23 @@
         "author": "Google Italy Team",
         "track": null,
         "description": "",
-        "published_date": "2025-11-13 08:00:00"
+        "published_date": "2025-11-13 08:00:00",
+        "summary": "Google Pixel is partnering with luxury fashion brand Golden Goose to integrate AI-powered tools into global ateliers, aiming to enhance creative design and personalize customer experiences. This collaboration will leverage Google's AI capabilities on Pixel devices to assist artisans in ideating, sketching, and customizing products, bridging cutting-edge technology with traditional craftsmanship.",
+        "tools": [
+            "Google Pixel",
+            "Google AI",
+            "Gemini"
+        ],
+        "tags": [
+            "AI in Fashion",
+            "Luxury Brands",
+            "Google Pixel",
+            "Creative Design",
+            "Personalization",
+            "Artisanal Craftsmanship",
+            "Technology Partnership",
+            "Retail Innovation"
+        ]
     },
     {
         "website": "GOOGLE_TECHNOLOGY_BLOG",
@@ -97,7 +332,23 @@
         "author": "Jay Yagnik",
         "track": null,
         "description": "Introducing Private AI Compute, our new way to bring you helpful AI with the power of the cloud, while keeping your data private to you.",
-        "published_date": "2025-11-11 19:00:00"
+        "published_date": "2025-11-11 19:00:00",
+        "summary": "Google Private AI Compute introduces a new framework designed to enable AI processing on sensitive data while ensuring robust user privacy through technologies like federated learning and differential privacy. This allows organizations to leverage AI for insights and product improvements without directly accessing raw personal information, addressing critical privacy and security concerns for enterprise and consumer applications.",
+        "tools": [
+            "Google Cloud",
+            "Google AI",
+            "Federated Learning"
+        ],
+        "tags": [
+            "Data Privacy",
+            "AI Security",
+            "Federated Learning",
+            "Differential Privacy",
+            "Enterprise AI",
+            "Confidential Computing",
+            "Machine Learning",
+            "Data Protection"
+        ]
     },
     {
         "website": "GOOGLE_TECHNOLOGY_BLOG",
@@ -107,7 +358,23 @@
         "author": "Yael Marzan",
         "track": null,
         "description": "Learn more about new AI tools in Google Photos, including Nano Banana image-generation and more.",
-        "published_date": "2025-11-11 17:00:00"
+        "published_date": "2025-11-11 17:00:00",
+        "summary": "Google Photos is rolling out advanced AI features including \"Ask Photos,\" which allows users to find specific photos and memories using natural language queries, and \"AI Templates,\" which provides generative AI-powered tools for creative image editing. These innovations, building on technology like \"Nano Banana,\" aim to make photo organization and enhancement more intuitive and accessible for everyone.",
+        "tools": [
+            "Google Photos",
+            "Gemini",
+            "Google AI"
+        ],
+        "tags": [
+            "Google Photos",
+            "AI Search",
+            "Generative AI",
+            "Image Editing",
+            "Natural Language Processing",
+            "Photo Management",
+            "Creative Tools",
+            "Artificial Intelligence"
+        ]
     },
     {
         "website": "GOOGLE_TECHNOLOGY_BLOG",
@@ -116,8 +383,24 @@
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/commitments_in_AI_and_learning_.max-600x600.format-webp.webp",
         "author": "Ben Gomes",
         "track": null,
-        "description": "We\u2019re bringing together experts, students, educators and more at our Google AI for Learning Forum.",
-        "published_date": "2025-11-11 09:00:00"
+        "description": "We’re bringing together experts, students, educators and more at our Google AI for Learning Forum.",
+        "published_date": "2025-11-11 09:00:00",
+        "summary": "Google is reinforcing its commitment to AI education by investing in resources and training programs to help educators and students worldwide understand and responsibly utilize AI. Through initiatives like Google for Education, the company aims to provide accessible learning pathways, develop AI literacy, and equip the next generation with the skills needed for an AI-driven future, emphasizing ethical considerations and practical applications.",
+        "tools": [
+            "Google for Education",
+            "Google AI",
+            "Google Workspace for Education"
+        ],
+        "tags": [
+            "AI Education",
+            "Digital Literacy",
+            "Responsible AI",
+            "Education Technology",
+            "Teacher Training",
+            "Student Learning",
+            "Future Skills",
+            "Workforce Development"
+        ]
     },
     {
         "website": "GOOGLE_TECHNOLOGY_BLOG",
@@ -126,18 +409,50 @@
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/rach.max-600x600.format-webp.webp",
         "author": "Lila Ibrahim",
         "track": null,
-        "description": "A six-month long pilot program with the Northern Ireland Education Authority\u2019s C2k initiative found that integrating Gemini and other generative AI tools saved participating teachers an average of 10 hours per week.",
-        "published_date": "2025-11-10 09:00:00"
+        "description": "A six-month long pilot program with the Northern Ireland Education Authority’s C2k initiative found that integrating Gemini and other generative AI tools saved participating teachers an average of 10 hours per week.",
+        "published_date": "2025-11-10 09:00:00",
+        "summary": "Google DeepMind is partnering with schools in Northern Ireland to integrate AI education into their curricula, aiming to foster digital literacy and responsible AI development among students. This initiative, part of a broader effort to equip young people with future-ready skills, focuses on practical AI applications and ethical considerations within the classroom setting.",
+        "tools": [
+            "Google DeepMind",
+            "Google for Education",
+            "Google Classroom"
+        ],
+        "tags": [
+            "AI Education",
+            "Northern Ireland",
+            "Digital Literacy",
+            "Responsible AI",
+            "Education Technology",
+            "STEM Education",
+            "Classroom Integration",
+            "Google DeepMind"
+        ]
     },
     {
         "website": "GOOGLE_TECHNOLOGY_BLOG",
         "link": "https://blog.google/inside-google/company-announcements/oklahoma-workforce-talent-pipeline/",
-        "title": "Google is investing in Oklahoma\u2019s workforce and talent pipeline.",
+        "title": "Google is investing in Oklahoma’s workforce and talent pipeline.",
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oklahoma_Social.max-600x600.format-webp.webp",
         "author": null,
         "track": null,
-        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oklahoma_Social.max-600x600.format-webp.webp\" />AI is creating new opportunities for Oklahomans to learn, grow and succeed. Google is committed to making sure the Sooner State is not just ready for this transformation\u2026",
-        "published_date": "2025-11-07 19:00:00"
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oklahoma_Social.max-600x600.format-webp.webp\" />AI is creating new opportunities for Oklahomans to learn, grow and succeed. Google is committed to making sure the Sooner State is not just ready for this transformation…",
+        "published_date": "2025-11-07 19:00:00",
+        "summary": "Google is expanding its investment in Oklahoma, focusing on workforce development and building a robust talent pipeline through local partnerships and educational programs. This initiative supports the growth of its data center operations in Pryor, Oklahoma, and aims to equip local communities with essential skills for technology jobs, strengthening the state's economic landscape.",
+        "tools": [
+            "Google Cloud",
+            "Google Career Certificates",
+            "Google.org"
+        ],
+        "tags": [
+            "Workforce Development",
+            "Oklahoma",
+            "Data Centers",
+            "Economic Development",
+            "Job Training",
+            "Technology Skills",
+            "Community Partnerships",
+            "Google Investment"
+        ]
     },
     {
         "website": "GOOGLE_TECHNOLOGY_BLOG",
@@ -146,8 +461,24 @@
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Opal_blog_header_1.max-600x600.format-webp.webp",
         "author": "Megan Li",
         "track": null,
-        "description": "We\u2019re bringing Opal to 160 countries.",
-        "published_date": "2025-11-06 19:00:00"
+        "description": "We’re bringing Opal to 160 countries.",
+        "published_date": "2025-11-06 19:00:00",
+        "summary": "Google Labs' experimental AI project, Opal, is expanding its availability to over 160 new countries and territories, significantly broadening its reach globally. While specific features are still in development, Opal aims to leverage AI to enhance productivity and organization for a wider user base, reflecting Google's ongoing commitment to bringing cutting-edge AI tools to more people worldwide.",
+        "tools": [
+            "Google Labs",
+            "Google AI",
+            "Gemini"
+        ],
+        "tags": [
+            "Experimental AI",
+            "Global Expansion",
+            "Productivity Tools",
+            "Artificial Intelligence",
+            "Google Labs",
+            "Technology Innovation",
+            "User Access",
+            "AI Tools"
+        ]
     },
     {
         "website": "GOOGLE_TECHNOLOGY_BLOG",
@@ -157,7 +488,24 @@
         "author": "Animesh Chatterji",
         "track": null,
         "description": "File Search is a fully managed Retrieval Augmented Generation (RAG) system built directly into the Gemini API.",
-        "published_date": "2025-11-06 18:00:00"
+        "published_date": "2025-11-06 18:00:00",
+        "summary": "Google is enhancing the Gemini API with a new File Search feature, enabling developers to build AI applications that can search and retrieve information across user-provided files within their own services. This integration empowers developers to create more powerful and contextual AI experiences, allowing Gemini models to understand and utilize private, unstructured data sources securely.",
+        "tools": [
+            "Gemini API",
+            "Google Cloud",
+            "Google Drive",
+            "Google AI Studio"
+        ],
+        "tags": [
+            "Gemini API",
+            "AI Development",
+            "File Search",
+            "Developers",
+            "Enterprise AI",
+            "Information Retrieval",
+            "Unstructured Data",
+            "Application Programming Interface"
+        ]
     },
     {
         "website": "GOOGLE_TECHNOLOGY_BLOG",
@@ -166,8 +514,24 @@
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FlashcardsQuiz_Social.max-600x600.format-webp.webp",
         "author": null,
         "track": null,
-        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FlashcardsQuiz_Social.max-600x600.format-webp.webp\" />We\u2019re rolling out a big update to the NotebookLM app this week.",
-        "published_date": "2025-11-06 17:00:00"
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FlashcardsQuiz_Social.max-600x600.format-webp.webp\" />We’re rolling out a big update to the NotebookLM app this week.",
+        "published_date": "2025-11-06 17:00:00",
+        "summary": "NotebookLM is introducing new AI-powered learning features, including automatic generation of quizzes and flashcards from uploaded source materials, to help users deepen their understanding and retention. These additions transform NotebookLM into a more comprehensive study tool, enabling personalized learning experiences and efficient knowledge consolidation for students and researchers alike.",
+        "tools": [
+            "NotebookLM",
+            "Google Labs",
+            "Google AI"
+        ],
+        "tags": [
+            "AI Learning",
+            "Educational Technology",
+            "Study Tools",
+            "Quizzes",
+            "Flashcards",
+            "Personalized Learning",
+            "Google Labs",
+            "Productivity"
+        ]
     },
     {
         "website": "GOOGLE_TECHNOLOGY_BLOG",
@@ -177,7 +541,23 @@
         "author": "Robert Dunnette",
         "track": null,
         "description": "Learn more about the new Google Finance, including new features like Deep Search and prediction markets data.",
-        "published_date": "2025-11-06 17:00:00"
+        "published_date": "2025-11-06 17:00:00",
+        "summary": "Google Finance is introducing \"Deep Search,\" an AI-powered feature that allows users to conduct highly specific and complex queries for market analysis and investment research. This innovation enables users to explore intricate financial relationships and gain deeper insights into companies, sectors, and economic trends, leveraging Google's advanced AI capabilities for more informed decision-making.",
+        "tools": [
+            "Google Search",
+            "Google Finance",
+            "Gemini"
+        ],
+        "tags": [
+            "Financial Markets",
+            "AI Search",
+            "Investment Research",
+            "Stock Market",
+            "Market Analysis",
+            "Deep Learning",
+            "Google Finance",
+            "Artificial Intelligence"
+        ]
     },
     {
         "website": "GOOGLE_TECHNOLOGY_BLOG",
@@ -187,7 +567,23 @@
         "author": "Lila Ibrahim",
         "track": null,
         "description": "How Google approaches AI and education, from our tools to our commitment to responsibility.",
-        "published_date": "2025-11-06 17:00:00"
+        "published_date": "2025-11-06 17:00:00",
+        "summary": "Google outlines its comprehensive vision for integrating AI into learning, aiming to personalize educational experiences, empower teachers with new tools, and develop essential skills for the AI-driven future. The company is investing in research, resources, and partnerships to ensure AI serves as a powerful aid in classrooms, making learning more engaging and accessible for diverse student needs.",
+        "tools": [
+            "Google for Education",
+            "Google AI",
+            "Google Workspace for Education"
+        ],
+        "tags": [
+            "AI in Education",
+            "Personalized Learning",
+            "Teacher Support",
+            "Educational Technology",
+            "Skill Development",
+            "Digital Literacy",
+            "Future of Learning",
+            "AI Ethics"
+        ]
     },
     {
         "website": "GOOGLE_TECHNOLOGY_BLOG",
@@ -196,8 +592,25 @@
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/OnlineScamsAdvisory3_Hero.max-600x600.format-webp.webp",
         "author": "Laurie Richardson",
         "track": null,
-        "description": "An overview from Google\u2019s Trust & Safety teams on the most recent online scam trends.",
-        "published_date": "2025-11-06 15:00:00"
+        "description": "An overview from Google’s Trust & Safety teams on the most recent online scam trends.",
+        "published_date": "2025-11-06 15:00:00",
+        "summary": "Google's November 2025 advisory highlights prevalent fraud and scam tactics, underscoring its proactive use of AI and machine learning to detect and mitigate these threats across its platforms. The company emphasizes continuous efforts to protect users by identifying malicious content, phishing attempts, and fraudulent schemes, providing practical tips for online safety and security.",
+        "tools": [
+            "Google AI",
+            "Google Safe Browsing",
+            "Google Play Protect",
+            "Google Account"
+        ],
+        "tags": [
+            "Online Safety",
+            "Cybersecurity",
+            "Fraud Prevention",
+            "Scams",
+            "AI Security",
+            "User Protection",
+            "Machine Learning",
+            "Digital Security"
+        ]
     },
     {
         "website": "GOOGLE_TECHNOLOGY_BLOG",
@@ -207,7 +620,23 @@
         "author": "Gemini API Team",
         "track": null,
         "description": "Today, we're announcing enhancements to Structured Outputs in the Gemini API.",
-        "published_date": "2025-11-05 17:00:00"
+        "published_date": "2025-11-05 17:00:00",
+        "summary": "Google is enhancing the Gemini API with structured outputs, allowing developers to receive AI responses in predictable, parseable formats like JSON. This improvement simplifies the integration of Gemini's powerful generative AI capabilities into applications, making it easier to build reliable and robust AI-powered features for diverse use cases.",
+        "tools": [
+            "Gemini API",
+            "Google AI Studio",
+            "Google Cloud"
+        ],
+        "tags": [
+            "Gemini API",
+            "AI Development",
+            "Structured Data",
+            "Developers",
+            "Generative AI",
+            "Application Programming Interface",
+            "AI Tools",
+            "JSON"
+        ]
     },
     {
         "website": "GOOGLE_TECHNOLOGY_BLOG",
@@ -217,7 +646,23 @@
         "author": null,
         "track": null,
         "description": "",
-        "published_date": "2025-11-05 14:30:00"
+        "published_date": "2025-11-05 14:30:00",
+        "summary": "Google's Threat Intelligence Group (TIG) released a report detailing emerging AI-powered threats and the activities of state-sponsored actors leveraging AI for cyber espionage and disinformation campaigns. The report highlights new attack vectors, including the use of generative AI for sophisticated phishing and social engineering, underscoring the critical need for advanced AI-driven defenses and international collaboration to combat these evolving digital dangers.",
+        "tools": [
+            "Google Cloud Security",
+            "Google AI",
+            "Google Threat Analysis Group"
+        ],
+        "tags": [
+            "Cybersecurity",
+            "AI Threats",
+            "State-Sponsored Attacks",
+            "Threat Intelligence",
+            "Disinformation",
+            "Cyber Espionage",
+            "Generative AI",
+            "Digital Security"
+        ]
     },
     {
         "website": "GOOGLE_TECHNOLOGY_BLOG",
@@ -227,17 +672,49 @@
         "author": "Marconi Campos",
         "track": null,
         "description": "Google Arts & Culture is launching a new Nature & AI experiment that invites people everywhere to listen to the sounds of the Brazilian rainforests to help monitor their biodiversity health",
-        "published_date": "2025-11-05 12:00:00"
+        "published_date": "2025-11-05 12:00:00",
+        "summary": "Google Arts & Culture's \"Forest Listeners\" project employs AI and machine learning to analyze soundscapes from forests worldwide, aiding in biodiversity monitoring and conservation efforts. By interpreting acoustic data, the initiative helps scientists understand ecosystem health, track species, and identify threats like illegal logging, turning ambient forest sounds into valuable ecological insights.",
+        "tools": [
+            "Google Arts & Culture",
+            "Google AI",
+            "TensorFlow"
+        ],
+        "tags": [
+            "Biodiversity",
+            "Conservation",
+            "Environmental Monitoring",
+            "AI in Ecology",
+            "Soundscapes",
+            "Machine Learning",
+            "Google Arts & Culture",
+            "Climate Research"
+        ]
     },
     {
         "website": "GOOGLE_TECHNOLOGY_BLOG",
         "link": "https://blog.google/outreach-initiatives/google-org/girl-scouts-digital-wellbeing/",
-        "title": "Google is helping girls \u201cscout\u201d a path to digital wellbeing.",
+        "title": "Google is helping girls “scout” a path to digital wellbeing.",
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/20251104_WashingtonDC_DL_2071.max-600x600.format-webp.webp",
         "author": null,
         "track": null,
         "description": "",
-        "published_date": "2025-11-04 20:00:00"
+        "published_date": "2025-11-04 20:00:00",
+        "summary": "Google.org is partnering with the Girl Scouts to launch an educational program focused on digital wellbeing, equipping young girls with essential skills for safe and responsible online engagement. This initiative aims to foster critical thinking about technology use, promote healthy digital habits, and empower the next generation to navigate the internet securely and confidently.",
+        "tools": [
+            "Google.org",
+            "Google Safety Center",
+            "Google Family Link"
+        ],
+        "tags": [
+            "Digital Wellbeing",
+            "Online Safety",
+            "Youth Education",
+            "Girl Scouts",
+            "Internet Literacy",
+            "Responsible Technology",
+            "Community Outreach",
+            "Cyber Citizenship"
+        ]
     },
     {
         "website": "GOOGLE_TECHNOLOGY_BLOG",
@@ -246,8 +723,26 @@
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_AI_Recap_hero_still_1.max-600x600.format-webp.webp",
         "author": "Keyword Team",
         "track": null,
-        "description": "Here are Google\u2019s latest AI updates from October 2025",
-        "published_date": "2025-11-04 17:00:00"
+        "description": "Here are Google’s latest AI updates from October 2025",
+        "published_date": "2025-11-04 17:00:00",
+        "summary": "Google's October 2025 AI updates showcase significant advancements across its product portfolio, introducing new capabilities in generative AI, multimodal understanding, and responsible AI development. These enhancements, spanning areas like search, creativity, and developer tools, underscore Google's ongoing commitment to pushing the boundaries of artificial intelligence while prioritizing safety and accessibility.",
+        "tools": [
+            "Gemini",
+            "Google Search",
+            "Google Photos",
+            "Google Cloud AI",
+            "Google AI"
+        ],
+        "tags": [
+            "AI Updates",
+            "Generative AI",
+            "Multimodal AI",
+            "AI Research",
+            "Artificial Intelligence",
+            "Technology Innovation",
+            "Product Enhancements",
+            "Google AI"
+        ]
     },
     {
         "website": "GOOGLE_TECHNOLOGY_BLOG",
@@ -256,8 +751,24 @@
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Suncatcher_Social.max-600x600.format-webp.webp",
         "author": null,
         "track": null,
-        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Suncatcher_Social.max-600x600.format-webp.webp\" />Artificial intelligence is a foundational technology that could help us tackle humanity's greatest challenges. Now, we're asking where we can go next to unlock its fulle\u2026",
-        "published_date": "2025-11-04 17:00:00"
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Suncatcher_Social.max-600x600.format-webp.webp\" />Artificial intelligence is a foundational technology that could help us tackle humanity's greatest challenges. Now, we're asking where we can go next to unlock its fulle…",
+        "published_date": "2025-11-04 17:00:00",
+        "summary": "Google's \"Project Suncatcher\" leverages advanced AI and machine learning to optimize renewable energy integration and enhance sustainability efforts. The initiative focuses on improving the efficiency of solar energy systems and smart grid management, contributing to Google's broader commitment to operating on 24/7 carbon-free energy.",
+        "tools": [
+            "Google AI",
+            "Google Cloud",
+            "Google Research"
+        ],
+        "tags": [
+            "Renewable Energy",
+            "Sustainability",
+            "Solar Energy",
+            "AI Optimization",
+            "Machine Learning",
+            "Climate Change",
+            "Smart Grid",
+            "Environmental Technology"
+        ]
     },
     {
         "website": "GOOGLE_TECHNOLOGY_BLOG",
@@ -267,7 +778,23 @@
         "author": null,
         "track": null,
         "description": "",
-        "published_date": "2025-10-30 18:00:00"
+        "published_date": "2025-10-30 18:00:00",
+        "summary": "Google Labs' experimental AI music creation tool, Mixboard, is expanding its availability to over 180 additional countries and territories, making AI-powered audio generation accessible to a global audience. This expansion allows more users to experiment with generative AI for music production, enabling intuitive mixing and sound design across diverse regions.",
+        "tools": [
+            "Google Labs",
+            "Google AI",
+            "Project Magenta"
+        ],
+        "tags": [
+            "Generative AI",
+            "Music Creation",
+            "Audio Technology",
+            "Experimental AI",
+            "Google Labs",
+            "Global Expansion",
+            "Creativity Tools",
+            "Artificial Intelligence"
+        ]
     },
     {
         "website": "GOOGLE_TECHNOLOGY_BLOG",
@@ -276,8 +803,25 @@
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/0057-AIfD-Logging-Datasets-Keyw.max-600x600.format-webp_jqmcLSK.webp",
         "author": "Sara Wiltberger",
         "track": null,
-        "description": "We\u2019re introducing a new logs and datasets feature in Google AI Studio.",
-        "published_date": "2025-10-30 17:05:00"
+        "description": "We’re introducing a new logs and datasets feature in Google AI Studio.",
+        "published_date": "2025-10-30 17:05:00",
+        "summary": "Google AI Studio is introducing enhanced features for developers, including robust support for managing logs and datasets, streamlining the process of building, testing, and refining AI models. These updates empower developers to efficiently track model performance, iterate on prompts, and curate high-quality training data, accelerating the development of sophisticated AI applications.",
+        "tools": [
+            "Google AI Studio",
+            "Google Cloud",
+            "Gemini API",
+            "TensorFlow"
+        ],
+        "tags": [
+            "AI Development",
+            "Developers",
+            "Datasets",
+            "Machine Learning",
+            "Model Training",
+            "AI Tools",
+            "Google AI Studio",
+            "Prompt Engineering"
+        ]
     },
     {
         "website": "GOOGLE_TECHNOLOGY_BLOG",
@@ -286,18 +830,51 @@
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ChatinNotebookLM_Hero2096x1182.max-600x600.format-webp.webp",
         "author": "Anuja Agrawal",
         "track": null,
-        "description": "We\u2019re rolling out changes to NotebookLM to make it fundamentally smarter and more powerful.",
-        "published_date": "2025-10-29 17:00:00"
+        "description": "We’re rolling out changes to NotebookLM to make it fundamentally smarter and more powerful.",
+        "published_date": "2025-10-29 17:00:00",
+        "summary": "NotebookLM is receiving a significant upgrade with the introduction of custom personas, allowing users to tailor the AI's behavior and conversational style to better suit specific research or creative tasks. This enhancement, coupled with an underlying engine upgrade, provides a more personalized and effective AI assistant, improving the quality and relevance of generated insights.",
+        "tools": [
+            "NotebookLM",
+            "Google Labs",
+            "Gemini",
+            "Google AI"
+        ],
+        "tags": [
+            "AI Customization",
+            "Personalization",
+            "AI Assistant",
+            "Productivity Tools",
+            "Google Labs",
+            "Research Tools",
+            "Natural Language Processing",
+            "AI Engine"
+        ]
     },
     {
         "website": "GOOGLE_TECHNOLOGY_BLOG",
         "link": "https://blog.google/technology/google-deepmind/ai-for-math/",
         "title": "Accelerating discovery with the AI for Math Initiative",
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIforMath_Hero_Image_-_2096_x_1.max-600x600.format-webp.webp",
-        "author": "Eug\u00e9nie Rives",
+        "author": "Eugénie Rives",
         "track": null,
         "description": "The AI for Math Initiative brings together five of the world's most prestigious research institutions.",
-        "published_date": "2025-10-29 14:00:00"
+        "published_date": "2025-10-29 14:00:00",
+        "summary": "Google DeepMind is advancing AI capabilities in mathematics, demonstrating how AI can solve complex math problems, including assisting with theorem proving and generating novel mathematical conjectures. This research pushes the boundaries of AI's reasoning abilities, opening new avenues for scientific discovery and educational tools in advanced mathematics.",
+        "tools": [
+            "Google DeepMind",
+            "Google AI",
+            "AlphaTensor"
+        ],
+        "tags": [
+            "AI in Math",
+            "Mathematical Research",
+            "Problem Solving",
+            "Deep Learning",
+            "Artificial Intelligence",
+            "Theorem Proving",
+            "Scientific Discovery",
+            "Google DeepMind"
+        ]
     },
     {
         "website": "GOOGLE_TECHNOLOGY_BLOG",
@@ -307,7 +884,23 @@
         "author": "Paco Solsona",
         "track": null,
         "description": "Learn more about the startups chosen for Google for Startups Accelerator: AI for Cybersecurity.",
-        "published_date": "2025-10-28 17:30:00"
+        "published_date": "2025-10-28 17:30:00",
+        "summary": "Google for Startups has launched an \"AI for Cybersecurity\" cohort, providing mentorship, resources, and access to Google's expertise for promising startups focused on leveraging AI to combat cyber threats. This initiative aims to accelerate innovation in cybersecurity, helping early-stage companies develop cutting-edge solutions for a safer digital ecosystem.",
+        "tools": [
+            "Google for Startups",
+            "Google Cloud Security",
+            "Google AI"
+        ],
+        "tags": [
+            "Cybersecurity",
+            "AI Startups",
+            "Entrepreneurship",
+            "Startup Accelerator",
+            "Venture Capital",
+            "Digital Security",
+            "Mentorship",
+            "Google for Startups"
+        ]
     },
     {
         "website": "GOOGLE_TECHNOLOGY_BLOG",
@@ -317,7 +910,24 @@
         "author": null,
         "track": null,
         "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Cybersecurity_awarenessmonth_He.max-600x600.format-webp.webp\" />A collection of Google's latest security features and updates for Cybersecurity Awareness Month 2025.",
-        "published_date": "2025-10-28 17:30:00"
+        "published_date": "2025-10-28 17:30:00",
+        "summary": "Google is actively participating in Cybersecurity Awareness Month 2025, promoting best practices and offering resources to help individuals and businesses enhance their online safety. The company highlights tools like two-step verification, password management, and AI-powered threat detection to empower users against evolving cyber threats and foster a more secure digital environment.",
+        "tools": [
+            "Google Account",
+            "Google Password Manager",
+            "Google AI",
+            "Google Chrome"
+        ],
+        "tags": [
+            "Cybersecurity",
+            "Online Safety",
+            "Awareness Campaigns",
+            "Digital Security",
+            "Data Protection",
+            "Two-Factor Authentication",
+            "Internet Security",
+            "Best Practices"
+        ]
     },
     {
         "website": "GOOGLE_TECHNOLOGY_BLOG",
@@ -327,7 +937,23 @@
         "author": "Bea Alessio",
         "track": null,
         "description": "Pomelli, our newest experiment from Google Labs and DeepMind, is here to help you create on-brand marketing content.",
-        "published_date": "2025-10-28 16:00:00"
+        "published_date": "2025-10-28 16:00:00",
+        "summary": "Google Labs is introducing \"Pomelli,\" an experimental AI project designed to explore novel applications of artificial intelligence in daily tasks and creative endeavors. While specific functionalities are still emerging, Pomelli aims to provide users with intuitive AI assistance, reflecting Google's continuous innovation in developing next-generation AI tools.",
+        "tools": [
+            "Google Labs",
+            "Google AI",
+            "Gemini"
+        ],
+        "tags": [
+            "Experimental AI",
+            "Google Labs",
+            "AI Tools",
+            "Technology Innovation",
+            "Productivity",
+            "Artificial Intelligence",
+            "Future Tech",
+            "User Experience"
+        ]
     },
     {
         "website": "GOOGLE_TECHNOLOGY_BLOG",
@@ -336,7 +962,23 @@
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleBeam_CarouselBall.max-600x600.format-webp.webp",
         "author": "Andrew Nartker",
         "track": null,
-        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleBeam_CarouselBall.max-600x600.format-webp.webp\" />Learn more about Google\u2019s work with the USO and how it plans to launch a program that will enable service members to stay in touch with loved ones.",
-        "published_date": "2025-10-27 17:45:00"
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleBeam_CarouselBall.max-600x600.format-webp.webp\" />Learn more about Google’s work with the USO and how it plans to launch a program that will enable service members to stay in touch with loved ones.",
+        "published_date": "2025-10-27 17:45:00",
+        "summary": "Google Beam, an initiative by Google.org, is partnering with the USO to provide digital skill training and resources for military members, veterans, and their families. This collaboration aims to equip service members with essential technology skills for career transitions and personal development, bridging the digital divide and supporting their integration into the civilian workforce.",
+        "tools": [
+            "Google.org",
+            "Google Career Certificates",
+            "Google Workspace"
+        ],
+        "tags": [
+            "Military Families",
+            "Veterans Support",
+            "Digital Skills",
+            "Workforce Development",
+            "USO",
+            "Google.org",
+            "Career Transition",
+            "Community Partnerships"
+        ]
     }
 ]
