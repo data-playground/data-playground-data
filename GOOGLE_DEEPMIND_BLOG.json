@@ -1,6 +1,36 @@
 [
     {
         "website": "GOOGLE_DEEPMIND_BLOG",
+        "link": "https://blog.google/technology/google-deepmind/the-thinking-game/",
+        "title": "Watch ‘The Thinking Game,’ a documentary about Google DeepMind, for free on YouTube.",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/The_Thinking_Game-Tribeca_with_.max-600x600.format-webp.webp",
+        "author": null,
+        "track": null,
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/The_Thinking_Game-Tribeca_with_.max-600x600.format-webp.webp\" />We’re bringing “The Thinking Game\" to the Google DeepMind YouTube channel.",
+        "published_date": "2025-11-25 16:00:00"
+    },
+    {
+        "website": "GOOGLE_DEEPMIND_BLOG",
+        "link": "https://blog.google/technology/ai/ai-image-verification-gemini-app/",
+        "title": "How we’re bringing AI image verification to the Gemini app",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Labs_SynthID_Keyword_Blog_Heade.max-600x600.format-webp.webp",
+        "author": "Laurie Richardson",
+        "track": null,
+        "description": "Our new Gemini app feature allows you to verify Google AI images and determine whether content was created or edited by AI.",
+        "published_date": "2025-11-20 15:00:00"
+    },
+    {
+        "website": "GOOGLE_DEEPMIND_BLOG",
+        "link": "https://blog.google/around-the-globe/google-asia/google-deepmind-is-opening-a-new-ai-research-lab-in-singapore-to-advance-ai-in-asia-pacific/",
+        "title": "Google DeepMind is opening a new AI research lab in Singapore to advance AI in Asia Pacific.",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Panellists_from_Google_DeepMind.max-600x600.format-webp.webp",
+        "author": null,
+        "track": null,
+        "description": "",
+        "published_date": "2025-11-19 02:30:00"
+    },
+    {
+        "website": "GOOGLE_DEEPMIND_BLOG",
         "link": "https://blog.google/products/gemini/gemini-3/",
         "title": "A new era of intelligence with Gemini 3",
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3_model-blog_header-dark.max-600x600.format-webp.webp",

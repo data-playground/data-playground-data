@@ -1,6 +1,156 @@
 [
     {
         "website": "YOUTUBE_GOOGLE_DEVELOPERS",
+        "link": "https://www.youtube.com/shorts/V8COJv2dG2g",
+        "title": "That \"quick question\" at 4:59 PM always hits different. 😅",
+        "thumbnail": "https://www.youtube.com/v/V8COJv2dG2g?version=3",
+        "author": "Google for Developers",
+        "track": null,
+        "description": "We know the question won’t be quick. \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Crystal Endless",
+        "published_date": "2025-11-27 00:00:40"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEVELOPERS",
+        "link": "https://www.youtube.com/watch?v=a7nJeXk6VxU",
+        "title": "Vibe coding and context engineering with ADK",
+        "thumbnail": "https://www.youtube.com/v/a7nJeXk6VxU?version=3",
+        "author": "Google for Developers",
+        "track": null,
+        "description": "Go from an empty folder to a fully deployed AI agent using only natural language. This video introduces \"vibe coding,\" a powerful technique to build applications from scratch using the Gemini CLI.\n\nFollow along with Sita and Amit as they demonstrate how to scaffold a new AI agent with the Agent Development Kit (ADK) in plain English. You'll then learn \"Context Engineering,\" the secret sauce for moving your agent from a prototype to production. See how to provide documentation, coding standards, and feature requirements to guide the AI in generating high-quality, maintainable code.\n\nFinally, watch as they deploy the entire agent to Google Cloud Run with a single command.\n\nStick around for the \"Eng Talk\" segment, where Amit and Sita answer top community questions:\n- Is RAG obsolete with million-token context windows?\n- How do you manage context overload?\n- What metrics should you use to track context retrieval?\n- What are the best tips for token optimization?\n\nChapters:\n0:00 - Introduction\n0:34 - Core Concepts\n3:39 - Setting up Gemini CLI in VS Code\n5:05 - Loading ADK Documentation for the Agent\n7:03 - Vibe coding an Expense Tracker from Scratch\n11:36 - Refactoring Code into Tools and Models\n16:10 - Debugging Python code with Gemini CLI\n25:15 - Why You Need Context Engineering\n26:36 - Creating Context Files: Gemini.md, PRD, & Summary\n32:02 - Building Advanced Features with Context Engineering\n35:52 - Preparing for Cloud Run Deployment (Docker & Server)\n37:44 - One-Command Deploy to Google Cloud Run\n39:30 - Recap\n40:48 - Community questions\n45:55 - Resources\n\nResources:\nLearn more about the Agent Development Kit → https://google.github.io/adk-docs/\nInstall the Gemini CLI → https://github.com/google-gemini/gemini-cli \nCode from this tutorial → https://github.com/amitkmaraj/expense-tracker-agent\nA2A Protocol official site → https://a2a-protocol.org/latest/\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nProducts mentioned: Google ADK, Gemini CLI, Google AI",
+        "published_date": "2025-11-26 17:00:00"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEVELOPERS",
+        "link": "https://www.youtube.com/watch?v=iFqDyWFuw1c",
+        "title": "Sundar Pichai: Gemini 3, Vibe Coding and Google's Full Stack Strategy",
+        "thumbnail": "https://www.youtube.com/v/iFqDyWFuw1c?version=3",
+        "author": "Google for Developers",
+        "track": null,
+        "description": "Logan Kilpatrick from Google DeepMind sits down with Sundar Pichai, CEO of Google and Alphabet to discuss the launch of Gemini 3, Nano Banana Pro and Google's overall AI momentum. They talk about Google’s long-term bets on infrastructure, what it’s actually like to ship SOTA models, and the rise of vibe coding. Sundar also shares his personal launch day rituals and thoughts on future moonshots like putting data centers in space.\n\nListen to this podcast: \nApple Podcasts → https://goo.gle/3Bm7QzQ \nSpotify → https://goo.gle/3ZL3ADl \n\nChapters:\n0:00 - Intro \n0:51 - Shipping Gemini 3\n2:44 - Google's decade-long investment in AI\n4:27 - The full stack advantage\n5:43 - Scaling up compute and capacity\n7:32 - Sim-shipping Gemini across products\n9:35 - Nano Banana Pro\n12:13 - Monitoring launch day\n14:13 - Future model roadmap\n16:05 - Launch day rituals\n18:02 - The Blue Micro Kitchen\n21:57 - Future moonshots\n23:26 - The rise of vibe coding\n26:50 - What’s next\n\nWatch more Release Notes → https://goo.gle/4njokfg \nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Logan Kilpatrick, Sundar Pichai \nProducts Mentioned:  Google AI, Gemini",
+        "published_date": "2025-11-25 23:00:42"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEVELOPERS",
+        "link": "https://www.youtube.com/shorts/YwYu1JWvn-8",
+        "title": "What is a reliable system? An SRE perspective",
+        "thumbnail": "https://www.youtube.com/v/YwYu1JWvn-8?version=3",
+        "author": "Google for Developers",
+        "track": null,
+        "description": "Reliable systems are a way to respect the user and deliver systems that degrade gracefully. A reliable system also anticipates failures and actively defends against them in any other systems it depends on.\n\nLearn more about SRE! → https://goo.gle/sre-resources \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Christine Rafla",
+        "published_date": "2025-11-25 17:51:10"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEVELOPERS",
+        "link": "https://www.youtube.com/watch?v=fBshJ_ps6WI",
+        "title": "How to build reliable AI Agents?",
+        "thumbnail": "https://www.youtube.com/v/fBshJ_ps6WI?version=3",
+        "author": "Google for Developers",
+        "track": null,
+        "description": "Join Ivan and Aparna Dhinakaran, CPO of Arize AI, as they discuss the challenges of moving AI agents from prototype to production. This tutorial demonstrates how to integrate the Google's Agent Development Kit (ADK) with Arize Phoenix to enable deep observability, tracing, and evaluation for your agents. Learn how to instrument your ADK agent with OpenTelemetry standards, visualize live traces to debug logic errors, and run evaluations to ensure your agent is reliable at scale.\n\nChapters:\n0:00 - Introduction\n0:40 - Why observability matters for agents\n1:35 - Callbacks in ADK\n2:05 - Arize Phoenix\n2:45 - The Financial Advisor agent\n3:16 - Installation and setup\n4:30 - Demo: Live tracing\n5:20 - Error analysis and debugging\n7:09 - Scaling debug with evaluations\n8:46 - Wrap up\n\nResources:\nLearn more about the Agent Development Kit → https://google.github.io/adk-docs/\nCheck out the ADK Samples repo → https://github.com/google/adk-samples\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nProducts Mentioned: Google ADK, Google AI",
+        "published_date": "2025-11-25 17:01:15"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEVELOPERS",
+        "link": "https://www.youtube.com/watch?v=hk6gwiZmSWA",
+        "title": "Nano Banana Pro: Hands-on with the World’s Most Powerful Image Model",
+        "thumbnail": "https://www.youtube.com/v/hk6gwiZmSWA?version=3",
+        "author": "Google for Developers",
+        "track": null,
+        "description": "Introducing Nano Banana Pro, a powerful model built on Gemini 3 Pro, designed to enhance text rendering, infographics, and structured content generation. Tune in to learn about Nano Banana Pro’s advanced visual reasoning and multi-turn generation capabilities, and how this next-gen tool enables complex image edits and real-world applications. In this episode, we discuss how user feedback and continuous benchmarking drive model improvements, ensuring a superior experience for developers.\n\n\nListen to this podcast: \nApple Podcasts → https://goo.gle/3Bm7QzQ \nSpotify → https://goo.gle/3ZL3ADl \n\nChapters:\n00:00 - Introducing Nano Banana Pro\n02:00 - Enhanced world understanding\n04:59 - Advanced text rendering\n05:49 - Gemini 3 Pro's influence\n09:30 - Multi-turn & infographics\n14:04 - Text rendering comparison\n16:26 - Multilingual text support\n18:22 - Infographics for learning\n24:00 - Multi-image input\n26:38 - Resolution & fidelity\n30:07 - Advanced editing & style\n32:09 - Practical use cases\n35:26 - Future outlook & thanks\n\n\nWatch more Release Notes → https://goo.gle/4njokfg \nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Logan Kilpatrick, Abhishek Sinha, Robin Strudel, Yilin Gao, Sherry Ben\nProducts Mentioned:  Google AI, Gemini, Nano Banana",
+        "published_date": "2025-11-25 01:39:39"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEVELOPERS",
+        "link": "https://www.youtube.com/watch?v=fXtna7UrL44",
+        "title": "Koray Kavukcuoglu: “This Is How We Are Going to Build AGI”",
+        "thumbnail": "https://www.youtube.com/v/fXtna7UrL44?version=3",
+        "author": "Google for Developers",
+        "track": null,
+        "description": "Join Logan Kilpatrick and Koray Kavukcuoglu, CTO of Google DeepMind and Chief AI Architect of Google, as they discuss Gemini 3 and the state of AI! \n\nTheir conversation includes the reception of Gemini 3, the ongoing advancements in AI research, and the role of benchmarks in pushing new frontiers. They explore critical areas for Gemini's focus, emphasizing instruction following, tool calls, and internationalization, alongside Google's collaborative approach to AI development.\n\nListen to this podcast: \nApple Podcasts → https://goo.gle/3Bm7QzQ \nSpotify → https://goo.gle/3ZL3ADl \n\nChapters:\n0:00 - Intro \n2:00 - Gemini 3 launch reception\n4:16 - Continuous progress and innovation\n6:47 - Key areas for Gemini improvement\n11:45 - Product scaffolding for model improvement\n13:56 - Chief AI architect role\n17:04 - Engineering mindset and collaboration\n18:37 - Future growth areas for Gemini\n20:33 - From research to engineering mindset\n23:22 - The rise of generative media\n27:22 - Nano Banana Pro capabilities\n29:31 - Towards unified model checkpoints\n36:26 - Organizing for AI success\n38:26 - Balancing exploration and scaling\n41:40 - DeepMind's collaborative culture\n45:21 - Innovating at Google\n48:37 - Closing\n\n\nWatch more Release Notes → https://goo.gle/4njokfg \nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Logan Kilpatrick, Koray Kavukcuoglu\nProducts Mentioned:  Google AI, Gemini",
+        "published_date": "2025-11-24 22:37:26"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEVELOPERS",
+        "link": "https://www.youtube.com/shorts/Yil8Gpd6dLg",
+        "title": "What's happening under the hood with C's type conversion rules? Go!",
+        "thumbnail": "https://www.youtube.com/v/Yil8Gpd6dLg?version=3",
+        "author": "Google for Developers",
+        "track": null,
+        "description": "Today's C dev challenge explores a common source of bugs. At first glance, -1 is clearly less than 1, but C's type conversion rules have something to say about that. What's happening under the hood, and which branch actually executes? \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeakers: Laurie Wu",
+        "published_date": "2025-11-24 14:01:07"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEVELOPERS",
+        "link": "https://www.youtube.com/watch?v=9oYHU1hdDog",
+        "title": "Agents, AI & The Next Wave: Mike Clark on Vertex AI at DevFest Silicon Valley",
+        "thumbnail": "https://www.youtube.com/v/9oYHU1hdDog?version=3",
+        "author": "Google for Developers",
+        "track": null,
+        "description": "AI just reset the developer playbook. In this DevFest Silicon Valley sit-down, Mike Clark (Google's Director of Product Management, AI Agents) sits down with Frank (Puf) Van Puffelen (Google Developer Expert and Engineer), sharing how agents are moving from demos to production with Vertex AI Agent Builder, Agent Engine, and the open-source Agent Developer Kit (SDK). They also discuss what “build → scale → govern” means for real teams.\n\nIn this video we cover: \n* Why AI is finally accessible (and why community matters) \n* “Outcomes over lines of code” and the new definition of quality \n* Citizen developers, vibe coding, and what pros should build next \n* Continuous PRs, observability, OpenTelemetry, and open agent protocols (A2A, A2UI) \n* Practical entry points, prebuilt agents, and deployment choices (Cloud Run, GKE, etc.)\n\nTL;DR: Stay curious. Start small. Ship agents with guardrails.\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nEvent: DevFest 2025 \n\nProducts Mentioned: Google AI",
+        "published_date": "2025-11-21 00:00:10"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEVELOPERS",
+        "link": "https://www.youtube.com/watch?v=9EGtawwvlNs",
+        "title": "Build an AI Agent with Gemini 3",
+        "thumbnail": "https://www.youtube.com/v/9EGtawwvlNs?version=3",
+        "author": "Google for Developers",
+        "track": null,
+        "description": "Gemini 3 is our most intelligent model yet that helps you bring any idea to life. In this video, you’ll learn how to build an AI Agent with Gemini 3 Pro and the Agent Development Kit (ADK). You’ll explore how to build a single agent with access to Google Search as its tool, and interact with it using a web UI. We will also learn how Gemini 3 Pro uses Thought Signatures and we will explore its chain of thought when the agent receives a prompt. \n\n\nResources:\nGetting started with uv →  https://goo.gle/4a7M7KG \nADK Google Search Tool docs → https://goo.gle/3LGFKUR \nGithub Repo for the AI Agent built with Gemini 3 Pro → \nhttps://goo.gle/4pq0pep \n\nTimestamps:\n0:00 - Introduction to Gemini 3 Pro\n0:32 - Initializing the Project & Installing ADK and GenAI libraries \n1:25 - Setting up Google AI Studio’s API Key & Creating Agent Scaffolding with ADK Create\n2:00 - Implementing the Google Search Tool \n2:33 - Configuring the Gemini 3 Pro Model \n3:14 - Deploying the Agent to ADK Web \n4:29 - Testing the Agent\n5:24 - Thought Signatures and Analyzing Chain of Thought\n6:40 - Conclusion\n\nSpeaker: Smitha Kolan \nProducts Mentioned: Gemini, Google AI, Agent Development Kit (ADK)",
+        "published_date": "2025-11-20 21:45:49"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEVELOPERS",
+        "link": "https://www.youtube.com/shorts/sCXuCczPE8A",
+        "title": "What's on the newsdesk for Google Developers this November? Take a peek!",
+        "thumbnail": "https://www.youtube.com/v/sCXuCczPE8A?version=3",
+        "author": "Google for Developers",
+        "track": null,
+        "description": "From new updates to Google Play game to unveiling ADK Go, see what’s new for you, a Google developer!\n\nWatch more Google Developer News → https://goo.gle/4e8Rysd  \nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Meghan Mehta\nProducts Mentioned: Google AI, Agent Developer Kit (ADK), Google Play",
+        "published_date": "2025-11-20 20:00:55"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEVELOPERS",
+        "link": "https://www.youtube.com/shorts/hunRGj4Bpb0",
+        "title": "Keep your code fresh and clean with YAGNI!",
+        "thumbnail": "https://www.youtube.com/v/hunRGj4Bpb0?version=3",
+        "author": "Google for Developers",
+        "track": null,
+        "description": "Every extra line is more to test. The solution? Keep it simple, and build what's needed now.\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Crystal Endless",
+        "published_date": "2025-11-20 19:30:53"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEVELOPERS",
+        "link": "https://www.youtube.com/watch?v=L0QHMLx02l4",
+        "title": "Introducing ADK Go, User Simulator, and more! - Google Developer News November 2025",
+        "thumbnail": "https://www.youtube.com/v/L0QHMLx02l4?version=3",
+        "author": "Google for Developers",
+        "track": null,
+        "description": "Welcome to this month’s Google Developer News for a rundown of what’s new for developers! Dive into the new Google Play Console overview pages that provide a live review of your app's performance against key goals like user growth and monetization. Discover how Gemini-powered language translations are making localization easier for app bundles. And ADK Go? Watch this episode to be caught up on the latest, low-latency news for Google developers. \n\nChapters:\n0:00 - Intro\n0:31 - Gemini-powered app localization\n0:55 - Streamlined deep link validation\n1:08 - ADK user simulator for AI agents\n1:39 - Introducing ADK Go for Go developers\n1:53 - Conclusion \n\nResources: \nGoogle Play → https://goo.gle/4ih9DHw \nUser stimulator → https://goo.gle/3LR1IEv \nADK Go → https://goo.gle/4rcg0Qm \n\nWatch more Google Developer News → https://goo.gle/4e8Rysd  \nSubscribe to Google for Developers → https://goo.gle/developers \n\n#GoogleDeveloperNews \n\nSpeaker: Meghan Mehta\nProducts Mentioned:  Google AI, Agent Developer Kit (ADK), Google Play",
+        "published_date": "2025-11-20 17:02:19"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEVELOPERS",
+        "link": "https://www.youtube.com/watch?v=uzFOhkORVfk",
+        "title": "Google Antigravity: Hands on with our new agentic development platform",
+        "thumbnail": "https://www.youtube.com/v/uzFOhkORVfk?version=3",
+        "author": "Google for Developers",
+        "track": null,
+        "description": "Explore Antigravity, Google DeepMind’s innovative new AI developer coding product, with Varun Mohan on Release Notes. This episode dives into Antigravity as a powerful agent development platform, integrating a familiar IDE experience with browser verification and Gemini 3.0 capabilities. Discover how developers can orchestrate complex agentic workflows, leverage artifacts for task communication, and balance AI automation with human collaboration. Learn about the philosophy behind building next-gen agentic experiences, the platform's multimodal strengths, and its role in accelerating software development at scale.\n\n\nListen to this podcast: \nApple Podcasts → https://goo.gle/3Bm7QzQ \nSpotify → https://goo.gle/3ZL3ADl \n\nChapters:\n00:00 - Introducing Google Antigravity\n04:02 - Evolution of AI in coding\n04:53 - Beyond writing code\n06:21 - Ideal Google Antigravity user\n09:48 - Evolving user personas\n11:46 - Agents versus the IDE\n14:46 - Human-agent collaboration\n16:43 - Local versus server-side\n18:50 - Self-improvement and knowledge\n21:29 - Generalizing agent capabilities\n24:20 - Naming Google Antigravity\n27:04 - Integrating Google's AI models\n27:59 - Demo: Airbnb for dogs\n28:48 - Understanding artifacts\n29:51 - Asynchronous user feedback\n32:16 - Agent manager workflow\n33:17 - Browser actuation demo\n34:36 - Browser for research and testing\n36:45 - Parallel agent conversations\n41:04 - Agent task best practices\n42:51 - Future of Google Antigravity\n\nWatch more Release Notes → https://goo.gle/4njokfg \nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Logan Kilpatrick, Varun Mohan \nProducts Mentioned:  Google AI, Gemini",
+        "published_date": "2025-11-20 04:40:52"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEVELOPERS",
+        "link": "https://www.youtube.com/watch?v=ku-N-eS1lgM",
+        "title": "Gemini 3 for Developers",
+        "thumbnail": "https://www.youtube.com/v/ku-N-eS1lgM?version=3",
+        "author": "Google for Developers",
+        "track": null,
+        "description": "Gemini 3 is our most intelligent model yet that helps you bring any idea to life. In this video, you’ll learn how to create an API key and send your first request to Gemini 3 Pro. You’ll explore use cases like data analysis, image and video understanding, and combining multiple built-in tools like Google Search and Code execution.\n\nResources: \nStart building with Gemini 3 → https://goo.gle/4r9LUNe \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Nikita Namjoshi\nProducts Mentioned: Gemini, Google AI, Google AI Studio",
+        "published_date": "2025-11-19 20:03:14"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEVELOPERS",
         "link": "https://www.youtube.com/watch?v=Pb6XHGi542A",
         "title": "Vibe coding with Gemini 3 in AI Studio",
         "thumbnail": "https://www.youtube.com/v/Pb6XHGi542A?version=3",

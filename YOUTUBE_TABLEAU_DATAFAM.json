@@ -1,6 +1,116 @@
 [
     {
         "website": "YOUTUBE_TABLEAU_DATAFAM",
+        "link": "https://www.youtube.com/watch?v=Nn4dbCvrqFU",
+        "title": "Team DataFam Tableau User Group 21 Nov 2025",
+        "thumbnail": "https://www.youtube.com/v/Nn4dbCvrqFU?version=3",
+        "author": "The DataFam Tableau User Groups",
+        "track": null,
+        "description": "\"Taming the 'Cannot Mix Aggregate and Non-Aggregate' Beast\" by Agata Mężyńska\n\nIf you want to learn how to avoid aggregation pitfalls in Tableau and resolve common errors, including “Cannot mix aggregate and non-aggregate”, this is a presentation for you.",
+        "published_date": "2025-11-28 00:52:25"
+    },
+    {
+        "website": "YOUTUBE_TABLEAU_DATAFAM",
+        "link": "https://www.youtube.com/watch?v=SEGOm4nB9nE",
+        "title": "DataFam Career Pathmakers Tableau User Group 12 Nov 2025",
+        "thumbnail": "https://www.youtube.com/v/SEGOm4nB9nE?version=3",
+        "author": "The DataFam Tableau User Groups",
+        "track": null,
+        "description": "Join us for an inspiring panel discussion with Annabelle Rincon, renowned Tableau Visionary and Ambassador, as she shares insights from her remarkable journey in the field of data analytics. This event will delve into the importance of data enablement and how it shapes successful careers in today's data-driven world.",
+        "published_date": "2025-11-26 22:13:20"
+    },
+    {
+        "website": "YOUTUBE_TABLEAU_DATAFAM",
+        "link": "https://www.youtube.com/watch?v=4pih6P5A3Zs",
+        "title": "Team DataFam Tableau User Group 19 Nov 2025",
+        "thumbnail": "https://www.youtube.com/v/4pih6P5A3Zs?version=3",
+        "author": "The DataFam Tableau User Groups",
+        "track": null,
+        "description": "Marcelo Has will demonstrate his amazing new Tableau templating tool - TabDesign.\n\nMarcelo will walk through the features and demonstrate how you can save 90% of your dashboard development time.\n\nThis session also includes some Q&amp;A and a sneak peek at features that are not yet in production.",
+        "published_date": "2025-11-24 22:41:36"
+    },
+    {
+        "website": "YOUTUBE_TABLEAU_DATAFAM",
+        "link": "https://www.youtube.com/watch?v=-TqTJKedgjk",
+        "title": "Kenya Tableau User Group 22 Nov 2025",
+        "thumbnail": "https://www.youtube.com/v/-TqTJKedgjk?version=3",
+        "author": "The DataFam Tableau User Groups",
+        "track": null,
+        "description": "\"User Experience Psychology for Dashboard Designers\" presented by Agata Mężyńska",
+        "published_date": "2025-11-24 20:47:22"
+    },
+    {
+        "website": "YOUTUBE_TABLEAU_DATAFAM",
+        "link": "https://www.youtube.com/watch?v=nGKcNmOmemA",
+        "title": "Team DataFam Tableau User Group - 13 Nov 2025",
+        "thumbnail": "https://www.youtube.com/v/nGKcNmOmemA?version=3",
+        "author": "The DataFam Tableau User Groups",
+        "track": null,
+        "description": "\"Accessibility Matters: Universal Design Means Data for All\" by Roshni Gohil\n\nBuild inclusive vizzes by applying accessibility best practices to your dashboard design. Explore principles of universal design, its impact, and key features to ensure better usability for all.\n\nLearning objective 1: Understand the impact of design choices on the consumers’ ability to see, understand, and use your dashboards.\nLearning objective 2: Recognize accessibility features built into Tableau and how to ensure your dashboards maximize their usefulness.\nLearning objective 3: Understand universal design (UD) and how UD concepts help you build vizzes that are better for all your data viz consumers.\n\nSlide deck: https://static.rainfocus.com/plus/tc25/sess/1736504356759001OOfO/presentpdf/1614_AccessibilityMatters_04_15_1744516420557001HRJa.pdf",
+        "published_date": "2025-11-23 23:21:18"
+    },
+    {
+        "website": "YOUTUBE_TABLEAU_DATAFAM",
+        "link": "https://www.youtube.com/watch?v=QlCbOX1ZDC0",
+        "title": "Norway Tableau User Group 20 Nov 2025",
+        "thumbnail": "https://www.youtube.com/v/QlCbOX1ZDC0?version=3",
+        "author": "The DataFam Tableau User Groups",
+        "track": null,
+        "description": "Nordic Super TUG 2025\n\nHow to do Cool Stuff in Tableau - The Flerlage Twins\nFrom Server to Public: Tableau in the Norwegian Offshore Directorate - Lara Blazevic\n25 Ways to Visualize your running data - Tero Honko\nTableau for virtual spaceship analytics - Guomundur Helgason\nHow to build a spiral chart - Sebastine Amede",
+        "published_date": "2025-11-23 10:45:06"
+    },
+    {
+        "website": "YOUTUBE_TABLEAU_DATAFAM",
+        "link": "https://www.youtube.com/watch?v=h1YB2k_hmys",
+        "title": "Team DataFam Tableau User Group 11 Nov 2025",
+        "thumbnail": "https://www.youtube.com/v/h1YB2k_hmys?version=3",
+        "author": "The DataFam Tableau User Groups",
+        "track": null,
+        "description": "\"From Data Chaos to Clarity: Architecting Scalable Marketing Attribution Dashboards in Tableau\" by Raunak Kumar\n\nMarketing data is massive—billions of ad impressions, CRM touchpoints, and web events flow through disconnected systems every day. Without the right data architecture, Tableau dashboards quickly become slow, brittle, or impossible to maintain.\n\nIn this session, I’ll share practical strategies to architect marketing attribution data for performance and scale using a modular, open-source stack (Fivetran + dbt + Snowflake). We’ll discuss how to:\nDesign aggregate tables that balance query performance with analytical flexibility.\n\nPrecompute multi-touch attribution metrics (Markov, Shapley) for efficient Tableau visualization.\n\nImplement parameter-driven dashboards that let users toggle attribution models or time windows without performance lag.\n\nLeverage Tableau Prep and incremental data pipelines to keep dashboards fresh and consistent.\n\nYou’ll leave with a blueprint for high-performance Tableau dashboards that handle terabyte-scale marketing data while remaining responsive, accurate, and executive-ready.",
+        "published_date": "2025-11-23 04:08:36"
+    },
+    {
+        "website": "YOUTUBE_TABLEAU_DATAFAM",
+        "link": "https://www.youtube.com/watch?v=6gjr8IJwehc",
+        "title": "Team DataFam Tableau User Group 5 Nov 2025",
+        "thumbnail": "https://www.youtube.com/v/6gjr8IJwehc?version=3",
+        "author": "The DataFam Tableau User Groups",
+        "track": null,
+        "description": "\"TC25 Stay in the Workflow with Tableau and (Viz) Extensions\" by Jeremy Knott\n\nWorkstream consolidation with the implementation of Tableau viz extensions as well as the inclusion of spatial parameters to track claims / policies from storms.",
+        "published_date": "2025-11-21 02:28:52"
+    },
+    {
+        "website": "YOUTUBE_TABLEAU_DATAFAM",
+        "link": "https://www.youtube.com/watch?v=sPYWrsWMHfk",
+        "title": "Retail and Consumer Goods Tableau User Group 20 Nov 2025",
+        "thumbnail": "https://www.youtube.com/v/sPYWrsWMHfk?version=3",
+        "author": "The DataFam Tableau User Groups",
+        "track": null,
+        "description": "\"Dashboards That Deliver\" book overview",
+        "published_date": "2025-11-20 23:15:48"
+    },
+    {
+        "website": "YOUTUBE_TABLEAU_DATAFAM",
+        "link": "https://www.youtube.com/watch?v=JV9vGaYLbNo",
+        "title": "Team DataFam Tableau User Group 31 Oct 2025",
+        "thumbnail": "https://www.youtube.com/v/JV9vGaYLbNo?version=3",
+        "author": "The DataFam Tableau User Groups",
+        "track": null,
+        "description": "\"A Reflection on the Tableau Next Hackathon\" by Ann Jackson\n\nDemonstrating what I created for the Tableau Next Hackathon with heavy emphasis on the framework that I built and shared. Allow there to be hands-on discussion and tactical (technical) discussion of how Tableau Next works. Think: a critical eye from a HOF visionary on what it \"agentic analytics\" means.\n\nhttps://annujackson.medium.com/ai-in-practice-building-an-analytics-hackathon-project-77acce50b59c",
+        "published_date": "2025-11-20 03:50:32"
+    },
+    {
+        "website": "YOUTUBE_TABLEAU_DATAFAM",
+        "link": "https://www.youtube.com/watch?v=l7Fa-VYoG-E",
+        "title": "K12 Tableau User Group 19 Nov 2025",
+        "thumbnail": "https://www.youtube.com/v/l7Fa-VYoG-E?version=3",
+        "author": "The DataFam Tableau User Groups",
+        "track": null,
+        "description": "Pull up to the warm glow of your computer and take the chill off November! Learn more about accessibility issues and solutions for your Tableau dashboards and meet a community member.\n\nKate Ory (Chico Unified School District, California) Shares her journey with Tableau in a K12 school district.\n\nRoshni Gohil (Massachusetts Institute of Technology -MIT) Shares how to build inclusive vizzes by applying accessibility best practices to your dashboard design. She will explore principles of universal design, its impact, and key features to ensure better usability for all.\n\nDoc Kevin Lee Elder (Louisiana Tech University - LTU) Shares how to build accessible dashboards from a color point of view.",
+        "published_date": "2025-11-20 02:07:11"
+    },
+    {
+        "website": "YOUTUBE_TABLEAU_DATAFAM",
         "link": "https://www.youtube.com/watch?v=KDVnVdS10Z8",
         "title": "Tableau Newbies User Group 13 Nov 2025",
         "thumbnail": "https://www.youtube.com/v/KDVnVdS10Z8?version=3",

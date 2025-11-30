@@ -1,6 +1,206 @@
 [
     {
         "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/outreach-initiatives/arts-culture/crafted-in-mexico-expands/",
+        "title": "Discover the living heritage of Mexican crafts",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Zenaida_Tapia_Nicolas.max-600x600.format-webp.webp",
+        "author": "Claudia Curiel de Icaza",
+        "track": null,
+        "description": "See the next edition of Crafted in Mexico, Google Arts & Culture’s showcase of Mexico’s creative landscape.",
+        "published_date": "2025-11-28 16:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/outreach-initiatives/arts-culture/ai-cultural-learning/",
+        "title": "Art, science, travel: 3 new AI-powered experiences this holiday season",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_imagery_LE_WTV_AC.max-600x600.format-webp.webp",
+        "author": "Amit Sood",
+        "track": null,
+        "description": "Three new AI-powered experiments from Google give you new and creative ways to learn about topics across art, science and travel",
+        "published_date": "2025-11-27 10:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/outreach-initiatives/google-org/deepening-our-ai-research-partnership-with-tel-aviv-university/",
+        "title": "Deepening our AI research partnership with Tel Aviv University",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IMG-20251126-WA0007_Tj62OQg.max-600x600.format-webp.webp",
+        "author": "Avinatan Hassidim",
+        "track": null,
+        "description": "",
+        "published_date": "2025-11-27 08:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/around-the-globe/google-asia/researchers-asia-pacific-alphafold-five-years/",
+        "title": "Here’s how researchers in Asia-Pacific are using AlphaFold",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AlphaFold_-_APAC_Keyword_Header.max-600x600.format-webp.webp",
+        "author": "Rachel Teo",
+        "track": null,
+        "description": "Learn more about AlphaFold, Google’s AI system that accurately predicts protein structures.",
+        "published_date": "2025-11-26 23:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/technology/ai/sundar-pichai-ai-release-notes-podcast/",
+        "title": "Get an in-depth look at Gemini 3 with CEO Sundar Pichai.",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Release_Notes_Sundar_Pichai_003.max-600x600.format-webp.webp",
+        "author": null,
+        "track": null,
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Release_Notes_Sundar_Pichai_003.max-600x600.format-webp.webp\" />Sundar Pichai sits down with Logan Kilpatrick to discuss Gemini 3 on the Google AI: Release Notes podcast.",
+        "published_date": "2025-11-25 23:39:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/technology/ai/holiday-planning-ai-gemini-tips/",
+        "title": "The Google guide for holiday help",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Holiday_Collection_header.max-600x600.format-webp.webp",
+        "author": null,
+        "track": null,
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Holiday_Collection_header.max-600x600.format-webp.webp\" />Learn more about using Google products like Gemini, Search, Shopping, Pixel and more over the holidays.",
+        "published_date": "2025-11-25 18:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/products/shopping/how-to-agentic-calling-let-google-call/",
+        "title": "Ask Google to call local businesses for you.",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HowtoaskAgentic_Social.max-600x600.format-webp.webp",
+        "author": null,
+        "track": null,
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HowtoaskAgentic_Social.max-600x600.format-webp.webp\" />We recently released a new agentic calling feature in the U.S. where you can ask Google to call local businesses for you to gather information about what’s available nea…",
+        "published_date": "2025-11-25 18:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/technology/google-labs/flow-refine-videos/",
+        "title": "4 ways to refine your content in Flow",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Changetheweather_social.max-600x600.format-webp.webp",
+        "author": "Anika Ahluwalia",
+        "track": null,
+        "description": "You’ll now get more creative control in Flow with new refinement and editing capabilities.",
+        "published_date": "2025-11-25 17:40:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/products/google-cloud/ironwood-google-tpu-things-to-know/",
+        "title": "3 things to know about Ironwood, our latest TPU",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ironwood-hero.max-600x600.format-webp.webp",
+        "author": "Ari Marini",
+        "track": null,
+        "description": "Google’s seventh-gen Tensor Processing Unit is here! Learn what makes Ironwood our most powerful and energy-efficient custom silicon to date.",
+        "published_date": "2025-11-25 16:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/technology/google-deepmind/the-thinking-game/",
+        "title": "Watch ‘The Thinking Game,’ a documentary about Google DeepMind, for free on YouTube.",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/The_Thinking_Game-Tribeca_with_.max-600x600.format-webp.webp",
+        "author": null,
+        "track": null,
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/The_Thinking_Game-Tribeca_with_.max-600x600.format-webp.webp\" />We’re bringing “The Thinking Game\" to the Google DeepMind YouTube channel.",
+        "published_date": "2025-11-25 16:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/outreach-initiatives/arts-culture/beyond-the-tracks/",
+        "title": "Explore 200 years of the railway with Google Arts & Culture and AI",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/External_View_of_Locomotion_Shi.max-600x600.format-webp.webp",
+        "author": "Sir Ian Blatchford",
+        "track": null,
+        "description": "Celebrate the National Railway Museum’s 50th & the railway’s 200th anniversaries with 1000 artifacts, 360° tours and untold stories.",
+        "published_date": "2025-11-25 10:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/technology/google-labs/accel-atoms-ai-futures-fund/",
+        "title": "Google’s AI Futures Fund and Accel Atoms are launching a program to accelerate AI innovation in India.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/WZCJmcq6oHg/maxresdefault.webp",
+        "author": null,
+        "track": null,
+        "description": "",
+        "published_date": "2025-11-25 00:30:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/around-the-globe/google-europe/bolands-mills/",
+        "title": "Introducing Bolands Mills, a living room for Dublin’s Docklands",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/1st_Choice_-_Google_BM_Logo.max-600x600.format-webp.webp",
+        "author": "Vanessa Hartley",
+        "track": null,
+        "description": "Dublin's Bolands Mills is now a community and innovation hub! Home to 1,000+ Google engineers, with public space, retail, housing and The Factory venue.",
+        "published_date": "2025-11-24 09:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/around-the-globe/google-europe/building-europes-ai-future-together/",
+        "title": "Building Europe’s AI future, together",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Untitled_design_24.max-600x600.format-webp.webp",
+        "author": "Debbie Weinstein",
+        "track": null,
+        "description": "Remarks from Debbie Weinstein's inaugural address at the Europe Business Summit in Brussels.",
+        "published_date": "2025-11-24 08:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/around-the-globe/google-europe/united-kingdom/be-internet-legends-has-trained-more-than-10-million-pupils-across-the-uk/",
+        "title": "Be Internet Legends has trained more than 10 million pupils across the U.K.",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Keir_Starmer.max-600x600.format-webp.webp",
+        "author": null,
+        "track": null,
+        "description": "",
+        "published_date": "2025-11-24 08:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/products/gemini/gemini-drop-november-2025/",
+        "title": "Find out what’s new in the Gemini app in November's Gemini Drop.",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-pro-image__benchmarks__t.max-600x600.format-webp_cmfnyUE.webp",
+        "author": null,
+        "track": null,
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-pro-image__benchmarks__t.max-600x600.format-webp_cmfnyUE.webp\" />Gemini Drops are our regular update on what’s new in the Gemini app. Here's a look at the latest features this month:Gemini 3 brings upgraded smarts and new capabilities…",
+        "published_date": "2025-11-21 18:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/products/gemini/holiday-tips-prompts-ai-tools/",
+        "title": "48 tips and prompts for holiday planning, travel and more",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/45_Tips_hero.max-600x600.format-webp.webp",
+        "author": "Molly McHugh-Johnson",
+        "track": null,
+        "description": "Learn more about ways to use Google tools like Gemini, Google Photos, Search and more to get things done over the holidays.",
+        "published_date": "2025-11-21 17:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/products/pixel/google-holiday-hosting-tips-2024/",
+        "title": "16 Google AI tips for stress-free holiday hosting in 2025",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_AI_holiday_hosting_tips.max-600x600.format-webp.webp",
+        "author": "Molly McHugh-Johnson",
+        "track": null,
+        "description": "Use Gemini, Search, Pixel and more to make holiday planning feel effortless in 2025.",
+        "published_date": "2025-11-21 16:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/outreach-initiatives/public-policy/court-testimony-risk-disruption-doj-proposals/",
+        "title": "Court testimony highlights the risk and disruption of the DOJ's ad tech proposals",
+        "thumbnail": null,
+        "author": "Lee-Anne Mulholland",
+        "track": null,
+        "description": "Testimony shows how DOJ’s proposal to break up Ad Manager is unworkable and would create uncertainty and disruption for businesses.",
+        "published_date": "2025-11-21 14:50:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
+        "link": "https://blog.google/products/shopping/black-friday-cyber-monday-shopping-tips-ai/",
+        "title": "4 ways to use AI for easier Black Friday and Cyber Monday shopping",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/header_image_outline_K64awDL.max-600x600.format-webp.webp",
+        "author": "Molly Shaheen",
+        "track": null,
+        "description": "Learn more about how you can use Google Shopping features — including AI tools — over Black Friday and Cyber Monday.",
+        "published_date": "2025-11-21 13:00:00"
+    },
+    {
+        "website": "GOOGLE_BLOG",
         "link": "https://blog.google/products/android-enterprise/rcs-archival/",
         "title": "Simplifying messaging compliance for businesses with Android RCS Archival on Pixel",
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/messaging_compliance_Hero.max-600x600.format-webp.webp",

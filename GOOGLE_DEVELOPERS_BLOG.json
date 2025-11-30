@@ -468,5 +468,65 @@
         "track": null,
         "description": "Multi-spectral imagery, which captures wavelengths beyond human vision, offers a \"superhuman\" way to understand the world, and Google's Gemini models make this accessible without specialized training. By mapping invisible bands to RGB channels and providing context in the prompt, developers can leverage Gemini's power for tasks like environmental monitoring and agriculture.",
         "published_date": ""
+    },
+    {
+        "website": "GOOGLE_DEVELOPERS_BLOG",
+        "link": "https://developers.googleblog.com/new-gemini-api-updates-for-gemini-3/",
+        "title": "New Gemini API updates for Gemini 3",
+        "thumbnail": null,
+        "author": null,
+        "track": null,
+        "description": "Gemini 3 is available via API with updates for developers: new `thinking_level` for depth control, `media_resolution` for multimodal processing, and enforced `Thought Signatures` for agentic workflows, especially with function calling and image generation. It also introduces combining Google Search/URL Grounding with Structured Outputs and new usage-based pricing for Grounding. Best practices, like using default temperature, are advised for optimal results.",
+        "published_date": ""
+    },
+    {
+        "website": "GOOGLE_DEVELOPERS_BLOG",
+        "link": "https://developers.googleblog.com/unlocking-peak-performance-on-qualcomm-npu-with-litert/",
+        "title": "Unlocking Peak Performance on Qualcomm NPU with LiteRT",
+        "thumbnail": null,
+        "author": null,
+        "track": null,
+        "description": "LiteRT's new Qualcomm AI Engine Direct (QNN) Accelerator unlocks dedicated NPU power for on-device GenAI on Android. It offers a unified mobile deployment workflow, SOTA performance (up to 100x speedup over CPU), and full model delegation. This enables smooth, real-time AI experiences, with FastVLM-0.5B achieving over 11,000 tokens/sec prefill on Snapdragon 8 Elite Gen 5 NPU.",
+        "published_date": ""
+    },
+    {
+        "website": "GOOGLE_DEVELOPERS_BLOG",
+        "link": "https://developers.googleblog.com/build-with-google-antigravity-our-new-agentic-development-platform/",
+        "title": "Build with Google Antigravity, our new agentic development platform",
+        "thumbnail": null,
+        "author": null,
+        "track": null,
+        "description": "Introducing Google Antigravity, a new agentic development platform for orchestrating code. It combines an AI-powered Editor View with a Manager Surface to deploy agents that autonomously plan, execute, and verify complex tasks across your editor, terminal, and browser. Agents communicate progress via Artifacts (screenshots, recordings) for easy verification. Available now in public preview.",
+        "published_date": ""
+    },
+    {
+        "website": "GOOGLE_DEVELOPERS_BLOG",
+        "link": "https://developers.googleblog.com/building-production-ai-on-google-cloud-tpus-with-jax/",
+        "title": "Building production AI on Google Cloud TPUs with JAX",
+        "thumbnail": null,
+        "author": null,
+        "track": null,
+        "description": "The JAX AI Stack is a modular, industrial-grade, end-to-end machine learning platform built on the core JAX library, co-designed with Cloud TPUs. It features key components like JAX, Flax, Optax, and Orbax for foundational model development, plus an extended ecosystem for the full ML lifecycle and production. This integration provides a powerful, scalable foundation for AI development, delivering significant performance advantages.",
+        "published_date": ""
+    },
+    {
+        "website": "GOOGLE_DEVELOPERS_BLOG",
+        "link": "https://developers.googleblog.com/building-ai-agents-with-google-gemini-3-and-open-source-frameworks/",
+        "title": "Building AI Agents with Google Gemini 3 and Open Source Frameworks",
+        "thumbnail": null,
+        "author": null,
+        "track": null,
+        "description": "Gemini 3 Pro Preview is introduced as a powerful, agentic model for complex, (semi)-autonomous workflows. New agentic features include `thinking_level` for reasoning control, Stateful Tool Use via Thought Signatures, and `media_resolution` for multimodal fidelity. It has Day 0 support for open-source frameworks like LangChain, AI SDK, LlamaIndex, Pydantic AI, and n8n. Best practices include simplifying prompts and keeping temperature at 1.0.",
+        "published_date": ""
+    },
+    {
+        "website": "GOOGLE_DEVELOPERS_BLOG",
+        "link": "https://developers.googleblog.com/jules-gemini-3/",
+        "title": "Building with Gemini 3 in Jules",
+        "thumbnail": null,
+        "author": null,
+        "track": null,
+        "description": "Jules, an always-on, multi-step software development agent, now features Gemini 3, offering clearer reasoning and better reliability. Recent improvements include parallel CLI runs, a stable API, and safer Git handling. Upcoming features include directory attachment without GitHub and automatic PR creation. Jules aims to reduce software writing overhead so developers can focus on building.",
+        "published_date": ""
     }
 ]

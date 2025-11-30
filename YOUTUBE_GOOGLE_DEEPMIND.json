@@ -1,6 +1,66 @@
 [
     {
         "website": "YOUTUBE_GOOGLE_DEEPMIND",
+        "link": "https://www.youtube.com/watch?v=-pGs0btGmgY",
+        "title": "AlphaFold: Grand challenge to Nobel Prize with John Jumper",
+        "thumbnail": "https://www.youtube.com/v/-pGs0btGmgY?version=3",
+        "author": "Google DeepMind",
+        "track": null,
+        "description": "Five years ago, AlphaFold 2 solved the protein structure prediction problem, unlocking new avenues of biological research and providing our first major proof point that AI can be a powerful tool to advance science. The profound scientific and societal value of this work was even recognized in 2024 with the Nobel Prize in Chemistry. In this episode, Hannah is joined by John Jumper, one of the most instrumental scientists behind AlphaFold. He shares stories about his Nobel win, the tool's unexpected applications, and the shift in architecture from AlphaFold 2 to the more comprehensive AlphaFold 3. \n\nLearn more about AlphaFold: https://deepmind.google/science/alphafold/\n\nWatch the story behind AlphaFold on the Thinking Game, now available for free: https://youtu.be/d95J8yzvjbQ\n\n___\n\nTimecodes\n00:00 Intro \n02:06 The Nobel Prize call \n06:35 The \"Grand Challenge\" breakthrough \n09:42 Reactions from the community\n12:48 Unexpected use cases  \n16:04 AlphaFold 3 and diffusion models\n26:54 Roman aqueducts  \n33:46 Designing new proteins\n40:40 Does AI think? \n46:51 Hannah's reflections\n___\n\nThank you to everyone who made this possible, including but not limited to: \n\nPresenter: Professor Hannah Fry\nSeries Producer: Dan Hardoon\nEditor: Rami Tzabar\nCommissioner & Producer: Emma Yousif\nMusic composition: Eleni Shaw\nAudio engineer: Richard Courtice\nVideo editor: Anthony Le\nAudio engineer: Perry Rogantin\nVisual identity: Rob Ashley\nCommissioned by Google DeepMind\n___\n\nSubscribe to our channel https://www.youtube.com/@googledeepmind\nFind us on X https://twitter.com/GoogleDeepMind\nFollow us on Instagram https://instagram.com/googledeepmind\nAdd us on Linkedin https://www.linkedin.com/company/deepmind/",
+        "published_date": "2025-11-28 14:17:37"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEEPMIND",
+        "link": "https://www.youtube.com/shorts/DOeKS84G0kI",
+        "title": "The Thinking Game | Available to watch for free on @googledeepmind",
+        "thumbnail": "https://www.youtube.com/v/DOeKS84G0kI?version=3",
+        "author": "Google DeepMind",
+        "track": null,
+        "description": "The Thinking Game captured our teams for over 5 years as they navigated the complex challenges of the protein folding problem – culminating in a Nobel Prize-awarded breakthrough. Stream the film for free now on our channel: https://youtu.be/d95J8yzvjbQ",
+        "published_date": "2025-11-26 17:21:11"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEEPMIND",
+        "link": "https://www.youtube.com/watch?v=r4-hXO7MLVU",
+        "title": "AlphaFold: The 50-year grand challenge cracked by AI",
+        "thumbnail": "https://www.youtube.com/v/r4-hXO7MLVU?version=3",
+        "author": "Google DeepMind",
+        "track": null,
+        "description": "For half a century, scientists struggled to predict how proteins fold. A puzzle at the heart of understanding life and curing disease. Then, five years ago, the #alphafold team cracked the code.\n\nSince then, more than 3 million researchers across 190+ countries have used AlphaFold’s freely available database of 200 million+ protein structures, accelerating discoveries in everything from drug design to disease-resistant crops, bee conservation, and plastic-eating enzymes.\n\nLearn more: https://deepmind.google/blog/alphafold-five-years-of-impact\n\n____\n\nFurther reading:\n\nHere are just a few examples of how researchers worldwide are using AlphaFold (in order of appearance):\nChile, Germany: Engineering the catalytic activity of an Antarctic PET-degrading enzyme by loop exchange: https://onlinelibrary.wiley.com/doi/abs/10.1002/pro.4757\nUnited Kingdom: AlphaFold-Multimer predicts cross-kingdom interactions at the plant-pathogen interface: https://www.nature.com/articles/s41467-023-41721-9\nUnited States: Increasing thermostability of the key photorespiratory enzyme glycerate 3-kinase by structure-based recombination: https://onlinelibrary.wiley.com/doi/10.1111/pbi.14508\nUnited States: The structure of apolipoprotein B100 from human low-density lipoprotein: https://www.nature.com/articles/s41586-024-08467-w\nNorway, Portugal, USA, UK: Cryo-EM structure of native honey bee vitellogenin: https://www.nature.com/articles/s41467-025-58575-y\nSpain: Identification of novel compounds against Trypanosoma cruzi using AlphaFold structures: https://linkinghub.elsevier.com/retrieve/pii/S2001037025001655\nFrance: Structural basis for hepatitis E virus neutralization by potent human antibodies: https://www.science.org/doi/full/10.1126/sciadv.adu8811\n\n___\n\nSubscribe to our channel https://www.youtube.com/@googledeepmind\nFind us on X https://twitter.com/GoogleDeepMind\nFollow us on Instagram https://instagram.com/googledeepmind\nAdd us on Linkedin https://www.linkedin.com/company/deepmind/",
+        "published_date": "2025-11-25 15:46:49"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEEPMIND",
+        "link": "https://www.youtube.com/watch?v=d95J8yzvjbQ",
+        "title": "The Thinking Game | Full documentary | Tribeca Film Festival official selection",
+        "thumbnail": "https://www.youtube.com/v/d95J8yzvjbQ?version=3",
+        "author": "Google DeepMind",
+        "track": null,
+        "description": "The Thinking Game takes you on a journey into the heart of DeepMind, capturing a team striving to unravel the mysteries of intelligence and life itself.\n\nFilmed over five years by the award winning team behind AlphaGo, the documentary examines how Demis Hassabis’s extraordinary beginnings shaped his lifelong pursuit of artificial general intelligence. It chronicles the rigorous process of scientific discovery, documenting how the team moved from mastering complex strategy games to the ups and downs of solving a 50-year-old \"protein folding problem\" with AlphaFold.\n\nFollowing its world premiere at the Tribeca Festival and a successful international tour, the film is now available here for all to watch for free.\n___\n\nDirector Greg Kohs\nProducer Gary Krieg\nExecutive Producers Tom Dore, Jonathan Fildes\nCo-Producer Greg Kohs\nEditor Steve Sander\nCinematographer Greg Kohs\nComposer Dan Deacon",
+        "published_date": "2025-11-25 15:44:20"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEEPMIND",
+        "link": "https://www.youtube.com/watch?v=1Jld_rBomp0",
+        "title": "The Thinking Game | Documentary trailer",
+        "thumbnail": "https://www.youtube.com/v/1Jld_rBomp0?version=3",
+        "author": "Google DeepMind",
+        "track": null,
+        "description": "The Thinking Game takes you on a journey into the heart of DeepMind, capturing a team striving to unravel the mysteries of intelligence and life itself.\n\nFilmed over five years by the award winning team behind AlphaGo, the documentary examines how Demis Hassabis’s extraordinary beginnings shaped his lifelong pursuit of artificial general intelligence. It chronicles the rigorous process of scientific discovery, documenting how the team moved from mastering complex strategy games to the ups and downs of solving a 50-year-old \"protein folding problem\" with AlphaFold.\n\nComing soon to the Google DeepMind channel for free. 🔔 Subscribe for notifications!\n___\n\nDirector Greg Kohs\nProducer Gary Krieg\nExecutive Producers Tom Dore, Jonathan Fildes\nCo-Producer Greg Kohs\nEditor Steve Sander\nCinematographer Greg Kohs\nComposer Dan Deacon",
+        "published_date": "2025-11-24 16:40:12"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEEPMIND",
+        "link": "https://www.youtube.com/watch?v=UQsJIo46ZR8",
+        "title": "Nano Banana Pro: Your new creative partner",
+        "thumbnail": "https://www.youtube.com/v/UQsJIo46ZR8?version=3",
+        "author": "Google DeepMind",
+        "track": null,
+        "description": "Gemini 3 Pro Image (Nano Banana Pro) is our new state-of-the art image generation and editing model. Built on Gemini 3 Pro, it uses Gemini’s advanced reasoning and real-world knowledge to visualize information better than ever before.\n\nNano Banana Pro can help you visualize any idea and design anything - from building prototypes, to representing data as infographics, to turning handwritten notes into diagrams.\n\nFind out more: http://deepmind.google/models/gemini-image/pro\n\n___\n\nSubscribe to our channel https://www.youtube.com/@googledeepmind\nFind us on X https://twitter.com/GoogleDeepMind\nFollow us on Instagram https://instagram.com/googledeepmind\nAdd us on Linkedin https://www.linkedin.com/company/deepmind/",
+        "published_date": "2025-11-20 14:58:43"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_DEEPMIND",
         "link": "https://www.youtube.com/watch?v=nrfpu7mor6g",
         "title": "Gemini 3: Interact with a virtual OS by simply drawing",
         "thumbnail": "https://www.youtube.com/v/nrfpu7mor6g?version=3",

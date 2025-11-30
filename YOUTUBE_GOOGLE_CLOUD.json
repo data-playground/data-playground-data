@@ -1,6 +1,106 @@
 [
     {
         "website": "YOUTUBE_GOOGLE_CLOUD",
+        "link": "https://www.youtube.com/shorts/zUFqvC_CJBM",
+        "title": "How is AI opening up investing?",
+        "thumbnail": "https://www.youtube.com/v/zUFqvC_CJBM?version=3",
+        "author": "Google Cloud",
+        "track": null,
+        "description": "We caught up with Tamara Kostova, CEO of @Velexa. She explains how their platform is helping more people make smarter decisions on the markets. It’s another sector that’s becoming available to everyone.",
+        "published_date": "2025-11-28 08:32:16"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_CLOUD",
+        "link": "https://www.youtube.com/watch?v=gqj6f3oTpME",
+        "title": "How TGS modernized for faster energy insights with Google Cloud Consulting",
+        "thumbnail": "https://www.youtube.com/v/gqj6f3oTpME?version=3",
+        "author": "Google Cloud",
+        "track": null,
+        "description": "Ready to disrupt your industry? Google Cloud Consulting can show you how: https://goo.gle/482CNXl\n\nLearn how TGS, a leader in the energy data industry, partnered with Google Cloud Consulting to dramatically accelerate its data processing from weeks to days. Louis Bailleul, Director of Architecture and Platform Engineering at TGS, explains how the company tackled the challenge of modernizing its on-premise environment by migrating its High-Performance Computing (HPC) system to Google Cloud and running one of the biggest GKE clusters supported. Discover how the Google Cloud Consulting team provided the expertise needed to build this new environment, solve complex challenges, and enable TGS to deliver critical energy data to its customers faster than ever before.",
+        "published_date": "2025-11-25 20:33:59"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_CLOUD",
+        "link": "https://www.youtube.com/watch?v=1sDQ98_ct00",
+        "title": "Mainframe Modernization without Compromises: Meet Imogen on Google Cloud",
+        "thumbnail": "https://www.youtube.com/v/1sDQ98_ct00?version=3",
+        "author": "Google Cloud",
+        "track": null,
+        "description": "Modernizing and rewriting mainframe applications doesn't have to be a high-risk, high-disruption project. With Mechanical Orchard's Imogen platform, you can safely and reliably move your critical mainframe systems to Google Cloud.\n\nIn the video, discover Mechanical Orchard's Imogen platform on Google Cloud, the safe and reliable way to modernize your most complex, critical mainframe systems. Imogen uses a unique behavior-first approach to replicate your mainframe system's behavior incrementally into verified, cloud-native code. This makes your new codebase easier to maintain and advance, without the high risk of a traditional rewrite.\n\nWith Imogen, you deploy incrementally, minimize risk, and achieve continuous mainframe modernization.\n\nLearn more and start your modernization journey today.\nhttp://mechanical-orchard.com\n\n#Mainframe #GoogleCloud #Modernization #DevOps #CloudMigration",
+        "published_date": "2025-11-25 14:00:04"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_CLOUD",
+        "link": "https://www.youtube.com/watch?v=q_NZB2XuELg",
+        "title": "New Way Now: How Panorays automates third-party cyber risk with Google Cloud and Gemini",
+        "thumbnail": "https://www.youtube.com/v/q_NZB2XuELg?version=3",
+        "author": "Google Cloud",
+        "track": null,
+        "description": "Panorays helps organizations manage third-party security risks, but manual assessments can often be time-consuming and leave room for error. To combat this, Panorays turned to Google Cloud to help their defense evolve alongside the risk landscape.\n\nWatch how Panorays uses Google Cloud’s Vertex AI and Gemini models to automate manual tasks, including the classification of cyber news and alerts. This integration has allowed them to reduce their support team's workload by 75%, keeping companies ahead of threats and ready to respond.",
+        "published_date": "2025-11-24 20:52:32"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_CLOUD",
+        "link": "https://www.youtube.com/watch?v=LXq9n4cgOzA",
+        "title": "Simplify and Accelerate your Google Cloud Security Operations with Wiz and Gemini",
+        "thumbnail": "https://www.youtube.com/v/LXq9n4cgOzA?version=3",
+        "author": "Google Cloud",
+        "track": null,
+        "description": "Learn more about Google SecOps and Wiz technical partner integrations on the Cloud Partner Advantage Portal, here: https://goo.gle/3KcTjuG\n\nThis video demonstrates how to integrate Google SecOps, Wiz and Gemini to optimize your Security Operations deployment",
+        "published_date": "2025-11-24 15:23:00"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_CLOUD",
+        "link": "https://www.youtube.com/watch?v=zdZV4_GqAqs",
+        "title": "Cloud Assist Investigations: Troubleshoot with AI",
+        "thumbnail": "https://www.youtube.com/v/zdZV4_GqAqs?version=3",
+        "author": "Google Cloud",
+        "track": null,
+        "description": "Cut through the complexity of cloud troubleshooting with Cloud Assist Investigations. \n\nEnroll in the full course today! → https://goo.gle/4rbJvle\n\nThis course will help you understand Cloud Assist Investigations, how to incorporate it with existing products and services, and interpret real-world results.",
+        "published_date": "2025-11-21 18:33:04"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_CLOUD",
+        "link": "https://www.youtube.com/watch?v=fYXFd7qOhZI",
+        "title": "New Way Now: Lowe’s lays a data foundation for more helpful home management",
+        "thumbnail": "https://www.youtube.com/v/fYXFd7qOhZI?version=3",
+        "author": "Google Cloud",
+        "track": null,
+        "description": "*Featured in this video:* Chandhu Nair, Senior Vice President of Technology for Data, AI, and Innovation at Lowe's\n\n*Executive summary:* Lowe’s, one of the world’s largest home improvement retailers, is building the future of home improvement, pioneering new AI capabilities that give associates superpowers to better serve its customers. After modernizing its online business with Google Cloud, Lowe’s expanded its partnership to renovate its data infrastructure for the AI era, migrating its vast data resources to Google’s data cloud. Using BigQuery and Vertex AI, Lowe’s can now unify all its data — structured and unstructured — and connect it to the latest AI technologies, reducing the time to gain insights to hours instead of days or weeks. Now, Lowe’s has the foundations it needs to power AI apps and tools that enhance in-store search, product recommendations, and inventory optimization, helping hundreds of thousands of store associates across its 1,700 stores confidently assist customers with their home improvement journeys.\n\n*Challenge:* Lowe’s had extensive structured data, but also possessed a wealth of valuable unstructured information, such as training materials, manuals, standard operating procedures, and decades of collected practical know-how. Lowe’s wanted to bring together all of its data and utilize it to help associates guide customers more effectively. \n\n*Solution:* After modernizing its online business with Google Cloud, Lowe’s expanded its partnership to renovate its data foundations for the AI era. Lowe’s migrated its data resources to Google’s data cloud, using BigQuery to build a unified data analytics foundation and integrating it with Vertex AI to connect all of its data to the latest AI technologies. The new architecture has become the backbone of its AI initiatives, allowing Lowe’s to not only collect data at scale but use it to power new AI apps and tools for search, product recommendations, and inventory optimization. In addition, Vertex AI has helped to speed up collecting, processing, and analyzing data, drastically reducing the time it takes to gain insights from weeks down to hours. \n\n*Results:* With Google’s data cloud, Lowe’s now has the data foundations it needs to develop new AI capabilities that facilitate remarkable new ways to unlock and distribute expertise, enabling more than 300,000 associates across its 1,700 stores to assist customers during the home improvement journeys with greater knowledge and confidence.\n\n*Key takeaways and highlights from our interview with Chandhu Nair, Senior Vice President of Technology for Data, AI, and Innovation at Lowe's:* \n\n→ “We've been undergoing this tremendous transformation, which is really modernizing our stack. Part of that was putting our online business on the cloud, putting our data on the cloud. Now, you have a connected ecosystem of this data, and then it's all available practically near real time. We have an AI stack that sits on top of it and simplifies it and creates action out of it, and we made significant advances in terms of shifting from days and weeks of trying to harvest this data and get insights to within a few hours.”\n\n→ “AI is like a force multiplier. We can now connect all of this data to provide intelligent recommendations for our customers, whether that is when to maintain your yard or how to maintain appliances. You don’t have to go through hundreds of thousands of manuals to actually get to that. There is nothing better than leveraging AI to augment the expertise that our associates have and really superpower them with AI-powered tools.” \n\n→ “We’ve been working with Google Cloud as a partner over the last five plus years. Google is already a leader in the data space. Vertex AI and that framework is really helping us not just harvest the data, but power it through different AI products and tools at scale, converting that into actionable outcomes that drive value for the business.”\n\n*Google Cloud products used:* Vertex AI, BigQuery\n\n*Learn more:* https://corporate.lowes.com/",
+        "published_date": "2025-11-20 21:00:54"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_CLOUD",
+        "link": "https://www.youtube.com/watch?v=yF_V0TYwSyE",
+        "title": "What is smart storage? Meet Google Cloud's storage vision",
+        "thumbnail": "https://www.youtube.com/v/yF_V0TYwSyE?version=3",
+        "author": "Google Cloud",
+        "track": null,
+        "description": "Learn more about smart storage here: https://goo.gle/4oQD9Gs\n\nJoin us for an insightful fireside chat as we explore Google Cloud's new vision for smart storage, a paradigm shift that transforms storage from a passive container into an active, intelligent engine. Hosted by Asad Khan (Senior Director, Google Cloud) and Dave McCarthy (Research VP, IDC), this discussion covers the future of intelligent data infrastructure and what it means to build on an AI-ready foundation.Learn more about smart storage here: https://goo.gle/4oQD9Gs",
+        "published_date": "2025-11-19 17:34:09"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_CLOUD",
+        "link": "https://www.youtube.com/watch?v=qiVVCKEwF7w",
+        "title": "How Palo Alto Networks Is Securing AI at Scale with Google Cloud Spanner",
+        "thumbnail": "https://www.youtube.com/v/qiVVCKEwF7w?version=3",
+        "author": "Google Cloud",
+        "track": null,
+        "description": "Learn more about Spanner and start a free trial today, with the link being: https://goo.gle/4i9fuhX\n\nAs every SaaS application becomes AI-aware, security risks multiply. Palo Alto Networks recognized the need to move their core ecosystem to a database that could provide unparalleled security, global availability, and immense scale to stay ahead of these new threats.  This video explains how Palo Alto relies on Google Cloud's portfolio (Spanner, BigQuery, GKE, DataProc, Cloud Composer) stitched together in a cohesive, multi-tenant architecture. Google Cloud Spanner is at the heart of their strategy, serving as the scalable, fault-tolerant, multi-model persistent store for all their critical customer workflows.  The video highlights their innovative use of Spanner Graph which allowed them to unlock a crucial graph use case (access control) without the need for a separate graph database or specialized expertise. Spanner's ability to offer 99.999% availability and globally distributed architecture gives Palo Alto Networks the confidence to build and deploy comprehensive security products across all their customers.  See how Palo Alto Networks uses Spanner to take the heavy lifting away and focus on unlocking customer value.",
+        "published_date": "2025-11-19 17:05:18"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_CLOUD",
+        "link": "https://www.youtube.com/watch?v=Ty6qYOoI98E",
+        "title": "New Way Now: Deloitte stops state-sponsored cyberattack; identifies threats 66% faster with Google",
+        "thumbnail": "https://www.youtube.com/v/Ty6qYOoI98E?version=3",
+        "author": "Google Cloud",
+        "track": null,
+        "description": "*Featured in this video:* Caroline Honeycombe, Director of Cyber Incident Response at Deloitte, and Paul Beverley-Paddock, Director, Security Operations Lead at Deloitte\n\n*Executive summary:* Deloitte, one of the biggest and oldest global consulting firms, tackles a huge range of challenges for clients — from boardroom strategy to technical implementation. One recent win was hugely impactful: the firm helped stop a state-sponsored cyberattack before it could affect public and digital services across Europe. Stopping that attack and reclaiming highly sensitive compromised data depended on a solution built using both the Google Security Operations and Google Threat Intelligence platforms along with Gemini. The Deloitte team ingested billions of log data points into Google SecOps, then used Gemini to ask questions of the data to decide how to tackle particular threats. That new visibility and searchability turned data points into prioritized actions the team could take immediately to counter and remove the threat. Deloitte’s AI-powered Illuminator also visualizes data so teams can identify and neutralize potential threats. The new solution has brought huge gains for level 1 and 2 analysts, who can identify threats 66% more efficiently by analyzing alerts and identifying whether they’re a true positive or false positive and what, if any, action should be taken.\n\n*Challenge:* The complexity and scale of data, and sophistication of bad actors, have grown concurrently to offer new challenges for security teams. The foiled cyberattack at Deloitte’s client came from sophisticated threat actors, though they used typical IT organization tools that made it easier to hide the threat. For Deloitte, the key ingredients in building a system to counter these new, fast-moving threats were speed and the ability to parse tremendous amounts of data immediately. \n\n*Solution:* The integration of SecOps and Threat Intelligence meant that Deloitte’s team could quickly identify who the threat actor was, and take action. Along with these Google Cloud Security tools, the natural language search capabilities of Gemini in SecOps allow the Deloitte team to ask questions in real time, such as whether and what type of detection rule should be written. Those answers brought both speedy insights and prioritized actions so the team could remove the threat and re-secure the environment. Along with those short-term reactions, the Deloitte team can now build improved client capabilities so they’re more protected in the long term and better able to react to threats going forward.\n\n*Results:* Gemini AI’s capabilities applied to massive amounts of data now let Deloitte’s cybersecurity clients’ teams quickly identify and remove threats before they can attack and cause any number of disruptions. This combination of AI and security technology has helped Deloitte reimagine their entire approach to the challenges of modern threat detection. The team is able to act faster than ever before with previously unimaginable depth and hugely increased efficiency in identifying threats.\n\n*Key takeaways and highlights from our interview with Caroline Honeycombe, Director of Cyber Incident Response at Deloitte, and Paul Beverley-Paddock, Director, Security Operations Lead at Deloitte:*\n\n→ “It essentially gave us speed, scale, depth. We can act faster than we could before with a depth we couldn’t have dreamed of. We’re able to help clients ‘shift left’ and put threat intelligence at the heart of everything we do.” —Paul Beverley-Paddock\n\n→ “Bringing in Google allowed us get insights into what we were facing and very quickly reduce billions of data points into very short, prioritized actions that we were able to take to remove the threat actor from the environment, re-secure the environment, and build the client’s capability so they’re more protected and in a better position to react going forward.” —Paul Beverley-Paddock\n\n→ “Being able to use Google SecOps to actually search what we’re after has been super powerful. And we’ve now got a really nice picture of forensics data, log data, and threat intelligence in one place.” —Caroline Honeycombe\n\n→ “Taking AI as an example, Google is one step ahead of where technology is going and what is happening in the market. Google Cloud is helping Deloitte find a new way to hunt threats faster.” —Caroline Honeycombe\n\n*Google Cloud products used:* Google Security Operations, Google Threat Intelligence, Gemini\n\n*Learn more:*\n\n→ Entering the era of generative AI-enabled security https://cloud.google.com/security/resources/entering-era-gen-ai-enbl-security?hl=en \n\n→ Make Google part of your security team https://cloud.google.com/security",
+        "published_date": "2025-11-19 16:00:49"
+    },
+    {
+        "website": "YOUTUBE_GOOGLE_CLOUD",
         "link": "https://www.youtube.com/watch?v=xg7SFprpr4I",
         "title": "New Way Now: ID.me fights fraud for over 145 million users — powered by AlloyDB",
         "thumbnail": "https://www.youtube.com/v/xg7SFprpr4I?version=3",

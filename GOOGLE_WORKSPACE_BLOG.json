@@ -1,6 +1,70 @@
 [
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
+        "link": "https://workspace.google.com/blog/customer-stories/how-bison-coolers-relies-on-google-to-run-its-family-business",
+        "title": "How Bison Coolers relies on Google to run its family business",
+        "thumbnail": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Bison_Coolers_Blog_Header_2_150kb.max-700x700.jpg",
+        "author": "The Google Workspace Team ",
+        "read_time": "3-minute",
+        "track": "customer stories",
+        "description": "Google Pixel, Google Workspace, and Gemini help Bison Coolers manage the many challenges of a modern business.",
+        "published_date": "2025-11-27 20:11:00",
+        "summary": "Bison Coolers, a Texas-based family business manufacturing rotomolded coolers, transitioned from a costly Microsoft Exchange setup to Google Workspace to enhance collaboration and reduce IT overhead. Leveraging tools like Gmail, Google Drive, Docs, and Sheets, alongside Google Meet and Chat, the company streamlined communication, enabled remote work, and scaled from three to over 20 employees. This shift significantly improved productivity for traveling sales teams, provided cost savings, and bolstered disaster recovery capabilities for their growing business operations.",
+        "tools": [
+            "Google Workspace",
+            "Gmail",
+            "Google Drive",
+            "Google Docs",
+            "Google Sheets",
+            "Google Meet",
+            "Google Chat",
+            "Google Admin console"
+        ],
+        "tags": [
+            "Customer Story",
+            "Small Business",
+            "Family Business",
+            "Manufacturing",
+            "Collaboration",
+            "Cloud Computing",
+            "Remote Work",
+            "Business Operations"
+        ]
+    },
+    {
+        "website": "GOOGLE_WORKSPACE_BLOG",
+        "link": "https://workspace.google.com/blog/product-announcements/november-workspace-drop-nano-banana-pro-in-slides-vids-and-more",
+        "title": "November Workspace Drop: Nano Banana Pro in Slides, Vids, and the Gemini app, plus AI to make meetings more impactful",
+        "thumbnail": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Workspace_drops_hero_image.max-1300x1300_1.max-1200x1200.png",
+        "author": "The Google Workspace Team ",
+        "read_time": "3-minute",
+        "track": "product announcements",
+        "description": "Discover November Google Workspace updates, from Nano Banana Pro in Slides, Vids, and the Gemini app to AI for making meetings more impactful",
+        "published_date": "2025-11-26 20:11:00",
+        "summary": "Google Workspace is introducing a suite of new AI-powered features, including Google Vids, an AI-powered video creation app to generate scripts and storyboards from scratch, set to launch in Workspace Labs in 2024. Google Slides will gain a 'Help me visualize' feature for generative AI image creation and Gemini integration for drafting, while Google Meet receives background music and enhanced audio capabilities, and Google Docs sees smart chip improvements. These updates aim to significantly boost productivity and creativity across the Workspace ecosystem.",
+        "tools": [
+            "Google Workspace",
+            "Google Vids",
+            "Google Slides",
+            "Gemini",
+            "Google Meet",
+            "Google Docs",
+            "Google Sheets",
+            "Google Drive"
+        ],
+        "tags": [
+            "AI",
+            "Generative AI",
+            "Video Creation",
+            "Presentations",
+            "Collaboration",
+            "Productivity",
+            "Workspace Updates",
+            "Business Tools"
+        ]
+    },
+    {
+        "website": "GOOGLE_WORKSPACE_BLOG",
         "link": "https://workspace.google.com/blog/ai-and-machine-learning/my-journey-with-ai-powered-google-sheets",
         "title": "From spreadsheet jockey to strategic advisor: My journey with AI-powered Google Sheets",
         "thumbnail": "https://storage.googleapis.com/gweb-cloudblog-publish/images/5492c_My_ongoing_journey_with_Google_Sheets_.max-700x700.jpg",

@@ -1,6 +1,443 @@
 [
     {
         "website": "GOOGLE_TECHNOLOGY_BLOG",
+        "link": "https://blog.google/outreach-initiatives/google-org/deepening-our-ai-research-partnership-with-tel-aviv-university/",
+        "title": "Deepening our AI research partnership with Tel Aviv University",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IMG-20251126-WA0007_Tj62OQg.max-600x600.format-webp.webp",
+        "author": "Avinatan Hassidim",
+        "track": null,
+        "description": "",
+        "published_date": "2025-11-27 08:00:00",
+        "summary": "Google.org is investing in a new AI research lab at Tel Aviv University, led by Prof. Moshiko Ravid, to advance Responsible AI and computational social science. This initiative expands on a 2019 collaboration aimed at fostering AI innovation and talent development within Israel's academic sector. The lab will focus on interdisciplinary research for real-world impact, addressing challenges related to AI safety and ethics.",
+        "tools": [
+            "Google.org"
+        ],
+        "tags": [
+            "AI Research",
+            "Responsible AI",
+            "Computational Social Science",
+            "Tel Aviv University",
+            "Israel",
+            "Academic Partnership",
+            "AI Ethics"
+        ]
+    },
+    {
+        "website": "GOOGLE_TECHNOLOGY_BLOG",
+        "link": "https://blog.google/around-the-globe/google-asia/researchers-asia-pacific-alphafold-five-years/",
+        "title": "Here’s how researchers in Asia-Pacific are using AlphaFold",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AlphaFold_-_APAC_Keyword_Header.max-600x600.format-webp.webp",
+        "author": "Rachel Teo",
+        "track": null,
+        "description": "Learn more about AlphaFold, Google’s AI system that accurately predicts protein structures.",
+        "published_date": "2025-11-26 23:00:00",
+        "summary": "Google DeepMind's AlphaFold AI system has significantly impacted research across the Asia Pacific over five years, enabling scientists to predict protein structures for advancements in fields like malaria, drug discovery, and cancer treatment. Researchers from institutions such as Osaka University and the Indian Institute of Science have utilized AlphaFold for diverse applications, including developing new anti-malaria drugs and understanding antibiotic resistance. This widespread adoption highlights AlphaFold's role as a publicly available tool for global scientific progress.",
+        "tools": [
+            "Google DeepMind",
+            "AlphaFold"
+        ],
+        "tags": [
+            "AlphaFold",
+            "DeepMind",
+            "Protein Structure Prediction",
+            "Drug Discovery",
+            "Malaria Research",
+            "Cancer Research",
+            "Asia Pacific",
+            "AI in Science"
+        ]
+    },
+    {
+        "website": "GOOGLE_TECHNOLOGY_BLOG",
+        "link": "https://blog.google/technology/ai/sundar-pichai-ai-release-notes-podcast/",
+        "title": "Get an in-depth look at Gemini 3 with CEO Sundar Pichai.",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Release_Notes_Sundar_Pichai_003.max-600x600.format-webp.webp",
+        "author": null,
+        "track": null,
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Release_Notes_Sundar_Pichai_003.max-600x600.format-webp.webp\" />Sundar Pichai sits down with Logan Kilpatrick to discuss Gemini 3 on the Google AI: Release Notes podcast.",
+        "published_date": "2025-11-25 23:39:00",
+        "summary": "Sundar Pichai, Google's CEO, discussed the rapid evolution of AI and Google's approach to its development on an 'AI Release Notes' podcast, highlighting new models like Gemini 1.5 Pro. He emphasized Google's commitment to responsible AI deployment across products such as Search, and detailed how AI is fundamentally changing Google's work and enabling new user experiences. The discussion underscored the foundational impact of multimodal AI and the importance of open-sourcing models for broader innovation.",
+        "tools": [
+            "Gemini 1.5 Pro",
+            "Google Search"
+        ],
+        "tags": [
+            "AI",
+            "Sundar Pichai",
+            "Gemini",
+            "Generative AI",
+            "Google",
+            "Technology",
+            "AI Ethics",
+            "Multimodal AI"
+        ]
+    },
+    {
+        "website": "GOOGLE_TECHNOLOGY_BLOG",
+        "link": "https://blog.google/technology/ai/holiday-planning-ai-gemini-tips/",
+        "title": "The Google guide for holiday help",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Holiday_Collection_header.max-600x600.format-webp.webp",
+        "author": null,
+        "track": null,
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Holiday_Collection_header.max-600x600.format-webp.webp\" />Learn more about using Google products like Gemini, Search, Shopping, Pixel and more over the holidays.",
+        "published_date": "2025-11-25 18:00:00",
+        "summary": "Google's AI assistant, Gemini, offers comprehensive support for holiday planning, from generating gift ideas and travel itineraries to crafting meal plans and festive recipes. Users can leverage Gemini to streamline tasks such as finding unique experiences, organizing grocery lists, and even sharing ideas with friends via Google Chat. The integration of Gemini across various Google products enhances its utility for a seamless and stress-free holiday season.",
+        "tools": [
+            "Gemini",
+            "Google Chat",
+            "Google Photos",
+            "Google Maps"
+        ],
+        "tags": [
+            "Gemini",
+            "Holiday Planning",
+            "AI Assistants",
+            "Productivity",
+            "Travel Planning",
+            "Recipes",
+            "Gift Ideas",
+            "Event Planning"
+        ]
+    },
+    {
+        "website": "GOOGLE_TECHNOLOGY_BLOG",
+        "link": "https://blog.google/technology/google-labs/flow-refine-videos/",
+        "title": "4 ways to refine your content in Flow",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Changetheweather_social.max-600x600.format-webp.webp",
+        "author": "Anika Ahluwalia",
+        "track": null,
+        "description": "You’ll now get more creative control in Flow with new refinement and editing capabilities.",
+        "published_date": "2025-11-25 17:40:00",
+        "summary": "Google Labs has unveiled 'Flow & Refine,' a new research project in generative AI designed to provide users with real-time, iterative control over video creation. This innovative system allows for immediate adjustments to video content as it's being generated, offering unprecedented flexibility and precision in creative workflows. 'Flow & Refine' aims to transform video production by making advanced AI generation tools more accessible and responsive to user input.",
+        "tools": [
+            "Google Labs",
+            "Flow & Refine"
+        ],
+        "tags": [
+            "Google Labs",
+            "Video Generation",
+            "Generative AI",
+            "AI Research",
+            "Machine Learning",
+            "Real-time AI",
+            "Content Creation"
+        ]
+    },
+    {
+        "website": "GOOGLE_TECHNOLOGY_BLOG",
+        "link": "https://blog.google/products/google-cloud/ironwood-google-tpu-things-to-know/",
+        "title": "3 things to know about Ironwood, our latest TPU",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ironwood-hero.max-600x600.format-webp.webp",
+        "author": "Ari Marini",
+        "track": null,
+        "description": "Google’s seventh-gen Tensor Processing Unit is here! Learn what makes Ironwood our most powerful and energy-efficient custom silicon to date.",
+        "published_date": "2025-11-25 16:00:00",
+        "summary": "Google Cloud has launched Ironwood, its latest Tensor Processing Unit (TPU), specifically designed to accelerate AI model training and inference with enhanced performance and efficiency. Ironwood TPUs are engineered for demanding generative AI workloads and large language models, providing up to twice the performance per dollar compared to previous generations. This new infrastructure aims to reduce training times and operational costs, making advanced AI capabilities more accessible for developers and enterprises on Google Cloud.",
+        "tools": [
+            "Google Cloud TPU",
+            "Google Cloud"
+        ],
+        "tags": [
+            "Google Cloud",
+            "TPU",
+            "AI Infrastructure",
+            "Machine Learning",
+            "Generative AI",
+            "Large Language Models",
+            "Cloud Computing",
+            "Hardware"
+        ]
+    },
+    {
+        "website": "GOOGLE_TECHNOLOGY_BLOG",
+        "link": "https://blog.google/technology/google-deepmind/the-thinking-game/",
+        "title": "Watch ‘The Thinking Game,’ a documentary about Google DeepMind, for free on YouTube.",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/The_Thinking_Game-Tribeca_with_.max-600x600.format-webp.webp",
+        "author": null,
+        "track": null,
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/The_Thinking_Game-Tribeca_with_.max-600x600.format-webp.webp\" />We’re bringing “The Thinking Game\" to the Google DeepMind YouTube channel.",
+        "published_date": "2025-11-25 16:00:00",
+        "summary": "Google DeepMind's AlphaZero, an AI system, has developed a 'thinking process' that allows it to master complex games like chess, Go, and shogi without human input, learning solely through self-play. This breakthrough demonstrates how AI can achieve superhuman performance by optimizing its decision-making based on deep search and evaluation, rather than brute force. AlphaZero's method of combining reinforcement learning with deep neural networks has broad implications for AI reasoning and problem-solving beyond games.",
+        "tools": [
+            "Google DeepMind",
+            "AlphaZero"
+        ],
+        "tags": [
+            "Google DeepMind",
+            "AlphaZero",
+            "AI",
+            "Machine Learning",
+            "Game AI",
+            "Reinforcement Learning",
+            "Chess",
+            "Go"
+        ]
+    },
+    {
+        "website": "GOOGLE_TECHNOLOGY_BLOG",
+        "link": "https://blog.google/technology/google-labs/accel-atoms-ai-futures-fund/",
+        "title": "Google’s AI Futures Fund and Accel Atoms are launching a program to accelerate AI innovation in India.",
+        "thumbnail": "https://i.ytimg.com/vi_webp/WZCJmcq6oHg/maxresdefault.webp",
+        "author": null,
+        "track": null,
+        "description": "",
+        "published_date": "2025-11-25 00:30:00",
+        "summary": "Google Labs has partnered with Accel to launch the 'AI Futures Fund,' a new initiative designed to support early-stage startups that are building with Google's AI models and infrastructure. This fund will provide capital, mentorship, and access to Google's cutting-edge AI technologies, including Gemini and Imagen, to accelerate innovation in the generative AI space. The collaboration aims to foster a robust ecosystem of AI-powered applications and services, leveraging Google Cloud's capabilities.",
+        "tools": [
+            "Google Labs",
+            "Gemini",
+            "Imagen",
+            "Google Cloud"
+        ],
+        "tags": [
+            "AI Startups",
+            "Venture Capital",
+            "Accel",
+            "Google Labs",
+            "Generative AI",
+            "Startup Funding",
+            "Machine Learning",
+            "Ecosystem"
+        ]
+    },
+    {
+        "website": "GOOGLE_TECHNOLOGY_BLOG",
+        "link": "https://blog.google/products/pixel/google-holiday-hosting-tips-2024/",
+        "title": "16 Google AI tips for stress-free holiday hosting in 2025",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_AI_holiday_hosting_tips.max-600x600.format-webp.webp",
+        "author": "Molly McHugh-Johnson",
+        "track": null,
+        "description": "Use Gemini, Search, Pixel and more to make holiday planning feel effortless in 2025.",
+        "published_date": "2025-11-21 16:00:00",
+        "summary": "Google's Pixel phones and AI features offer seamless solutions for holiday hosting, allowing users to capture perfect moments with tools like Best Take, Magic Editor, and Photo Unblur. Gemini can assist with planning, generating recipes, or crafting festive playlists, while Google Photos provides easy sharing and organization of cherished memories. These integrated Google services and Pixel capabilities aim to simplify event planning and enhance the holiday experience.",
+        "tools": [
+            "Pixel",
+            "Google Photos",
+            "Gemini",
+            "Magic Editor",
+            "Photo Unblur",
+            "Best Take"
+        ],
+        "tags": [
+            "Pixel",
+            "Google Photos",
+            "Holiday Planning",
+            "AI Photography",
+            "Image Editing",
+            "Smartphone Features",
+            "Gemini",
+            "Event Planning"
+        ]
+    },
+    {
+        "website": "GOOGLE_TECHNOLOGY_BLOG",
+        "link": "https://blog.google/outreach-initiatives/education/gemini-interactive-images/",
+        "title": "Develop a deeper understanding with interactive images in Gemini.",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/wagtailvideo-e6k80n42_thumb.jpg",
+        "author": "Dave Messer",
+        "track": null,
+        "description": "",
+        "published_date": "2025-11-20 20:30:00",
+        "summary": "Gemini has introduced a new feature that allows users to interact with and ask questions about images they upload, transforming visual content into an interactive learning experience. This capability enables users to identify objects, solve problems, and gain deeper insights directly from images, making it a valuable tool for education and exploration. The interactive image functionality enhances Gemini's multimodal understanding, providing a more engaging way to process and learn from visual information.",
+        "tools": [
+            "Gemini"
+        ],
+        "tags": [
+            "Gemini",
+            "Interactive Images",
+            "AI Education",
+            "Visual AI",
+            "Problem Solving",
+            "Object Recognition",
+            "Generative AI",
+            "Multimodal AI"
+        ]
+    },
+    {
+        "website": "GOOGLE_TECHNOLOGY_BLOG",
+        "link": "https://blog.google/technology/ai/ai-image-verification-gemini-app/",
+        "title": "How we’re bringing AI image verification to the Gemini app",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Labs_SynthID_Keyword_Blog_Heade.max-600x600.format-webp.webp",
+        "author": "Laurie Richardson",
+        "track": null,
+        "description": "Our new Gemini app feature allows you to verify Google AI images and determine whether content was created or edited by AI.",
+        "published_date": "2025-11-20 15:00:00",
+        "summary": "The Gemini app is introducing an AI-powered image verification feature to help users identify potentially manipulated or AI-generated images, enhancing media literacy and combating misinformation. This tool leverages Google Search to provide contextual information and verify image authenticity, empowering users to make more informed judgments about the content they encounter. Google's initiative aims to provide transparency and build trust in the digital age, especially amidst the rise of generative AI.",
+        "tools": [
+            "Gemini",
+            "Google Search"
+        ],
+        "tags": [
+            "Gemini",
+            "Image Verification",
+            "AI Ethics",
+            "Misinformation",
+            "Deepfakes",
+            "Generative AI",
+            "Content Authenticity",
+            "Media Literacy"
+        ]
+    },
+    {
+        "website": "GOOGLE_TECHNOLOGY_BLOG",
+        "link": "https://blog.google/technology/developers/gemini-3-pro-image-developers/",
+        "title": "Build with Nano Banana Pro, our Gemini 3 Pro Image model",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Buildwithnano_hero.max-600x600.format-webp.webp",
+        "author": "Naina Raisinghani",
+        "track": null,
+        "description": "Nano Banana Pro, or Gemini 3 Pro Image, is our most advanced image generation and editing model.",
+        "published_date": "2025-11-20 15:00:00",
+        "summary": "Gemini 1.5 Pro is now available for developers via Google AI Studio and Vertex AI, offering enhanced visual understanding capabilities for analyzing images, videos, and audio. This advanced multimodal model supports a massive 1-million-token context window, enabling developers to process and reason over extensive data inputs. The expanded access empowers developers to build sophisticated AI applications that deeply understand and interact with complex visual and auditory information.",
+        "tools": [
+            "Gemini 1.5 Pro",
+            "Google AI Studio",
+            "Vertex AI",
+            "Google Cloud"
+        ],
+        "tags": [
+            "Gemini 1.5 Pro",
+            "Developers",
+            "Google AI Studio",
+            "Vertex AI",
+            "Multimodal AI",
+            "Generative AI",
+            "Visual Understanding",
+            "AI Development",
+            "Large Language Models"
+        ]
+    },
+    {
+        "website": "GOOGLE_TECHNOLOGY_BLOG",
+        "link": "https://blog.google/technology/ai/nano-banana-pro/",
+        "title": "Introducing Nano Banana Pro",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/nanobananaprohero.max-600x600.format-webp.webp",
+        "author": "Naina Raisinghani",
+        "track": null,
+        "description": "Nano Banana Pro is our new image generation and editing model from Google DeepMind.",
+        "published_date": "2025-11-20 15:00:00",
+        "summary": "Google's Gemini Nano, a highly efficient on-device AI model, is expanding to the Pixel 8a and other Android devices, enhancing features like summarization in Recorder and Smart Reply. This rollout brings powerful generative AI capabilities directly to smartphones, allowing for faster and more private processing of tasks without relying solely on cloud connectivity. Additionally, Gemini 1.5 Pro is being integrated into various Google products and services for more complex AI-driven functionalities.",
+        "tools": [
+            "Gemini Nano",
+            "Pixel 8a",
+            "Android",
+            "Gemini 1.5 Pro",
+            "Recorder",
+            "Smart Reply"
+        ],
+        "tags": [
+            "Gemini Nano",
+            "Pixel 8a",
+            "On-device AI",
+            "Android",
+            "Smart Reply",
+            "Summarization",
+            "Mobile AI",
+            "Generative AI"
+        ]
+    },
+    {
+        "website": "GOOGLE_TECHNOLOGY_BLOG",
+        "link": "https://blog.google/products/google-cloud/westinghouse/",
+        "title": "How Westinghouse is reenergizing nuclear power with — and for — AI",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Westinghouse-vogtle-plant-georg.max-600x600.format-webp.webp",
+        "author": "Matt A.V. Chaban",
+        "track": null,
+        "description": "Westinghouse has partnered with Google Cloud to develop a custom AI-powered platform.",
+        "published_date": "2025-11-20 14:00:00",
+        "summary": "Westinghouse Electric Company has selected Google Cloud to modernize its global operations, leveraging its robust infrastructure, AI/ML capabilities, and Google Workspace for enhanced collaboration and data analytics. This digital transformation aims to optimize Westinghouse's nuclear power plant design and engineering processes, improve supply chain management, and foster greater efficiency across its workforce. The partnership underscores Google Cloud's role in enabling critical infrastructure sectors with advanced cloud solutions.",
+        "tools": [
+            "Google Cloud",
+            "Google Workspace",
+            "Google Docs",
+            "Google Sheets",
+            "Google Meet",
+            "Google Chat",
+            "Google Drive"
+        ],
+        "tags": [
+            "Google Cloud",
+            "Westinghouse",
+            "Cloud Migration",
+            "Digital Transformation",
+            "Nuclear Energy",
+            "Data Analytics",
+            "AI/ML",
+            "Enterprise Technology",
+            "Supply Chain Management"
+        ]
+    },
+    {
+        "website": "GOOGLE_TECHNOLOGY_BLOG",
+        "link": "https://blog.google/technology/research/ai-collaboration-poland-2025/",
+        "title": "At our Research@ Poland event we shared how AI is helping us solve big challenges.",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/researchpoland_social.max-600x600.format-webp.webp",
+        "author": null,
+        "track": null,
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/researchpoland_social.max-600x600.format-webp.webp\" />From AI education to disaster response, see how collaboration is at the heart of the work at Google Research.",
+        "published_date": "2025-11-19 09:00:00",
+        "summary": "Google is strengthening its collaboration with Polish institutions, including the National Information Processing Institute (OPI) and Poznań Supercomputing and Networking Center (PSNC), to establish an AI Research Center in Poland by 2025. This initiative aims to foster advanced AI research, talent development, and accelerate scientific discovery within the region. The center will focus on leveraging AI to address complex challenges across various scientific domains, aligning with Google's global AI research efforts.",
+        "tools": [],
+        "tags": [
+            "AI Research",
+            "Poland",
+            "Academic Partnership",
+            "National Information Processing Institute",
+            "Poznań Supercomputing and Networking Center",
+            "Europe",
+            "AI for Science",
+            "Talent Development"
+        ]
+    },
+    {
+        "website": "GOOGLE_TECHNOLOGY_BLOG",
+        "link": "https://blog.google/technology/families/google-approach-online-age-verification/",
+        "title": "A conversation on smarter and safer age assurance for Europe",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/europe_digital_security_hero.max-600x600.format-webp.webp",
+        "author": "Annette Kroeber-Riel",
+        "track": null,
+        "description": "Google outlines a risk-based approach to age verification that protects teens online without sacrificing privacy or access for everyone.",
+        "published_date": "2025-11-19 06:00:00",
+        "summary": "Google is enhancing its approach to online age verification to better protect minors across its platforms, implementing measures that balance safety with privacy. This involves working with regulators, using AI, and developing privacy-preserving technologies to determine user age and provide age-appropriate content experiences. YouTube, for example, already employs age restrictions for certain content, demonstrating Google's commitment to creating safer online environments for younger users.",
+        "tools": [
+            "YouTube"
+        ],
+        "tags": [
+            "Age Verification",
+            "Online Safety",
+            "Child Protection",
+            "Privacy",
+            "AI Ethics",
+            "Content Moderation",
+            "YouTube",
+            "Regulations"
+        ]
+    },
+    {
+        "website": "GOOGLE_TECHNOLOGY_BLOG",
+        "link": "https://blog.google/around-the-globe/google-asia/google-deepmind-is-opening-a-new-ai-research-lab-in-singapore-to-advance-ai-in-asia-pacific/",
+        "title": "Google DeepMind is opening a new AI research lab in Singapore to advance AI in Asia Pacific.",
+        "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Panellists_from_Google_DeepMind.max-600x600.format-webp.webp",
+        "author": null,
+        "track": null,
+        "description": "",
+        "published_date": "2025-11-19 02:30:00",
+        "summary": "Google DeepMind is opening a new AI research lab in Singapore, led by renowned AI researcher Prof. Hui Xiong, to advance foundational AI research and talent development across the Asia Pacific region. This lab will focus on contributing to Google DeepMind's global mission while addressing local challenges and fostering a vibrant AI ecosystem in Singapore. The initiative underscores Google's commitment to expanding its global AI footprint and collaborating with regional academic and research communities.",
+        "tools": [
+            "Google DeepMind"
+        ],
+        "tags": [
+            "Google DeepMind",
+            "AI Research",
+            "Singapore",
+            "Asia Pacific",
+            "Academic Partnership",
+            "Talent Development",
+            "Foundational AI",
+            "Global Expansion"
+        ]
+    },
+    {
+        "website": "GOOGLE_TECHNOLOGY_BLOG",
         "link": "https://blog.google/technology/developers/gemini-3-developers/",
         "title": "Start building with Gemini 3",
         "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/StartBuildingwithGemini_Header.max-600x600.format-webp.webp",
