@@ -1,6 +1,26 @@
 [
     {
         "website": "GOOGLE_RESEARCH_BLOG",
+        "link": "https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/",
+        "title": "Titans + MIRAS: Helping AI have long-term memory",
+        "thumbnail": "https://storage.googleapis.com/gweb-research2023-media/original_images/Titans-0-Hero.png",
+        "author": null,
+        "track": null,
+        "description": "Generative AI",
+        "published_date": "2025-12-04 19:26:09"
+    },
+    {
+        "website": "GOOGLE_RESEARCH_BLOG",
+        "link": "https://research.google/blog/from-waveforms-to-wisdom-the-new-benchmark-for-auditory-intelligence/",
+        "title": "From Waveforms to Wisdom: The New Benchmark for Auditory Intelligence",
+        "thumbnail": "https://storage.googleapis.com/gweb-research2023-media/original_images/MSEB_Hero.png",
+        "author": null,
+        "track": null,
+        "description": "Machine Intelligence",
+        "published_date": "2025-12-03 22:47:00"
+    },
+    {
+        "website": "GOOGLE_RESEARCH_BLOG",
         "link": "https://research.google/blog/reducing-ev-range-anxiety-how-a-simple-ai-model-predicts-port-availability/",
         "title": "Reducing EV range anxiety: How a simple AI model predicts port availability",
         "thumbnail": "https://storage.googleapis.com/gweb-research2023-media/original_images/EVCharging-0-HeroStill.png",

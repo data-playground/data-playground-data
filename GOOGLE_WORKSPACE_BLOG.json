@@ -1,6 +1,149 @@
 [
     {
         "website": "GOOGLE_WORKSPACE_BLOG",
+        "link": "https://workspace.google.com/blog/ai-and-machine-learning/beyond-the-hype-5-practical-ways-to-use-ai-powered-visual-content",
+        "title": "Beyond the hype: 5 practical ways to use AI-powered visual content at work",
+        "thumbnail": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Creative_best_practices_blog_Header.max-700x700.png",
+        "author": "Vishnu Sivaji",
+        "read_time": "4-minute",
+        "track": "ai and machine learning",
+        "description": "Learn 5 practical ways businesses can use Nano Banana Pro and Veo 3.1 in Google Workspace to enhance campaigns, presentations, and training.",
+        "published_date": "2025-12-10 22:12:00",
+        "summary": "This Google Workspace blog post details five practical applications of AI in visual content, showcasing how generative AI features enhance productivity and collaboration across various industries. It highlights AI's role in streamlining content creation within Google Slides, intelligent organization in Google Photos, and dynamic presentations in Google Meet, aiding teams from marketing to education. These AI-powered tools empower users to quickly generate professional-quality visuals, summarize information, and improve content accessibility, making visual communication more impactful and efficient.",
+        "tools": [
+            "Google Workspace",
+            "Google Slides",
+            "Google Photos",
+            "Google Meet",
+            "Gemini"
+        ],
+        "tags": [
+            "AI",
+            "Visual Content Creation",
+            "Generative AI",
+            "Workplace Productivity",
+            "Collaboration",
+            "Digital Marketing",
+            "Education Technology",
+            "Content Management"
+        ]
+    },
+    {
+        "website": "GOOGLE_WORKSPACE_BLOG",
+        "link": "https://workspace.google.com/blog/ai-and-machine-learning/research-ai-beyond-time-savings",
+        "title": "The AI disconnect: How leaders can translate optimism into measurable impact",
+        "thumbnail": "https://storage.googleapis.com/gweb-cloudblog-publish/images/26418_AI_leadership_blog_header_Option_1.max-1800x1800.png",
+        "author": "Derek Snyder",
+        "read_time": "4-minute",
+        "track": "ai and machine learning",
+        "description": "Learn why time savings are just the starting point of AI transformation. Discover the 5 steps leaders can take to translate AI optimism into significant business impact.",
+        "published_date": "2025-12-09 20:12:00",
+        "summary": "Google's research, involving Dr. Amy Stapleton and Google DeepMind, explores how AI, particularly Gemini in Workspace, can foster creativity, critical thinking, and innovation rather than merely saving time. The study highlights AI's potential to augment human capabilities, allowing users to move beyond routine tasks and engage in deeper problem-solving and strategic work. This perspective shifts the focus from AI as a mere efficiency tool to a catalyst for enhanced human intelligence and novel solutions.",
+        "tools": [
+            "Gemini",
+            "Google Workspace",
+            "Google DeepMind",
+            "AI Test Kitchen"
+        ],
+        "tags": [
+            "AI",
+            "Machine Learning",
+            "Productivity",
+            "Innovation",
+            "Cognitive Science",
+            "Future of Work",
+            "Research",
+            "Creativity"
+        ]
+    },
+    {
+        "website": "GOOGLE_WORKSPACE_BLOG",
+        "link": "https://workspace.google.com/blog/customer-stories/google-workspace-is-the-new-default-for-the-carbon-group",
+        "title": "Google Workspace is the “new default” for The Carbon Group's fractional C-suite services",
+        "thumbnail": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Hero_oyQxBot.max-700x700.jpg",
+        "author": "Alex DiNunzio",
+        "read_time": "3-minute",
+        "track": "customer stories",
+        "description": "The Carbon Group uses Google Workspace and Gemini to provide fractional C-suite services, helping early-stage startups standardize, secure their data, and achieve 2x growth.",
+        "published_date": "2025-12-08 23:12:00",
+        "summary": "The Carbon Group, an Australian financial services firm, transitioned 180 employees from Microsoft to Google Workspace, standardizing on tools like Google Sheets, Drive, Meet, Gmail, and Docs. This move significantly improved collaboration, security, and productivity across their 13 offices, enabling real-time file sharing, streamlined communication, and efficient onboarding of new team members. The shift has made Google Workspace the company's default platform, centralizing operations and enhancing the hybrid work experience.",
+        "tools": [
+            "Google Workspace",
+            "Google Sheets",
+            "Google Drive",
+            "Google Meet",
+            "Gmail",
+            "Google Docs"
+        ],
+        "tags": [
+            "Customer Story",
+            "Financial Services",
+            "Accounting",
+            "Cloud Collaboration",
+            "Productivity",
+            "Digital Transformation",
+            "Hybrid Work",
+            "Security"
+        ]
+    },
+    {
+        "website": "GOOGLE_WORKSPACE_BLOG",
+        "link": "https://workspace.google.com/blog/product-announcements/introducing-google-workspace-studio-agents-for-everyday-work",
+        "title": "Introducing Google Workspace Studio: Automate everyday work with AI agents",
+        "thumbnail": "https://storage.googleapis.com/gweb-cloudblog-publish/images/25480_WorkflowsDemos_BlogHeader_Graphicx2.max-700x700.png",
+        "author": "Farhaz Karmali",
+        "read_time": "4-minute",
+        "track": "product announcements",
+        "description": "Design, manage, and share AI agents in Google Workspace Studio to automate tasks and complex workflows using Gemini 3.",
+        "published_date": "2025-12-03 20:12:00",
+        "summary": "Google Workspace is introducing Google Workspace Studio and Agents, enabling organizations to build custom AI agents powered by Gemini to automate routine tasks and enhance productivity across various departments. These low-code/no-code agents, leveraging Google Cloud's AppSheet and Vertex AI, can perform functions like managing customer support requests, onboarding employees, or analyzing data within Workspace applications. The initiative aims to democratize AI development, allowing businesses to create tailored solutions for specific workflows without extensive coding expertise.",
+        "tools": [
+            "Google Workspace Studio",
+            "Google Workspace",
+            "Gemini",
+            "Google Cloud",
+            "AppSheet",
+            "Vertex AI"
+        ],
+        "tags": [
+            "AI Agents",
+            "Product Announcement",
+            "Low-code Development",
+            "Automation",
+            "Business Applications",
+            "Enterprise AI",
+            "Custom Solutions",
+            "Productivity"
+        ]
+    },
+    {
+        "website": "GOOGLE_WORKSPACE_BLOG",
+        "link": "https://workspace.google.com/blog/ai-and-machine-learning/10-best-practices-for-deploying-ai-at-scale",
+        "title": "10 best practices for deploying AI at scale",
+        "thumbnail": "https://storage.googleapis.com/gweb-cloudblog-publish/images/5492h_LI_Newsletter_Deploying_AI_at_Scale_Bl.max-700x700.jpg",
+        "author": "Pat Day",
+        "read_time": "3-minute",
+        "track": "ai and machine learning",
+        "description": "Learn 10 essential best practices for successful AI deployment at scale, covering cultural alignment, governance, use case selection, and driving adoption.",
+        "published_date": "2025-12-02 20:12:00",
+        "summary": "Deploying AI at scale requires a strategic, enterprise-wide approach that extends beyond initial pilot projects, focusing on responsible AI practices, data governance, and robust change management. Key best practices include embedding AI into organizational culture, developing a clear AI strategy, establishing strong data foundations, and continuously monitoring AI model performance and impact. Google Workspace and Gemini can facilitate this scaling by providing integrated tools, but success ultimately hinges on a comprehensive strategy addressing both technological and human aspects of AI adoption.",
+        "tools": [
+            "Google Workspace",
+            "Gemini"
+        ],
+        "tags": [
+            "AI Strategy",
+            "Enterprise AI",
+            "AI Adoption",
+            "Machine Learning",
+            "Best Practices",
+            "Digital Transformation",
+            "Data Governance",
+            "Responsible AI"
+        ]
+    },
+    {
+        "website": "GOOGLE_WORKSPACE_BLOG",
         "link": "https://workspace.google.com/blog/customer-stories/how-bison-coolers-relies-on-google-to-run-its-family-business",
         "title": "How Bison Coolers relies on Google to run its family business",
         "thumbnail": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Bison_Coolers_Blog_Header_2_150kb.max-700x700.jpg",
